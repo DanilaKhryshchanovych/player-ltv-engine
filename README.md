@@ -6,9 +6,15 @@ End-to-end analysis of 5,000 casino players identifying the acquisition channels
 
 LuckyEdge Casino's customer acquisition cost rose 34% QoQ while 90-day LTV remained flat. Of 5,000 registered players generating $144,636 in total 90-day GGR, the distribution of value is so skewed that blended LTV metrics hide the real opportunity: most revenue comes from a small, identifiable segment that behaves differently from day one.
 
-## Key Finding
+## Key Findings
 
-**The top 20% of players (1,000 of 5,000) generated 81.1% of total 90-day GGR — $117,260 of $144,636. The bottom 50% contributed less than 2%.**
+**1. Revenue is hyper-concentrated.** The top 20% of players (1,000 of 5,000) generated 81.1% of total 90-day GGR — $117,260 of $144,636. The bottom 50% contributed less than 2% ($1.16 avg LTV).
+
+**2. Retention collapses in the D7–D30 window.** Average retention falls from 57.0% (D1) → 39.4% (D7) → 15.9% (D30) across 21 cohorts. The D7–D30 window accounts for ~60% of all churn — the highest-leverage intervention zone.
+
+**3. High-LTV players are identifiable by Day 7.** High-LTV players average 3.0× the bet size of Low-LTV players within the first week ($1.28 vs $0.42) and place 2.1× more bets (193.5 vs 93.8). Bet size is the sharpest early discriminator and is observable before the D7–D30 churn wave.
+
+**4. Crypto channel delivers 2.4× the LTV of bank transfer.** Crypto-channel players represent 10% of the base but generate 19% of total GGR ($27,495), with a median 90-day LTV of $11.94 vs $5.03 for bank transfer and the highest conversion rate in the dataset (74.1% vs 54.4%).
 
 ## Recommendation
 
