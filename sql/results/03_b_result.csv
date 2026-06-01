@@ -1,0 +1,22 @@
+rfm_segment,actual_segment,player_count,pct_of_rfm_segment,exact_match_pct
+At Risk,At Risk,251,52.95,100.0
+At Risk,Promising,142,29.96,0.0
+At Risk,Hibernating,42,8.86,0.0
+At Risk,Loyal,7,1.48,0.0
+At Risk,Champions,3,0.63,0.0
+Champions,Loyal,605,50.0,0.0
+Champions,Promising,241,19.92,0.0
+Champions,Champions,221,18.26,100.0
+Champions,At Risk,142,11.74,0.0
+Champions,Hibernating,4,0.33,0.0
+Hibernating,Hibernating,1032,77.89,100.0
+Hibernating,At Risk,248,18.72,0.0
+Hibernating,Promising,80,6.04,0.0
+Loyal,At Risk,525,36.11,0.0
+Loyal,Promising,516,35.49,0.0
+Loyal,Hibernating,260,17.88,0.0
+Loyal,Loyal,138,9.49,100.0
+Loyal,Champions,26,1.79,0.0
+Promising,Hibernating,412,76.72,0.0
+Promising,At Risk,84,15.64,0.0
+Promising,Promising,21,3.91,100.0

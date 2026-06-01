@@ -1,0 +1,4 @@
+ltv_tier,player_count,avg_bets_d7,avg_unique_games_d7,avg_bet_size_d7,avg_sessions_d7,avg_deposits_d7,avg_ltv_90d
+High,1000,193.5,5.67,1.28,5.79,1.99,117.26
+Mid,1500,163.31,4.76,0.54,4.82,1.18,16.32
+Low,2500,93.77,2.84,0.42,2.86,1.06,1.16

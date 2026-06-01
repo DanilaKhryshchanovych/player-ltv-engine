@@ -1,0 +1,5 @@
+deposit_channel,total_players,paying_players,conversion_rate_pct,avg_ltv_90d,median_ltv_90d,total_ggr_90d,avg_deposits_per_player,avg_deposit_volume_90d
+crypto,502,372,74.1,54.77,11.94,27494.54,2.31,182.64
+ewallet,1598,1021,63.9,30.03,7.82,47987.94,1.47,86.73
+card,1904,1143,60.0,26.96,7.14,51331.84,1.38,74.52
+bank_transfer,996,542,54.4,17.88,5.03,17810.16,1.22,62.44

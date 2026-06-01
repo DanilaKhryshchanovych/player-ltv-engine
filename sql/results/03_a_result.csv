@@ -1,0 +1,5001 @@
+player_id,r_score,f_score,m_score,rfm_total,rfm_segment,actual_segment
+2,5,5,5,15,Champions,Champions
+4,5,5,5,15,Champions,Champions
+11,5,5,5,15,Champions,Champions
+14,5,5,5,15,Champions,Champions
+20,5,5,5,15,Champions,Champions
+21,5,5,5,15,Champions,Champions
+48,5,5,5,15,Champions,Champions
+49,5,5,5,15,Champions,Champions
+61,5,5,5,15,Champions,Champions
+67,5,5,5,15,Champions,Champions
+69,5,5,5,15,Champions,Champions
+71,5,5,5,15,Champions,Champions
+72,5,5,5,15,Champions,Champions
+85,5,5,5,15,Champions,Champions
+86,5,5,5,15,Champions,Champions
+91,5,5,5,15,Champions,Champions
+93,5,5,5,15,Champions,Champions
+103,5,5,5,15,Champions,Champions
+109,5,5,5,15,Champions,Champions
+112,5,5,5,15,Champions,Champions
+120,5,5,5,15,Champions,Champions
+124,5,5,5,15,Champions,Champions
+131,5,5,5,15,Champions,Champions
+134,5,5,5,15,Champions,Champions
+145,5,5,5,15,Champions,Champions
+147,5,5,5,15,Champions,Champions
+148,5,5,5,15,Champions,Champions
+149,5,5,5,15,Champions,Champions
+153,5,5,5,15,Champions,Champions
+156,5,5,5,15,Champions,Champions
+157,5,5,5,15,Champions,Champions
+160,5,5,5,15,Champions,Champions
+166,5,5,5,15,Champions,Champions
+167,5,5,5,15,Champions,Champions
+174,5,5,5,15,Champions,Champions
+175,5,5,5,15,Champions,Champions
+177,5,5,5,15,Champions,Champions
+178,5,5,5,15,Champions,Champions
+182,5,5,5,15,Champions,Champions
+183,5,5,5,15,Champions,Champions
+184,5,5,5,15,Champions,Champions
+188,5,5,5,15,Champions,Champions
+189,5,5,5,15,Champions,Champions
+194,5,5,5,15,Champions,Champions
+201,5,5,5,15,Champions,Champions
+206,5,5,5,15,Champions,Champions
+207,5,5,5,15,Champions,Champions
+209,5,5,5,15,Champions,Champions
+211,5,5,5,15,Champions,Champions
+214,5,5,5,15,Champions,Champions
+216,5,5,5,15,Champions,Champions
+217,5,5,5,15,Champions,Champions
+225,5,5,5,15,Champions,Champions
+226,5,5,5,15,Champions,Champions
+230,5,5,5,15,Champions,Champions
+231,5,5,5,15,Champions,Champions
+234,5,5,5,15,Champions,Champions
+239,5,5,5,15,Champions,Champions
+241,5,5,5,15,Champions,Champions
+248,5,5,5,15,Champions,Champions
+251,5,5,5,15,Champions,Loyal
+252,5,5,5,15,Champions,Loyal
+254,5,5,5,15,Champions,Loyal
+262,5,5,5,15,Champions,Loyal
+267,5,5,5,15,Champions,Loyal
+270,5,5,5,15,Champions,Loyal
+277,5,5,5,15,Champions,Loyal
+280,5,5,5,15,Champions,Loyal
+281,5,5,5,15,Champions,Loyal
+282,5,5,5,15,Champions,Loyal
+294,5,5,5,15,Champions,Loyal
+301,5,5,5,15,Champions,Loyal
+303,5,5,5,15,Champions,Loyal
+307,5,5,5,15,Champions,Loyal
+312,5,5,5,15,Champions,Loyal
+319,5,5,5,15,Champions,Loyal
+320,5,5,5,15,Champions,Loyal
+326,5,5,5,15,Champions,Loyal
+333,5,5,5,15,Champions,Loyal
+334,5,5,5,15,Champions,Loyal
+348,5,5,5,15,Champions,Loyal
+351,5,5,5,15,Champions,Loyal
+352,5,5,5,15,Champions,Loyal
+357,5,5,5,15,Champions,Loyal
+364,5,5,5,15,Champions,Loyal
+376,5,5,5,15,Champions,Loyal
+377,5,5,5,15,Champions,Loyal
+380,5,5,5,15,Champions,Loyal
+382,5,5,5,15,Champions,Loyal
+386,5,5,5,15,Champions,Loyal
+388,5,5,5,15,Champions,Loyal
+391,5,5,5,15,Champions,Loyal
+401,5,5,5,15,Champions,Loyal
+407,5,5,5,15,Champions,Loyal
+412,5,5,5,15,Champions,Loyal
+415,5,5,5,15,Champions,Loyal
+421,5,5,5,15,Champions,Loyal
+424,5,5,5,15,Champions,Loyal
+427,5,5,5,15,Champions,Loyal
+428,5,5,5,15,Champions,Loyal
+439,5,5,5,15,Champions,Loyal
+445,5,5,5,15,Champions,Loyal
+459,5,5,5,15,Champions,Loyal
+460,5,5,5,15,Champions,Loyal
+468,5,5,5,15,Champions,Loyal
+478,5,5,5,15,Champions,Loyal
+481,5,5,5,15,Champions,Loyal
+488,5,5,5,15,Champions,Loyal
+490,5,5,5,15,Champions,Loyal
+493,5,5,5,15,Champions,Loyal
+494,5,5,5,15,Champions,Loyal
+495,5,5,5,15,Champions,Loyal
+497,5,5,5,15,Champions,Loyal
+498,5,5,5,15,Champions,Loyal
+500,5,5,5,15,Champions,Loyal
+504,5,5,5,15,Champions,Loyal
+511,5,5,5,15,Champions,Loyal
+512,5,5,5,15,Champions,Loyal
+513,5,5,5,15,Champions,Loyal
+519,5,5,5,15,Champions,Loyal
+522,5,5,5,15,Champions,Loyal
+532,5,5,5,15,Champions,Loyal
+534,5,5,5,15,Champions,Loyal
+536,5,5,5,15,Champions,Loyal
+537,5,5,5,15,Champions,Loyal
+540,5,5,5,15,Champions,Loyal
+543,5,5,5,15,Champions,Loyal
+560,5,5,5,15,Champions,Loyal
+561,5,5,5,15,Champions,Loyal
+564,5,5,5,15,Champions,Loyal
+565,5,5,5,15,Champions,Loyal
+570,5,5,5,15,Champions,Loyal
+571,5,5,5,15,Champions,Loyal
+573,5,5,5,15,Champions,Loyal
+574,5,5,5,15,Champions,Loyal
+585,5,5,5,15,Champions,Loyal
+586,5,5,5,15,Champions,Loyal
+592,5,5,5,15,Champions,Loyal
+604,5,5,5,15,Champions,Loyal
+607,5,5,5,15,Champions,Loyal
+611,5,5,5,15,Champions,Loyal
+619,5,5,5,15,Champions,Loyal
+624,5,5,5,15,Champions,Loyal
+625,5,5,5,15,Champions,Loyal
+639,5,5,5,15,Champions,Loyal
+640,5,5,5,15,Champions,Loyal
+646,5,5,5,15,Champions,Loyal
+648,5,5,5,15,Champions,Loyal
+653,5,5,5,15,Champions,Loyal
+662,5,5,5,15,Champions,Loyal
+673,5,5,5,15,Champions,Loyal
+679,5,5,5,15,Champions,Loyal
+681,5,5,5,15,Champions,Loyal
+682,5,5,5,15,Champions,Loyal
+688,5,5,5,15,Champions,Loyal
+689,5,5,5,15,Champions,Loyal
+694,5,5,5,15,Champions,Loyal
+703,5,5,5,15,Champions,Loyal
+707,5,5,5,15,Champions,Loyal
+711,5,5,5,15,Champions,Loyal
+718,5,5,5,15,Champions,Loyal
+724,5,5,5,15,Champions,Loyal
+736,5,5,5,15,Champions,Loyal
+741,5,5,5,15,Champions,Loyal
+742,5,5,5,15,Champions,Loyal
+748,5,5,5,15,Champions,Loyal
+750,5,5,5,15,Champions,Loyal
+753,5,5,5,15,Champions,Loyal
+754,5,5,5,15,Champions,Loyal
+760,5,5,5,15,Champions,Loyal
+762,5,5,5,15,Champions,Loyal
+768,5,5,5,15,Champions,Loyal
+785,5,5,5,15,Champions,Loyal
+792,5,5,5,15,Champions,Loyal
+794,5,5,5,15,Champions,Loyal
+800,5,5,5,15,Champions,Loyal
+804,5,5,5,15,Champions,Loyal
+815,5,5,5,15,Champions,Loyal
+828,5,5,5,15,Champions,Loyal
+829,5,5,5,15,Champions,Loyal
+839,5,5,5,15,Champions,Loyal
+840,5,5,5,15,Champions,Loyal
+842,5,5,5,15,Champions,Loyal
+844,5,5,5,15,Champions,Loyal
+845,5,5,5,15,Champions,Loyal
+848,5,5,5,15,Champions,Loyal
+853,5,5,5,15,Champions,Loyal
+857,5,5,5,15,Champions,Loyal
+872,5,5,5,15,Champions,Loyal
+873,5,5,5,15,Champions,Loyal
+877,5,5,5,15,Champions,Loyal
+893,5,5,5,15,Champions,Loyal
+895,5,5,5,15,Champions,Loyal
+896,5,5,5,15,Champions,Loyal
+903,5,5,5,15,Champions,Loyal
+911,5,5,5,15,Champions,Loyal
+916,5,5,5,15,Champions,Loyal
+919,5,5,5,15,Champions,Loyal
+921,5,5,5,15,Champions,Loyal
+930,5,5,5,15,Champions,Loyal
+943,5,5,5,15,Champions,Loyal
+946,5,5,5,15,Champions,Loyal
+947,5,5,5,15,Champions,Loyal
+948,5,5,5,15,Champions,Loyal
+952,5,5,5,15,Champions,Loyal
+955,5,5,5,15,Champions,Loyal
+957,5,5,5,15,Champions,Loyal
+958,5,5,5,15,Champions,Loyal
+961,5,5,5,15,Champions,Loyal
+968,5,5,5,15,Champions,Loyal
+971,5,5,5,15,Champions,Loyal
+972,5,5,5,15,Champions,Loyal
+986,5,5,5,15,Champions,Loyal
+987,5,5,5,15,Champions,Loyal
+992,5,5,5,15,Champions,Loyal
+1309,5,5,5,15,Champions,Promising
+1675,5,5,5,15,Champions,Promising
+1934,5,5,5,15,Champions,Promising
+3,4,5,5,14,Champions,Champions
+7,4,5,5,14,Champions,Champions
+9,4,5,5,14,Champions,Champions
+13,4,5,5,14,Champions,Champions
+17,4,5,5,14,Champions,Champions
+24,4,5,5,14,Champions,Champions
+27,4,5,5,14,Champions,Champions
+28,4,5,5,14,Champions,Champions
+32,4,5,5,14,Champions,Champions
+36,4,5,5,14,Champions,Champions
+43,4,5,5,14,Champions,Champions
+51,4,5,5,14,Champions,Champions
+54,4,5,5,14,Champions,Champions
+58,4,5,5,14,Champions,Champions
+62,4,5,5,14,Champions,Champions
+65,4,5,5,14,Champions,Champions
+76,4,5,5,14,Champions,Champions
+80,4,5,5,14,Champions,Champions
+81,4,5,5,14,Champions,Champions
+87,5,5,4,14,Champions,Champions
+97,4,5,5,14,Champions,Champions
+100,4,5,5,14,Champions,Champions
+102,4,5,5,14,Champions,Champions
+106,4,5,5,14,Champions,Champions
+107,4,5,5,14,Champions,Champions
+111,4,5,5,14,Champions,Champions
+114,4,5,5,14,Champions,Champions
+117,4,5,5,14,Champions,Champions
+119,4,5,5,14,Champions,Champions
+122,4,5,5,14,Champions,Champions
+136,4,5,5,14,Champions,Champions
+137,4,5,5,14,Champions,Champions
+139,4,5,5,14,Champions,Champions
+141,4,5,5,14,Champions,Champions
+142,4,5,5,14,Champions,Champions
+143,4,5,5,14,Champions,Champions
+144,4,5,5,14,Champions,Champions
+146,4,5,5,14,Champions,Champions
+163,4,5,5,14,Champions,Champions
+165,4,5,5,14,Champions,Champions
+168,4,5,5,14,Champions,Champions
+173,4,5,5,14,Champions,Champions
+179,5,5,4,14,Champions,Champions
+186,4,5,5,14,Champions,Champions
+187,4,5,5,14,Champions,Champions
+190,4,5,5,14,Champions,Champions
+192,4,5,5,14,Champions,Champions
+199,4,5,5,14,Champions,Champions
+212,4,5,5,14,Champions,Champions
+229,4,5,5,14,Champions,Champions
+233,4,5,5,14,Champions,Champions
+238,4,5,5,14,Champions,Champions
+240,4,5,5,14,Champions,Champions
+244,4,5,5,14,Champions,Champions
+247,4,5,5,14,Champions,Champions
+253,4,5,5,14,Champions,Loyal
+256,4,5,5,14,Champions,Loyal
+278,5,5,4,14,Champions,Loyal
+286,5,5,4,14,Champions,Loyal
+299,4,5,5,14,Champions,Loyal
+300,4,5,5,14,Champions,Loyal
+302,4,5,5,14,Champions,Loyal
+308,4,5,5,14,Champions,Loyal
+310,4,5,5,14,Champions,Loyal
+313,4,5,5,14,Champions,Loyal
+322,4,5,5,14,Champions,Loyal
+324,4,5,5,14,Champions,Loyal
+328,5,5,4,14,Champions,Loyal
+349,4,5,5,14,Champions,Loyal
+350,4,5,5,14,Champions,Loyal
+358,4,5,5,14,Champions,Loyal
+360,4,5,5,14,Champions,Loyal
+363,5,5,4,14,Champions,Loyal
+367,4,5,5,14,Champions,Loyal
+373,4,5,5,14,Champions,Loyal
+375,4,5,5,14,Champions,Loyal
+379,4,5,5,14,Champions,Loyal
+383,5,5,4,14,Champions,Loyal
+384,4,5,5,14,Champions,Loyal
+385,4,5,5,14,Champions,Loyal
+390,4,5,5,14,Champions,Loyal
+398,4,5,5,14,Champions,Loyal
+405,4,5,5,14,Champions,Loyal
+410,5,5,4,14,Champions,Loyal
+419,4,5,5,14,Champions,Loyal
+422,5,4,5,14,Champions,Loyal
+425,4,5,5,14,Champions,Loyal
+426,4,5,5,14,Champions,Loyal
+434,4,5,5,14,Champions,Loyal
+437,4,5,5,14,Champions,Loyal
+440,4,5,5,14,Champions,Loyal
+442,5,4,5,14,Champions,Loyal
+443,5,4,5,14,Champions,Loyal
+444,4,5,5,14,Champions,Loyal
+448,4,5,5,14,Champions,Loyal
+449,4,5,5,14,Champions,Loyal
+451,4,5,5,14,Champions,Loyal
+457,4,5,5,14,Champions,Loyal
+463,4,5,5,14,Champions,Loyal
+464,4,5,5,14,Champions,Loyal
+467,4,5,5,14,Champions,Loyal
+479,4,5,5,14,Champions,Loyal
+482,4,5,5,14,Champions,Loyal
+483,4,5,5,14,Champions,Loyal
+486,4,5,5,14,Champions,Loyal
+489,4,5,5,14,Champions,Loyal
+492,5,4,5,14,Champions,Loyal
+508,5,5,4,14,Champions,Loyal
+509,4,5,5,14,Champions,Loyal
+517,4,5,5,14,Champions,Loyal
+523,4,5,5,14,Champions,Loyal
+528,4,5,5,14,Champions,Loyal
+535,4,5,5,14,Champions,Loyal
+546,4,5,5,14,Champions,Loyal
+547,4,5,5,14,Champions,Loyal
+550,4,5,5,14,Champions,Loyal
+553,4,5,5,14,Champions,Loyal
+554,5,4,5,14,Champions,Loyal
+562,4,5,5,14,Champions,Loyal
+567,4,5,5,14,Champions,Loyal
+569,4,5,5,14,Champions,Loyal
+572,4,5,5,14,Champions,Loyal
+601,4,5,5,14,Champions,Loyal
+602,4,5,5,14,Champions,Loyal
+603,4,5,5,14,Champions,Loyal
+612,4,5,5,14,Champions,Loyal
+614,5,5,4,14,Champions,Loyal
+628,4,5,5,14,Champions,Loyal
+632,4,5,5,14,Champions,Loyal
+634,5,5,4,14,Champions,Loyal
+638,4,5,5,14,Champions,Loyal
+644,4,5,5,14,Champions,Loyal
+650,4,5,5,14,Champions,Loyal
+658,4,5,5,14,Champions,Loyal
+661,4,5,5,14,Champions,Loyal
+669,4,5,5,14,Champions,Loyal
+670,4,5,5,14,Champions,Loyal
+686,4,5,5,14,Champions,Loyal
+693,4,5,5,14,Champions,Loyal
+696,5,5,4,14,Champions,Loyal
+698,4,5,5,14,Champions,Loyal
+700,4,5,5,14,Champions,Loyal
+702,4,5,5,14,Champions,Loyal
+708,5,5,4,14,Champions,Loyal
+717,4,5,5,14,Champions,Loyal
+729,4,5,5,14,Champions,Loyal
+731,4,5,5,14,Champions,Loyal
+732,4,5,5,14,Champions,Loyal
+734,4,5,5,14,Champions,Loyal
+738,4,5,5,14,Champions,Loyal
+739,4,5,5,14,Champions,Loyal
+758,4,5,5,14,Champions,Loyal
+766,4,5,5,14,Champions,Loyal
+767,4,5,5,14,Champions,Loyal
+775,4,5,5,14,Champions,Loyal
+779,4,5,5,14,Champions,Loyal
+784,4,5,5,14,Champions,Loyal
+788,4,5,5,14,Champions,Loyal
+790,4,5,5,14,Champions,Loyal
+791,4,5,5,14,Champions,Loyal
+798,4,5,5,14,Champions,Loyal
+802,5,5,4,14,Champions,Loyal
+803,4,5,5,14,Champions,Loyal
+807,4,5,5,14,Champions,Loyal
+808,4,5,5,14,Champions,Loyal
+809,5,5,4,14,Champions,Loyal
+810,5,5,4,14,Champions,Loyal
+812,4,5,5,14,Champions,Loyal
+813,4,5,5,14,Champions,Loyal
+818,4,5,5,14,Champions,Loyal
+821,4,5,5,14,Champions,Loyal
+826,4,5,5,14,Champions,Loyal
+831,4,5,5,14,Champions,Loyal
+832,4,5,5,14,Champions,Loyal
+834,4,5,5,14,Champions,Loyal
+836,4,5,5,14,Champions,Loyal
+838,4,5,5,14,Champions,Loyal
+843,4,5,5,14,Champions,Loyal
+847,4,5,5,14,Champions,Loyal
+850,4,5,5,14,Champions,Loyal
+852,5,5,4,14,Champions,Loyal
+856,4,5,5,14,Champions,Loyal
+858,4,5,5,14,Champions,Loyal
+860,4,5,5,14,Champions,Loyal
+874,4,5,5,14,Champions,Loyal
+879,4,5,5,14,Champions,Loyal
+892,4,5,5,14,Champions,Loyal
+897,4,5,5,14,Champions,Loyal
+907,4,5,5,14,Champions,Loyal
+909,4,5,5,14,Champions,Loyal
+915,4,5,5,14,Champions,Loyal
+928,4,5,5,14,Champions,Loyal
+929,4,5,5,14,Champions,Loyal
+932,5,4,5,14,Champions,Loyal
+953,4,5,5,14,Champions,Loyal
+964,4,5,5,14,Champions,Loyal
+975,4,5,5,14,Champions,Loyal
+978,4,5,5,14,Champions,Loyal
+981,4,5,5,14,Champions,Loyal
+982,4,5,5,14,Champions,Loyal
+993,5,5,4,14,Champions,Loyal
+998,4,5,5,14,Champions,Loyal
+1000,4,5,5,14,Champions,Loyal
+1012,5,4,5,14,Champions,Promising
+1066,5,4,5,14,Champions,Promising
+1090,5,5,4,14,Champions,Promising
+1107,5,4,5,14,Champions,Promising
+1124,5,4,5,14,Champions,Promising
+1142,5,4,5,14,Champions,Promising
+1149,5,5,4,14,Champions,Promising
+1226,5,4,5,14,Champions,Promising
+1276,5,4,5,14,Champions,Promising
+1317,5,4,5,14,Champions,Promising
+1365,5,4,5,14,Champions,Promising
+1368,5,5,4,14,Champions,Promising
+1405,5,4,5,14,Champions,Promising
+1418,5,4,5,14,Champions,Promising
+1467,5,4,5,14,Champions,Promising
+1482,4,5,5,14,Champions,Promising
+1539,5,4,5,14,Champions,Promising
+1558,5,4,5,14,Champions,Promising
+1725,5,4,5,14,Champions,Promising
+1921,5,4,5,14,Champions,Promising
+1943,5,4,5,14,Champions,Promising
+2145,5,4,5,14,Champions,At Risk
+2534,5,4,5,14,Champions,At Risk
+2632,5,4,5,14,Champions,At Risk
+2702,5,4,5,14,Champions,At Risk
+2922,5,4,5,14,Champions,At Risk
+3011,5,4,5,14,Champions,At Risk
+3114,5,4,5,14,Champions,At Risk
+6,3,5,5,13,Champions,Champions
+8,3,5,5,13,Champions,Champions
+15,4,5,4,13,Champions,Champions
+18,3,5,5,13,Champions,Champions
+23,3,5,5,13,Champions,Champions
+25,3,5,5,13,Champions,Champions
+29,3,5,5,13,Champions,Champions
+33,4,5,4,13,Champions,Champions
+34,3,5,5,13,Champions,Champions
+35,3,5,5,13,Champions,Champions
+38,3,5,5,13,Champions,Champions
+39,3,5,5,13,Champions,Champions
+40,3,5,5,13,Champions,Champions
+42,3,5,5,13,Champions,Champions
+45,3,5,5,13,Champions,Champions
+50,3,5,5,13,Champions,Champions
+55,3,5,5,13,Champions,Champions
+57,3,5,5,13,Champions,Champions
+59,3,5,5,13,Champions,Champions
+63,3,5,5,13,Champions,Champions
+68,3,5,5,13,Champions,Champions
+75,3,5,5,13,Champions,Champions
+79,3,5,5,13,Champions,Champions
+84,3,5,5,13,Champions,Champions
+92,3,5,5,13,Champions,Champions
+94,3,5,5,13,Champions,Champions
+99,3,5,5,13,Champions,Champions
+101,3,5,5,13,Champions,Champions
+105,3,5,5,13,Champions,Champions
+110,3,5,5,13,Champions,Champions
+113,3,5,5,13,Champions,Champions
+115,3,5,5,13,Champions,Champions
+116,3,5,5,13,Champions,Champions
+123,3,5,5,13,Champions,Champions
+125,3,5,5,13,Champions,Champions
+127,3,5,5,13,Champions,Champions
+129,3,5,5,13,Champions,Champions
+138,3,5,5,13,Champions,Champions
+140,3,5,5,13,Champions,Champions
+151,3,5,5,13,Champions,Champions
+152,3,5,5,13,Champions,Champions
+154,3,5,5,13,Champions,Champions
+155,3,5,5,13,Champions,Champions
+158,3,5,5,13,Champions,Champions
+169,3,5,5,13,Champions,Champions
+171,3,5,5,13,Champions,Champions
+176,3,5,5,13,Champions,Champions
+180,3,5,5,13,Champions,Champions
+191,3,5,5,13,Champions,Champions
+196,3,5,5,13,Champions,Champions
+197,3,5,5,13,Champions,Champions
+198,3,5,5,13,Champions,Champions
+200,3,5,5,13,Champions,Champions
+208,3,5,5,13,Champions,Champions
+210,3,5,5,13,Champions,Champions
+213,3,5,5,13,Champions,Champions
+215,3,5,5,13,Champions,Champions
+218,3,5,5,13,Champions,Champions
+219,3,5,5,13,Champions,Champions
+221,3,5,5,13,Champions,Champions
+223,3,5,5,13,Champions,Champions
+227,3,5,5,13,Champions,Champions
+228,3,5,5,13,Champions,Champions
+249,3,5,5,13,Champions,Champions
+255,3,5,5,13,Champions,Loyal
+263,3,5,5,13,Champions,Loyal
+268,3,5,5,13,Champions,Loyal
+275,3,5,5,13,Champions,Loyal
+276,3,5,5,13,Champions,Loyal
+283,4,5,4,13,Champions,Loyal
+287,3,5,5,13,Champions,Loyal
+288,3,5,5,13,Champions,Loyal
+289,3,5,5,13,Champions,Loyal
+291,3,5,5,13,Champions,Loyal
+295,3,5,5,13,Champions,Loyal
+296,3,5,5,13,Champions,Loyal
+298,3,5,5,13,Champions,Loyal
+306,3,5,5,13,Champions,Loyal
+309,3,5,5,13,Champions,Loyal
+330,3,5,5,13,Champions,Loyal
+337,4,5,4,13,Champions,Loyal
+338,3,5,5,13,Champions,Loyal
+339,3,5,5,13,Champions,Loyal
+342,3,5,5,13,Champions,Loyal
+343,3,5,5,13,Champions,Loyal
+344,4,5,4,13,Champions,Loyal
+353,3,5,5,13,Champions,Loyal
+359,3,5,5,13,Champions,Loyal
+361,3,5,5,13,Champions,Loyal
+365,3,5,5,13,Champions,Loyal
+368,3,5,5,13,Champions,Loyal
+370,3,5,5,13,Champions,Loyal
+372,3,5,5,13,Champions,Loyal
+374,5,4,4,13,Champions,Loyal
+378,4,5,4,13,Champions,Loyal
+381,3,5,5,13,Champions,Loyal
+389,3,5,5,13,Champions,Loyal
+402,3,5,5,13,Champions,Loyal
+408,3,5,5,13,Champions,Loyal
+413,3,5,5,13,Champions,Loyal
+417,3,5,5,13,Champions,Loyal
+430,3,5,5,13,Champions,Loyal
+431,3,5,5,13,Champions,Loyal
+432,3,5,5,13,Champions,Loyal
+433,3,5,5,13,Champions,Loyal
+438,3,5,5,13,Champions,Loyal
+441,3,5,5,13,Champions,Loyal
+447,3,5,5,13,Champions,Loyal
+450,3,5,5,13,Champions,Loyal
+454,3,5,5,13,Champions,Loyal
+461,4,5,4,13,Champions,Loyal
+471,3,5,5,13,Champions,Loyal
+472,3,5,5,13,Champions,Loyal
+484,3,5,5,13,Champions,Loyal
+496,3,5,5,13,Champions,Loyal
+502,4,4,5,13,Champions,Loyal
+510,3,5,5,13,Champions,Loyal
+516,4,5,4,13,Champions,Loyal
+521,4,5,4,13,Champions,Loyal
+524,3,5,5,13,Champions,Loyal
+525,3,5,5,13,Champions,Loyal
+530,3,5,5,13,Champions,Loyal
+531,3,5,5,13,Champions,Loyal
+539,4,5,4,13,Champions,Loyal
+545,3,5,5,13,Champions,Loyal
+557,3,5,5,13,Champions,Loyal
+568,3,5,5,13,Champions,Loyal
+579,3,5,5,13,Champions,Loyal
+597,3,5,5,13,Champions,Loyal
+617,3,5,5,13,Champions,Loyal
+620,3,5,5,13,Champions,Loyal
+622,3,5,5,13,Champions,Loyal
+623,3,5,5,13,Champions,Loyal
+626,3,5,5,13,Champions,Loyal
+627,3,5,5,13,Champions,Loyal
+633,3,5,5,13,Champions,Loyal
+637,3,5,5,13,Champions,Loyal
+647,3,5,5,13,Champions,Loyal
+654,3,5,5,13,Champions,Loyal
+668,3,5,5,13,Champions,Loyal
+690,3,5,5,13,Champions,Loyal
+691,3,5,5,13,Champions,Loyal
+710,3,5,5,13,Champions,Loyal
+712,3,5,5,13,Champions,Loyal
+715,4,5,4,13,Champions,Loyal
+716,3,5,5,13,Champions,Loyal
+721,3,5,5,13,Champions,Loyal
+728,3,5,5,13,Champions,Loyal
+743,3,5,5,13,Champions,Loyal
+744,3,5,5,13,Champions,Loyal
+745,3,5,5,13,Champions,Loyal
+747,5,4,4,13,Champions,Loyal
+749,3,5,5,13,Champions,Loyal
+752,3,5,5,13,Champions,Loyal
+755,3,5,5,13,Champions,Loyal
+774,3,5,5,13,Champions,Loyal
+778,3,5,5,13,Champions,Loyal
+780,3,5,5,13,Champions,Loyal
+786,3,5,5,13,Champions,Loyal
+795,3,5,5,13,Champions,Loyal
+805,3,5,5,13,Champions,Loyal
+814,3,5,5,13,Champions,Loyal
+817,3,5,5,13,Champions,Loyal
+819,3,5,5,13,Champions,Loyal
+824,3,5,5,13,Champions,Loyal
+825,3,5,5,13,Champions,Loyal
+827,5,5,3,13,Champions,Loyal
+830,4,4,5,13,Champions,Loyal
+833,4,5,4,13,Champions,Loyal
+846,3,5,5,13,Champions,Loyal
+851,3,5,5,13,Champions,Loyal
+867,3,5,5,13,Champions,Loyal
+875,3,5,5,13,Champions,Loyal
+878,3,5,5,13,Champions,Loyal
+880,4,5,4,13,Champions,Loyal
+883,3,5,5,13,Champions,Loyal
+884,3,5,5,13,Champions,Loyal
+886,3,5,5,13,Champions,Loyal
+891,3,5,5,13,Champions,Loyal
+908,4,5,4,13,Champions,Loyal
+914,3,5,5,13,Champions,Loyal
+920,4,4,5,13,Champions,Loyal
+923,3,5,5,13,Champions,Loyal
+925,3,5,5,13,Champions,Loyal
+927,5,4,4,13,Champions,Loyal
+938,3,5,5,13,Champions,Loyal
+942,3,5,5,13,Champions,Loyal
+956,3,5,5,13,Champions,Loyal
+966,3,5,5,13,Champions,Loyal
+969,3,5,5,13,Champions,Loyal
+970,3,5,5,13,Champions,Loyal
+973,3,5,5,13,Champions,Loyal
+974,3,5,5,13,Champions,Loyal
+977,3,5,5,13,Champions,Loyal
+980,3,5,5,13,Champions,Loyal
+983,3,5,5,13,Champions,Loyal
+988,3,5,5,13,Champions,Loyal
+994,4,5,4,13,Champions,Loyal
+996,4,5,4,13,Champions,Loyal
+999,3,5,5,13,Champions,Loyal
+1001,5,4,4,13,Champions,Promising
+1007,4,4,5,13,Champions,Promising
+1010,5,4,4,13,Champions,Promising
+1014,5,4,4,13,Champions,Promising
+1016,5,4,4,13,Champions,Promising
+1019,5,4,4,13,Champions,Promising
+1030,5,4,4,13,Champions,Promising
+1049,5,4,4,13,Champions,Promising
+1052,5,4,4,13,Champions,Promising
+1062,5,4,4,13,Champions,Promising
+1068,5,4,4,13,Champions,Promising
+1080,5,4,4,13,Champions,Promising
+1130,5,4,4,13,Champions,Promising
+1137,5,4,4,13,Champions,Promising
+1141,5,4,4,13,Champions,Promising
+1143,5,4,4,13,Champions,Promising
+1154,4,4,5,13,Champions,Promising
+1164,4,4,5,13,Champions,Promising
+1186,3,5,5,13,Champions,Promising
+1200,5,4,4,13,Champions,Promising
+1220,5,4,4,13,Champions,Promising
+1223,5,4,4,13,Champions,Promising
+1229,5,4,4,13,Champions,Promising
+1239,5,4,4,13,Champions,Promising
+1244,5,4,4,13,Champions,Promising
+1268,5,4,4,13,Champions,Promising
+1295,5,4,4,13,Champions,Promising
+1300,3,5,5,13,Champions,Promising
+1304,4,5,4,13,Champions,Promising
+1316,3,5,5,13,Champions,Promising
+1323,5,3,5,13,Champions,Promising
+1356,4,5,4,13,Champions,Promising
+1428,5,4,4,13,Champions,Promising
+1455,5,4,4,13,Champions,Promising
+1463,5,4,4,13,Champions,Promising
+1473,5,4,4,13,Champions,Promising
+1486,5,4,4,13,Champions,Promising
+1487,4,4,5,13,Champions,Promising
+1493,5,4,4,13,Champions,Promising
+1505,5,4,4,13,Champions,Promising
+1507,4,5,4,13,Champions,Promising
+1518,5,4,4,13,Champions,Promising
+1520,4,4,5,13,Champions,Promising
+1524,5,4,4,13,Champions,Promising
+1532,5,4,4,13,Champions,Promising
+1553,5,4,4,13,Champions,Promising
+1565,5,4,4,13,Champions,Promising
+1580,4,5,4,13,Champions,Promising
+1593,4,4,5,13,Champions,Promising
+1601,5,4,4,13,Champions,Promising
+1618,5,4,4,13,Champions,Promising
+1634,5,4,4,13,Champions,Promising
+1635,5,4,4,13,Champions,Promising
+1655,5,4,4,13,Champions,Promising
+1661,5,4,4,13,Champions,Promising
+1692,4,5,4,13,Champions,Promising
+1713,4,4,5,13,Champions,Promising
+1714,5,4,4,13,Champions,Promising
+1727,5,4,4,13,Champions,Promising
+1735,4,4,5,13,Champions,Promising
+1750,5,4,4,13,Champions,Promising
+1762,4,4,5,13,Champions,Promising
+1764,3,5,5,13,Champions,Promising
+1789,5,4,4,13,Champions,Promising
+1800,5,4,4,13,Champions,Promising
+1811,5,4,4,13,Champions,Promising
+1814,5,4,4,13,Champions,Promising
+1822,5,4,4,13,Champions,Promising
+1840,5,4,4,13,Champions,Promising
+1850,5,4,4,13,Champions,Promising
+1853,5,4,4,13,Champions,Promising
+1856,5,4,4,13,Champions,Promising
+1862,5,4,4,13,Champions,Promising
+1872,5,4,4,13,Champions,Promising
+1874,5,4,4,13,Champions,Promising
+1877,4,4,5,13,Champions,Promising
+1882,5,4,4,13,Champions,Promising
+1885,5,4,4,13,Champions,Promising
+1886,5,4,4,13,Champions,Promising
+1914,5,4,4,13,Champions,Promising
+1970,4,4,5,13,Champions,Promising
+1985,5,4,4,13,Champions,Promising
+1988,5,4,4,13,Champions,Promising
+2074,5,4,4,13,Champions,At Risk
+2083,5,4,4,13,Champions,At Risk
+2168,5,4,4,13,Champions,At Risk
+2171,5,4,4,13,Champions,At Risk
+2176,5,3,5,13,Champions,At Risk
+2196,5,4,4,13,Champions,At Risk
+2233,4,4,5,13,Champions,At Risk
+2251,5,4,4,13,Champions,At Risk
+2365,5,3,5,13,Champions,At Risk
+2376,5,4,4,13,Champions,At Risk
+2392,5,4,4,13,Champions,At Risk
+2408,5,4,4,13,Champions,At Risk
+2440,5,4,4,13,Champions,At Risk
+2471,5,4,4,13,Champions,At Risk
+2595,5,4,4,13,Champions,At Risk
+2599,5,4,4,13,Champions,At Risk
+2637,5,4,4,13,Champions,At Risk
+2681,5,4,4,13,Champions,At Risk
+2722,5,4,4,13,Champions,At Risk
+2764,5,4,4,13,Champions,At Risk
+2841,4,4,5,13,Champions,At Risk
+2842,5,4,4,13,Champions,At Risk
+2925,5,4,4,13,Champions,At Risk
+3054,5,4,4,13,Champions,At Risk
+3066,5,4,4,13,Champions,At Risk
+3115,5,4,4,13,Champions,At Risk
+3118,4,4,5,13,Champions,At Risk
+3119,5,4,4,13,Champions,At Risk
+3157,4,4,5,13,Champions,At Risk
+3170,5,4,4,13,Champions,At Risk
+3208,4,4,5,13,Champions,At Risk
+3229,5,4,4,13,Champions,At Risk
+3239,5,4,4,13,Champions,At Risk
+10,2,5,5,12,Champions,Champions
+12,2,5,5,12,Champions,Champions
+16,2,5,5,12,Champions,Champions
+22,2,5,5,12,Champions,Champions
+31,2,5,5,12,Champions,Champions
+37,2,5,5,12,Champions,Champions
+41,2,5,5,12,Champions,Champions
+56,2,5,5,12,Champions,Champions
+60,2,5,5,12,Champions,Champions
+64,2,5,5,12,Champions,Champions
+66,2,5,5,12,Champions,Champions
+73,2,5,5,12,Champions,Champions
+77,2,5,5,12,Champions,Champions
+78,2,5,5,12,Champions,Champions
+88,2,5,5,12,Champions,Champions
+89,2,5,5,12,Champions,Champions
+90,2,5,5,12,Champions,Champions
+96,2,5,5,12,Champions,Champions
+108,2,5,5,12,Champions,Champions
+118,2,5,5,12,Champions,Champions
+121,2,5,5,12,Champions,Champions
+128,2,5,5,12,Champions,Champions
+132,2,5,5,12,Champions,Champions
+133,2,5,5,12,Champions,Champions
+135,3,5,4,12,Champions,Champions
+159,2,5,5,12,Champions,Champions
+170,2,5,5,12,Champions,Champions
+172,2,5,5,12,Champions,Champions
+185,2,5,5,12,Champions,Champions
+193,2,5,5,12,Champions,Champions
+202,2,5,5,12,Champions,Champions
+204,5,5,2,12,Champions,Champions
+205,2,5,5,12,Champions,Champions
+220,2,5,5,12,Champions,Champions
+222,2,5,5,12,Champions,Champions
+224,2,5,5,12,Champions,Champions
+232,2,5,5,12,Champions,Champions
+235,2,5,5,12,Champions,Champions
+236,2,5,5,12,Champions,Champions
+243,2,5,5,12,Champions,Champions
+245,2,5,5,12,Champions,Champions
+246,2,5,5,12,Champions,Champions
+258,2,5,5,12,Champions,Loyal
+260,3,5,4,12,Champions,Loyal
+261,2,5,5,12,Champions,Loyal
+266,2,5,5,12,Champions,Loyal
+269,2,5,5,12,Champions,Loyal
+271,2,5,5,12,Champions,Loyal
+272,2,5,5,12,Champions,Loyal
+273,2,5,5,12,Champions,Loyal
+274,2,5,5,12,Champions,Loyal
+279,2,5,5,12,Champions,Loyal
+285,2,5,5,12,Champions,Loyal
+290,4,5,3,12,Champions,Loyal
+292,2,5,5,12,Champions,Loyal
+293,2,5,5,12,Champions,Loyal
+297,3,5,4,12,Champions,Loyal
+304,2,5,5,12,Champions,Loyal
+314,2,5,5,12,Champions,Loyal
+315,4,5,3,12,Champions,Loyal
+316,2,5,5,12,Champions,Loyal
+321,2,5,5,12,Champions,Loyal
+323,2,5,5,12,Champions,Loyal
+327,2,5,5,12,Champions,Loyal
+329,2,5,5,12,Champions,Loyal
+331,2,5,5,12,Champions,Loyal
+340,2,5,5,12,Champions,Loyal
+345,3,5,4,12,Champions,Loyal
+354,2,5,5,12,Champions,Loyal
+369,2,5,5,12,Champions,Loyal
+387,2,5,5,12,Champions,Loyal
+392,4,4,4,12,Champions,Loyal
+393,2,5,5,12,Champions,Loyal
+395,2,5,5,12,Champions,Loyal
+397,2,5,5,12,Champions,Loyal
+399,2,5,5,12,Champions,Loyal
+403,2,5,5,12,Champions,Loyal
+406,2,5,5,12,Champions,Loyal
+409,4,4,4,12,Champions,Loyal
+416,2,5,5,12,Champions,Loyal
+418,2,5,5,12,Champions,Loyal
+423,2,5,5,12,Champions,Loyal
+429,2,5,5,12,Champions,Loyal
+435,2,5,5,12,Champions,Loyal
+436,2,5,5,12,Champions,Loyal
+452,2,5,5,12,Champions,Loyal
+456,2,5,5,12,Champions,Loyal
+458,2,5,5,12,Champions,Loyal
+462,2,5,5,12,Champions,Loyal
+466,3,5,4,12,Champions,Loyal
+470,2,5,5,12,Champions,Loyal
+474,2,5,5,12,Champions,Loyal
+475,2,5,5,12,Champions,Loyal
+477,2,5,5,12,Champions,Loyal
+485,2,5,5,12,Champions,Loyal
+487,2,5,5,12,Champions,Loyal
+491,2,5,5,12,Champions,Loyal
+499,3,4,5,12,Champions,Loyal
+503,2,5,5,12,Champions,Loyal
+505,2,5,5,12,Champions,Loyal
+514,2,5,5,12,Champions,Loyal
+515,2,5,5,12,Champions,Loyal
+520,2,5,5,12,Champions,Loyal
+526,2,5,5,12,Champions,Loyal
+527,2,5,5,12,Champions,Loyal
+529,2,5,5,12,Champions,Loyal
+538,2,5,5,12,Champions,Loyal
+542,2,5,5,12,Champions,Loyal
+544,2,5,5,12,Champions,Loyal
+548,2,5,5,12,Champions,Loyal
+549,2,5,5,12,Champions,Loyal
+551,4,5,3,12,Champions,Loyal
+558,2,5,5,12,Champions,Loyal
+559,4,5,3,12,Champions,Loyal
+563,2,5,5,12,Champions,Loyal
+566,2,5,5,12,Champions,Loyal
+575,2,5,5,12,Champions,Loyal
+576,4,4,4,12,Champions,Loyal
+577,2,5,5,12,Champions,Loyal
+578,2,5,5,12,Champions,Loyal
+580,2,5,5,12,Champions,Loyal
+587,2,5,5,12,Champions,Loyal
+594,2,5,5,12,Champions,Loyal
+595,2,5,5,12,Champions,Loyal
+599,2,5,5,12,Champions,Loyal
+600,2,5,5,12,Champions,Loyal
+605,2,5,5,12,Champions,Loyal
+609,2,5,5,12,Champions,Loyal
+629,2,5,5,12,Champions,Loyal
+635,3,5,4,12,Champions,Loyal
+642,2,5,5,12,Champions,Loyal
+645,2,5,5,12,Champions,Loyal
+656,2,5,5,12,Champions,Loyal
+659,2,5,5,12,Champions,Loyal
+660,3,4,5,12,Champions,Loyal
+664,5,5,2,12,Champions,Loyal
+666,2,5,5,12,Champions,Loyal
+667,2,5,5,12,Champions,Loyal
+674,2,5,5,12,Champions,Loyal
+676,2,5,5,12,Champions,Loyal
+677,4,5,3,12,Champions,Loyal
+680,2,5,5,12,Champions,Loyal
+687,2,5,5,12,Champions,Loyal
+699,4,4,4,12,Champions,Loyal
+701,2,5,5,12,Champions,Loyal
+705,2,5,5,12,Champions,Loyal
+706,2,5,5,12,Champions,Loyal
+709,2,5,5,12,Champions,Loyal
+713,2,5,5,12,Champions,Loyal
+719,2,5,5,12,Champions,Loyal
+722,2,5,5,12,Champions,Loyal
+726,5,3,4,12,Champions,Loyal
+730,2,5,5,12,Champions,Loyal
+737,2,5,5,12,Champions,Loyal
+740,2,5,5,12,Champions,Loyal
+756,2,5,5,12,Champions,Loyal
+763,4,5,3,12,Champions,Loyal
+765,2,5,5,12,Champions,Loyal
+769,2,5,5,12,Champions,Loyal
+770,2,5,5,12,Champions,Loyal
+771,2,5,5,12,Champions,Loyal
+772,2,5,5,12,Champions,Loyal
+776,4,4,4,12,Champions,Loyal
+777,2,5,5,12,Champions,Loyal
+793,2,5,5,12,Champions,Loyal
+797,2,5,5,12,Champions,Loyal
+799,2,5,5,12,Champions,Loyal
+801,2,5,5,12,Champions,Loyal
+811,2,5,5,12,Champions,Loyal
+816,3,5,4,12,Champions,Loyal
+835,2,5,5,12,Champions,Loyal
+841,2,5,5,12,Champions,Loyal
+849,2,5,5,12,Champions,Loyal
+855,2,5,5,12,Champions,Loyal
+859,2,5,5,12,Champions,Loyal
+861,2,5,5,12,Champions,Loyal
+862,2,5,5,12,Champions,Loyal
+863,2,5,5,12,Champions,Loyal
+865,2,5,5,12,Champions,Loyal
+866,2,5,5,12,Champions,Loyal
+869,2,5,5,12,Champions,Loyal
+870,2,5,5,12,Champions,Loyal
+871,2,5,5,12,Champions,Loyal
+876,2,5,5,12,Champions,Loyal
+881,2,5,5,12,Champions,Loyal
+882,2,5,5,12,Champions,Loyal
+887,2,5,5,12,Champions,Loyal
+889,3,5,4,12,Champions,Loyal
+890,2,5,5,12,Champions,Loyal
+894,2,5,5,12,Champions,Loyal
+901,2,5,5,12,Champions,Loyal
+906,4,4,4,12,Champions,Loyal
+913,2,5,5,12,Champions,Loyal
+922,2,5,5,12,Champions,Loyal
+924,2,5,5,12,Champions,Loyal
+926,2,5,5,12,Champions,Loyal
+931,2,5,5,12,Champions,Loyal
+933,2,5,5,12,Champions,Loyal
+935,2,5,5,12,Champions,Loyal
+936,2,5,5,12,Champions,Loyal
+937,2,5,5,12,Champions,Loyal
+944,3,5,4,12,Champions,Loyal
+960,3,5,4,12,Champions,Loyal
+962,2,5,5,12,Champions,Loyal
+963,2,5,5,12,Champions,Loyal
+965,3,5,4,12,Champions,Loyal
+967,2,5,5,12,Champions,Loyal
+984,2,5,5,12,Champions,Loyal
+997,2,5,5,12,Champions,Loyal
+1003,3,4,5,12,Champions,Promising
+1004,5,4,3,12,Champions,Promising
+1022,4,4,4,12,Champions,Promising
+1039,5,4,3,12,Champions,Promising
+1059,5,4,3,12,Champions,Promising
+1061,4,4,4,12,Champions,Promising
+1063,3,5,4,12,Champions,Promising
+1070,5,3,4,12,Champions,Promising
+1072,4,4,4,12,Champions,Promising
+1078,3,4,5,12,Champions,Promising
+1081,4,4,4,12,Champions,Promising
+1100,3,4,5,12,Champions,Promising
+1118,5,3,4,12,Champions,Promising
+1120,3,4,5,12,Champions,Promising
+1125,4,4,4,12,Champions,Promising
+1147,5,3,4,12,Champions,Promising
+1152,5,3,4,12,Champions,Promising
+1156,5,3,4,12,Champions,Promising
+1162,5,3,4,12,Champions,Promising
+1163,4,4,4,12,Champions,Promising
+1178,3,4,5,12,Champions,Promising
+1181,4,4,4,12,Champions,Promising
+1182,4,4,4,12,Champions,Promising
+1184,5,3,4,12,Champions,Promising
+1189,4,4,4,12,Champions,Promising
+1199,4,4,4,12,Champions,Promising
+1201,4,4,4,12,Champions,Promising
+1203,4,4,4,12,Champions,Promising
+1215,4,4,4,12,Champions,Promising
+1217,5,4,3,12,Champions,Promising
+1221,3,4,5,12,Champions,Promising
+1222,5,4,3,12,Champions,Promising
+1234,2,5,5,12,Champions,Promising
+1235,4,4,4,12,Champions,Promising
+1240,3,4,5,12,Champions,Promising
+1246,5,4,3,12,Champions,Promising
+1248,3,4,5,12,Champions,Promising
+1259,4,4,4,12,Champions,Promising
+1263,5,4,3,12,Champions,Promising
+1273,4,4,4,12,Champions,Promising
+1274,4,4,4,12,Champions,Promising
+1275,4,4,4,12,Champions,Promising
+1290,4,4,4,12,Champions,Promising
+1299,4,4,4,12,Champions,Promising
+1312,4,4,4,12,Champions,Promising
+1319,4,4,4,12,Champions,Promising
+1325,4,4,4,12,Champions,Promising
+1329,4,4,4,12,Champions,Promising
+1335,4,4,4,12,Champions,Promising
+1351,4,4,4,12,Champions,Promising
+1360,3,4,5,12,Champions,Promising
+1382,4,4,4,12,Champions,Promising
+1389,4,4,4,12,Champions,Promising
+1391,5,4,3,12,Champions,Promising
+1395,5,4,3,12,Champions,Promising
+1402,3,4,5,12,Champions,Promising
+1407,4,4,4,12,Champions,Promising
+1416,4,4,4,12,Champions,Promising
+1429,5,4,3,12,Champions,Promising
+1431,4,4,4,12,Champions,Promising
+1435,5,3,4,12,Champions,Promising
+1437,4,4,4,12,Champions,Promising
+1439,4,4,4,12,Champions,Promising
+1453,3,4,5,12,Champions,Promising
+1458,4,4,4,12,Champions,Promising
+1459,5,4,3,12,Champions,Promising
+1464,4,4,4,12,Champions,Promising
+1492,3,4,5,12,Champions,Promising
+1508,5,4,3,12,Champions,Promising
+1519,2,5,5,12,Champions,Promising
+1561,4,4,4,12,Champions,Promising
+1562,4,4,4,12,Champions,Promising
+1570,3,4,5,12,Champions,Promising
+1581,4,4,4,12,Champions,Promising
+1595,4,4,4,12,Champions,Promising
+1614,4,4,4,12,Champions,Promising
+1621,5,4,3,12,Champions,Promising
+1630,5,3,4,12,Champions,Promising
+1642,4,4,4,12,Champions,Promising
+1643,5,3,4,12,Champions,Promising
+1648,5,4,3,12,Champions,Promising
+1657,4,4,4,12,Champions,Promising
+1669,5,4,3,12,Champions,Promising
+1682,2,5,5,12,Champions,Promising
+1701,5,4,3,12,Champions,Promising
+1706,4,4,4,12,Champions,Promising
+1711,4,4,4,12,Champions,Promising
+1720,4,4,4,12,Champions,Promising
+1723,4,4,4,12,Champions,Promising
+1738,4,4,4,12,Champions,Promising
+1739,4,4,4,12,Champions,Promising
+1745,4,4,4,12,Champions,Promising
+1754,4,4,4,12,Champions,Promising
+1763,4,4,4,12,Champions,Promising
+1769,4,4,4,12,Champions,Promising
+1770,4,4,4,12,Champions,Promising
+1776,5,4,3,12,Champions,Promising
+1777,4,4,4,12,Champions,Promising
+1778,3,5,4,12,Champions,Promising
+1783,5,4,3,12,Champions,Promising
+1792,5,4,3,12,Champions,Promising
+1799,5,3,4,12,Champions,Promising
+1801,5,4,3,12,Champions,Promising
+1804,5,3,4,12,Champions,Promising
+1806,4,4,4,12,Champions,Promising
+1823,4,4,4,12,Champions,Promising
+1824,5,3,4,12,Champions,Promising
+1825,4,4,4,12,Champions,Promising
+1828,4,4,4,12,Champions,Promising
+1835,4,4,4,12,Champions,Promising
+1846,4,4,4,12,Champions,Promising
+1848,4,4,4,12,Champions,Promising
+1849,4,4,4,12,Champions,Promising
+1868,5,4,3,12,Champions,Promising
+1896,4,4,4,12,Champions,Promising
+1897,3,5,4,12,Champions,Promising
+1904,5,4,3,12,Champions,Promising
+1905,5,4,3,12,Champions,Promising
+1920,4,4,4,12,Champions,Promising
+1933,4,3,5,12,Champions,Promising
+1973,4,4,4,12,Champions,Promising
+1974,4,4,4,12,Champions,Promising
+1983,5,3,4,12,Champions,Promising
+1991,5,4,3,12,Champions,Promising
+1996,4,4,4,12,Champions,Promising
+1998,4,4,4,12,Champions,Promising
+2022,4,4,4,12,Champions,At Risk
+2063,5,3,4,12,Champions,At Risk
+2069,5,4,3,12,Champions,At Risk
+2079,5,3,4,12,Champions,At Risk
+2082,4,4,4,12,Champions,At Risk
+2087,4,4,4,12,Champions,At Risk
+2179,4,4,4,12,Champions,At Risk
+2187,5,4,3,12,Champions,At Risk
+2193,4,4,4,12,Champions,At Risk
+2197,4,4,4,12,Champions,At Risk
+2204,3,4,5,12,Champions,At Risk
+2208,5,3,4,12,Champions,At Risk
+2210,4,4,4,12,Champions,At Risk
+2247,5,4,3,12,Champions,At Risk
+2249,5,4,3,12,Champions,At Risk
+2266,5,4,3,12,Champions,At Risk
+2274,5,3,4,12,Champions,At Risk
+2279,4,3,5,12,Champions,At Risk
+2281,4,4,4,12,Champions,At Risk
+2284,5,3,4,12,Champions,At Risk
+2288,5,3,4,12,Champions,At Risk
+2323,4,4,4,12,Champions,At Risk
+2325,5,3,4,12,Champions,At Risk
+2345,5,3,4,12,Champions,At Risk
+2348,5,3,4,12,Champions,At Risk
+2354,5,3,4,12,Champions,At Risk
+2398,5,4,3,12,Champions,At Risk
+2400,4,4,4,12,Champions,At Risk
+2404,4,4,4,12,Champions,At Risk
+2409,3,4,5,12,Champions,At Risk
+2422,3,4,5,12,Champions,At Risk
+2428,5,3,4,12,Champions,At Risk
+2438,5,3,4,12,Champions,At Risk
+2443,5,4,3,12,Champions,At Risk
+2455,5,4,3,12,Champions,At Risk
+2520,5,3,4,12,Champions,At Risk
+2531,4,4,4,12,Champions,At Risk
+2535,3,4,5,12,Champions,At Risk
+2538,5,3,4,12,Champions,At Risk
+2550,5,3,4,12,Champions,At Risk
+2560,5,3,4,12,Champions,At Risk
+2567,5,3,4,12,Champions,At Risk
+2571,5,3,4,12,Champions,At Risk
+2572,5,3,4,12,Champions,At Risk
+2593,4,4,4,12,Champions,At Risk
+2594,4,4,4,12,Champions,At Risk
+2608,5,3,4,12,Champions,At Risk
+2619,5,3,4,12,Champions,At Risk
+2624,3,4,5,12,Champions,At Risk
+2650,5,3,4,12,Champions,At Risk
+2673,4,4,4,12,Champions,At Risk
+2684,5,3,4,12,Champions,At Risk
+2697,5,3,4,12,Champions,At Risk
+2706,5,3,4,12,Champions,At Risk
+2707,5,3,4,12,Champions,At Risk
+2709,4,4,4,12,Champions,At Risk
+2714,5,3,4,12,Champions,At Risk
+2740,5,3,4,12,Champions,At Risk
+2748,4,4,4,12,Champions,At Risk
+2763,5,3,4,12,Champions,At Risk
+2794,4,4,4,12,Champions,At Risk
+2824,5,3,4,12,Champions,At Risk
+2833,5,3,4,12,Champions,At Risk
+2837,4,4,4,12,Champions,At Risk
+2846,4,4,4,12,Champions,At Risk
+2898,4,4,4,12,Champions,At Risk
+2926,4,4,4,12,Champions,At Risk
+2940,5,3,4,12,Champions,At Risk
+2985,5,3,4,12,Champions,At Risk
+2986,3,4,5,12,Champions,At Risk
+2987,4,4,4,12,Champions,At Risk
+2988,5,3,4,12,Champions,At Risk
+2989,5,3,4,12,Champions,At Risk
+2992,5,4,3,12,Champions,At Risk
+2995,5,3,4,12,Champions,At Risk
+3003,5,3,4,12,Champions,At Risk
+3056,5,3,4,12,Champions,At Risk
+3099,4,4,4,12,Champions,At Risk
+3107,5,3,4,12,Champions,At Risk
+3111,5,3,4,12,Champions,At Risk
+3152,4,4,4,12,Champions,At Risk
+3167,5,3,4,12,Champions,At Risk
+3172,5,3,4,12,Champions,At Risk
+3173,5,3,4,12,Champions,At Risk
+3181,5,3,4,12,Champions,At Risk
+3184,5,3,4,12,Champions,At Risk
+3201,5,3,4,12,Champions,At Risk
+3203,5,3,4,12,Champions,At Risk
+3225,4,4,4,12,Champions,At Risk
+3235,5,3,4,12,Champions,At Risk
+3319,5,3,4,12,Champions,Hibernating
+4320,5,3,4,12,Champions,Hibernating
+1,1,5,5,11,Loyal,Champions
+19,1,5,5,11,Loyal,Champions
+26,1,5,5,11,Loyal,Champions
+30,2,5,4,11,Loyal,Champions
+46,1,5,5,11,Loyal,Champions
+53,1,5,5,11,Loyal,Champions
+82,1,5,5,11,Loyal,Champions
+83,1,5,5,11,Loyal,Champions
+95,1,5,5,11,Loyal,Champions
+104,5,5,1,11,Loyal,Champions
+126,1,5,5,11,Loyal,Champions
+130,1,5,5,11,Loyal,Champions
+150,1,5,5,11,Loyal,Champions
+161,1,5,5,11,Loyal,Champions
+162,1,5,5,11,Loyal,Champions
+164,1,5,5,11,Loyal,Champions
+195,1,5,5,11,Loyal,Champions
+237,1,5,5,11,Loyal,Champions
+242,1,5,5,11,Loyal,Champions
+250,1,5,5,11,Loyal,Champions
+259,1,5,5,11,Loyal,Loyal
+284,1,5,5,11,Loyal,Loyal
+305,1,5,5,11,Loyal,Loyal
+311,1,5,5,11,Loyal,Loyal
+325,1,5,5,11,Loyal,Loyal
+335,1,5,5,11,Loyal,Loyal
+336,1,5,5,11,Loyal,Loyal
+341,2,5,4,11,Loyal,Loyal
+346,1,5,5,11,Loyal,Loyal
+347,1,5,5,11,Loyal,Loyal
+355,1,5,5,11,Loyal,Loyal
+356,1,5,5,11,Loyal,Loyal
+366,1,5,5,11,Loyal,Loyal
+371,1,5,5,11,Loyal,Loyal
+396,3,4,4,11,Loyal,Loyal
+400,1,5,5,11,Loyal,Loyal
+404,1,5,5,11,Loyal,Loyal
+414,1,5,5,11,Loyal,Loyal
+420,2,5,4,11,Loyal,Loyal
+446,2,5,4,11,Loyal,Loyal
+453,1,5,5,11,Loyal,Loyal
+455,2,5,4,11,Loyal,Loyal
+465,1,5,5,11,Loyal,Loyal
+476,1,5,5,11,Loyal,Loyal
+480,1,5,5,11,Loyal,Loyal
+501,1,5,5,11,Loyal,Loyal
+506,1,5,5,11,Loyal,Loyal
+507,1,5,5,11,Loyal,Loyal
+518,1,5,5,11,Loyal,Loyal
+541,1,5,5,11,Loyal,Loyal
+552,1,5,5,11,Loyal,Loyal
+555,2,4,5,11,Loyal,Loyal
+556,1,5,5,11,Loyal,Loyal
+581,1,5,5,11,Loyal,Loyal
+583,2,5,4,11,Loyal,Loyal
+584,1,5,5,11,Loyal,Loyal
+588,1,5,5,11,Loyal,Loyal
+589,1,5,5,11,Loyal,Loyal
+590,1,5,5,11,Loyal,Loyal
+591,1,5,5,11,Loyal,Loyal
+593,1,5,5,11,Loyal,Loyal
+596,1,5,5,11,Loyal,Loyal
+598,3,5,3,11,Loyal,Loyal
+606,1,5,5,11,Loyal,Loyal
+608,1,5,5,11,Loyal,Loyal
+610,1,5,5,11,Loyal,Loyal
+613,1,5,5,11,Loyal,Loyal
+615,1,5,5,11,Loyal,Loyal
+618,1,5,5,11,Loyal,Loyal
+621,1,5,5,11,Loyal,Loyal
+630,2,5,4,11,Loyal,Loyal
+631,1,5,5,11,Loyal,Loyal
+636,2,5,4,11,Loyal,Loyal
+641,3,5,3,11,Loyal,Loyal
+649,1,5,5,11,Loyal,Loyal
+652,1,5,5,11,Loyal,Loyal
+655,2,5,4,11,Loyal,Loyal
+657,1,5,5,11,Loyal,Loyal
+663,1,5,5,11,Loyal,Loyal
+665,2,4,5,11,Loyal,Loyal
+672,1,5,5,11,Loyal,Loyal
+675,3,5,3,11,Loyal,Loyal
+678,2,5,4,11,Loyal,Loyal
+683,2,4,5,11,Loyal,Loyal
+684,1,5,5,11,Loyal,Loyal
+685,2,5,4,11,Loyal,Loyal
+692,1,5,5,11,Loyal,Loyal
+695,2,5,4,11,Loyal,Loyal
+697,1,5,5,11,Loyal,Loyal
+704,1,5,5,11,Loyal,Loyal
+720,1,5,5,11,Loyal,Loyal
+725,1,5,5,11,Loyal,Loyal
+727,1,5,5,11,Loyal,Loyal
+733,1,5,5,11,Loyal,Loyal
+735,1,5,5,11,Loyal,Loyal
+746,1,5,5,11,Loyal,Loyal
+751,2,5,4,11,Loyal,Loyal
+757,3,4,4,11,Loyal,Loyal
+759,3,5,3,11,Loyal,Loyal
+761,2,5,4,11,Loyal,Loyal
+773,1,5,5,11,Loyal,Loyal
+781,5,5,1,11,Loyal,Loyal
+782,1,5,5,11,Loyal,Loyal
+787,1,5,5,11,Loyal,Loyal
+796,1,5,5,11,Loyal,Loyal
+820,1,5,5,11,Loyal,Loyal
+823,1,5,5,11,Loyal,Loyal
+837,2,5,4,11,Loyal,Loyal
+854,1,5,5,11,Loyal,Loyal
+864,1,5,5,11,Loyal,Loyal
+868,1,5,5,11,Loyal,Loyal
+885,1,5,5,11,Loyal,Loyal
+898,5,3,3,11,Loyal,Loyal
+899,1,5,5,11,Loyal,Loyal
+900,1,5,5,11,Loyal,Loyal
+902,1,5,5,11,Loyal,Loyal
+905,1,5,5,11,Loyal,Loyal
+910,1,5,5,11,Loyal,Loyal
+934,1,5,5,11,Loyal,Loyal
+939,1,5,5,11,Loyal,Loyal
+940,1,5,5,11,Loyal,Loyal
+941,3,5,3,11,Loyal,Loyal
+950,1,5,5,11,Loyal,Loyal
+954,1,5,5,11,Loyal,Loyal
+959,1,5,5,11,Loyal,Loyal
+976,1,5,5,11,Loyal,Loyal
+979,1,5,5,11,Loyal,Loyal
+985,1,5,5,11,Loyal,Loyal
+990,1,5,5,11,Loyal,Loyal
+991,1,5,5,11,Loyal,Loyal
+1006,5,4,2,11,Loyal,Promising
+1015,2,4,5,11,Loyal,Promising
+1018,3,4,4,11,Loyal,Promising
+1025,3,4,4,11,Loyal,Promising
+1026,5,3,3,11,Loyal,Promising
+1031,4,4,3,11,Loyal,Promising
+1033,3,4,4,11,Loyal,Promising
+1037,4,4,3,11,Loyal,Promising
+1040,3,4,4,11,Loyal,Promising
+1045,4,3,4,11,Loyal,Promising
+1048,5,3,3,11,Loyal,Promising
+1064,4,3,4,11,Loyal,Promising
+1065,4,3,4,11,Loyal,Promising
+1067,2,4,5,11,Loyal,Promising
+1073,4,4,3,11,Loyal,Promising
+1077,5,2,4,11,Loyal,Promising
+1079,4,4,3,11,Loyal,Promising
+1083,3,4,4,11,Loyal,Promising
+1095,4,4,3,11,Loyal,Promising
+1098,4,4,3,11,Loyal,Promising
+1102,3,4,4,11,Loyal,Promising
+1104,3,4,4,11,Loyal,Promising
+1121,3,4,4,11,Loyal,Promising
+1123,4,4,3,11,Loyal,Promising
+1126,3,4,4,11,Loyal,Promising
+1129,5,3,3,11,Loyal,Promising
+1132,4,3,4,11,Loyal,Promising
+1167,2,4,5,11,Loyal,Promising
+1177,5,3,3,11,Loyal,Promising
+1188,3,4,4,11,Loyal,Promising
+1190,3,4,4,11,Loyal,Promising
+1202,2,4,5,11,Loyal,Promising
+1206,3,4,4,11,Loyal,Promising
+1209,5,3,3,11,Loyal,Promising
+1210,3,4,4,11,Loyal,Promising
+1214,3,4,4,11,Loyal,Promising
+1219,3,4,4,11,Loyal,Promising
+1224,5,4,2,11,Loyal,Promising
+1233,2,5,4,11,Loyal,Promising
+1236,3,4,4,11,Loyal,Promising
+1237,2,5,4,11,Loyal,Promising
+1241,5,5,1,11,Loyal,Promising
+1251,2,4,5,11,Loyal,Promising
+1256,4,3,4,11,Loyal,Promising
+1260,2,4,5,11,Loyal,Promising
+1261,3,4,4,11,Loyal,Promising
+1277,4,3,4,11,Loyal,Promising
+1285,1,5,5,11,Loyal,Promising
+1288,3,4,4,11,Loyal,Promising
+1289,3,4,4,11,Loyal,Promising
+1296,3,4,4,11,Loyal,Promising
+1298,4,3,4,11,Loyal,Promising
+1313,5,3,3,11,Loyal,Promising
+1314,4,4,3,11,Loyal,Promising
+1318,5,2,4,11,Loyal,Promising
+1320,3,4,4,11,Loyal,Promising
+1326,4,3,4,11,Loyal,Promising
+1332,5,4,2,11,Loyal,Promising
+1333,3,4,4,11,Loyal,Promising
+1350,3,4,4,11,Loyal,Promising
+1355,2,4,5,11,Loyal,Promising
+1357,3,4,4,11,Loyal,Promising
+1358,3,4,4,11,Loyal,Promising
+1364,3,4,4,11,Loyal,Promising
+1388,4,4,3,11,Loyal,Promising
+1393,3,4,4,11,Loyal,Promising
+1403,3,4,4,11,Loyal,Promising
+1422,4,4,3,11,Loyal,Promising
+1423,3,4,4,11,Loyal,Promising
+1436,3,4,4,11,Loyal,Promising
+1440,3,4,4,11,Loyal,Promising
+1447,4,4,3,11,Loyal,Promising
+1449,3,4,4,11,Loyal,Promising
+1451,4,4,3,11,Loyal,Promising
+1471,2,4,5,11,Loyal,Promising
+1474,3,4,4,11,Loyal,Promising
+1476,2,5,4,11,Loyal,Promising
+1477,3,4,4,11,Loyal,Promising
+1479,5,4,2,11,Loyal,Promising
+1483,4,4,3,11,Loyal,Promising
+1491,3,4,4,11,Loyal,Promising
+1499,5,3,3,11,Loyal,Promising
+1502,3,4,4,11,Loyal,Promising
+1506,2,4,5,11,Loyal,Promising
+1526,2,5,4,11,Loyal,Promising
+1527,4,4,3,11,Loyal,Promising
+1530,4,4,3,11,Loyal,Promising
+1537,2,4,5,11,Loyal,Promising
+1541,2,5,4,11,Loyal,Promising
+1548,4,3,4,11,Loyal,Promising
+1549,3,4,4,11,Loyal,Promising
+1550,1,5,5,11,Loyal,Promising
+1552,4,4,3,11,Loyal,Promising
+1554,4,3,4,11,Loyal,Promising
+1563,3,4,4,11,Loyal,Promising
+1573,4,4,3,11,Loyal,Promising
+1576,4,3,4,11,Loyal,Promising
+1582,2,4,5,11,Loyal,Promising
+1584,4,4,3,11,Loyal,Promising
+1586,3,4,4,11,Loyal,Promising
+1589,2,4,5,11,Loyal,Promising
+1591,4,4,3,11,Loyal,Promising
+1594,3,4,4,11,Loyal,Promising
+1596,4,4,3,11,Loyal,Promising
+1604,3,4,4,11,Loyal,Promising
+1606,4,3,4,11,Loyal,Promising
+1612,4,4,3,11,Loyal,Promising
+1617,4,4,3,11,Loyal,Promising
+1622,4,4,3,11,Loyal,Promising
+1623,5,3,3,11,Loyal,Promising
+1625,5,3,3,11,Loyal,Promising
+1654,3,4,4,11,Loyal,Promising
+1658,3,4,4,11,Loyal,Promising
+1662,3,4,4,11,Loyal,Promising
+1663,3,4,4,11,Loyal,Promising
+1665,3,4,4,11,Loyal,Promising
+1667,5,3,3,11,Loyal,Promising
+1678,5,3,3,11,Loyal,Promising
+1679,3,4,4,11,Loyal,Promising
+1685,3,4,4,11,Loyal,Promising
+1687,3,4,4,11,Loyal,Promising
+1691,3,4,4,11,Loyal,Promising
+1694,4,3,4,11,Loyal,Promising
+1707,3,3,5,11,Loyal,Promising
+1709,5,4,2,11,Loyal,Promising
+1722,5,4,2,11,Loyal,Promising
+1737,4,4,3,11,Loyal,Promising
+1744,3,4,4,11,Loyal,Promising
+1746,3,4,4,11,Loyal,Promising
+1748,2,4,5,11,Loyal,Promising
+1758,4,3,4,11,Loyal,Promising
+1759,5,4,2,11,Loyal,Promising
+1765,4,3,4,11,Loyal,Promising
+1767,5,4,2,11,Loyal,Promising
+1768,3,4,4,11,Loyal,Promising
+1772,3,4,4,11,Loyal,Promising
+1774,3,4,4,11,Loyal,Promising
+1781,3,4,4,11,Loyal,Promising
+1782,5,3,3,11,Loyal,Promising
+1784,4,4,3,11,Loyal,Promising
+1791,2,5,4,11,Loyal,Promising
+1794,4,4,3,11,Loyal,Promising
+1797,4,3,4,11,Loyal,Promising
+1810,3,4,4,11,Loyal,Promising
+1819,3,4,4,11,Loyal,Promising
+1821,3,4,4,11,Loyal,Promising
+1827,3,4,4,11,Loyal,Promising
+1833,3,4,4,11,Loyal,Promising
+1843,3,4,4,11,Loyal,Promising
+1844,3,4,4,11,Loyal,Promising
+1845,2,4,5,11,Loyal,Promising
+1847,1,5,5,11,Loyal,Promising
+1858,3,4,4,11,Loyal,Promising
+1859,3,4,4,11,Loyal,Promising
+1860,5,3,3,11,Loyal,Promising
+1867,3,4,4,11,Loyal,Promising
+1875,4,4,3,11,Loyal,Promising
+1879,2,5,4,11,Loyal,Promising
+1901,4,3,4,11,Loyal,Promising
+1903,4,4,3,11,Loyal,Promising
+1909,4,4,3,11,Loyal,Promising
+1915,3,4,4,11,Loyal,Promising
+1917,3,4,4,11,Loyal,Promising
+1925,3,4,4,11,Loyal,Promising
+1930,3,4,4,11,Loyal,Promising
+1932,1,5,5,11,Loyal,Promising
+1937,5,4,2,11,Loyal,Promising
+1940,1,5,5,11,Loyal,Promising
+1961,2,4,5,11,Loyal,Promising
+1963,4,4,3,11,Loyal,Promising
+1968,4,3,4,11,Loyal,Promising
+1969,4,4,3,11,Loyal,Promising
+1977,5,4,2,11,Loyal,Promising
+1980,3,4,4,11,Loyal,Promising
+1981,4,3,4,11,Loyal,Promising
+1984,3,4,4,11,Loyal,Promising
+2005,4,4,3,11,Loyal,At Risk
+2011,3,4,4,11,Loyal,At Risk
+2025,5,3,3,11,Loyal,At Risk
+2027,4,3,4,11,Loyal,At Risk
+2034,4,3,4,11,Loyal,At Risk
+2036,4,4,3,11,Loyal,At Risk
+2044,4,3,4,11,Loyal,At Risk
+2046,5,3,3,11,Loyal,At Risk
+2055,3,4,4,11,Loyal,At Risk
+2062,3,4,4,11,Loyal,At Risk
+2066,4,3,4,11,Loyal,At Risk
+2077,5,3,3,11,Loyal,At Risk
+2093,3,4,4,11,Loyal,At Risk
+2095,4,3,4,11,Loyal,At Risk
+2112,4,3,4,11,Loyal,At Risk
+2144,3,4,4,11,Loyal,At Risk
+2148,3,4,4,11,Loyal,At Risk
+2162,5,4,2,11,Loyal,At Risk
+2167,4,3,4,11,Loyal,At Risk
+2169,4,3,4,11,Loyal,At Risk
+2170,4,4,3,11,Loyal,At Risk
+2184,5,3,3,11,Loyal,At Risk
+2185,4,3,4,11,Loyal,At Risk
+2201,5,3,3,11,Loyal,At Risk
+2219,4,3,4,11,Loyal,At Risk
+2224,5,3,3,11,Loyal,At Risk
+2231,4,3,4,11,Loyal,At Risk
+2232,4,3,4,11,Loyal,At Risk
+2255,3,4,4,11,Loyal,At Risk
+2256,4,4,3,11,Loyal,At Risk
+2258,3,4,4,11,Loyal,At Risk
+2295,5,3,3,11,Loyal,At Risk
+2306,5,3,3,11,Loyal,At Risk
+2324,4,3,4,11,Loyal,At Risk
+2332,5,3,3,11,Loyal,At Risk
+2353,4,4,3,11,Loyal,At Risk
+2360,5,3,3,11,Loyal,At Risk
+2378,5,3,3,11,Loyal,At Risk
+2380,5,3,3,11,Loyal,At Risk
+2386,5,3,3,11,Loyal,At Risk
+2390,5,2,4,11,Loyal,At Risk
+2433,4,3,4,11,Loyal,At Risk
+2449,5,4,2,11,Loyal,At Risk
+2475,5,3,3,11,Loyal,At Risk
+2501,3,4,4,11,Loyal,At Risk
+2505,5,3,3,11,Loyal,At Risk
+2523,3,4,4,11,Loyal,At Risk
+2524,5,3,3,11,Loyal,At Risk
+2525,5,3,3,11,Loyal,At Risk
+2529,4,4,3,11,Loyal,At Risk
+2530,4,3,4,11,Loyal,At Risk
+2542,4,3,4,11,Loyal,At Risk
+2577,2,4,5,11,Loyal,At Risk
+2597,3,3,5,11,Loyal,At Risk
+2617,4,4,3,11,Loyal,At Risk
+2620,3,4,4,11,Loyal,At Risk
+2638,5,3,3,11,Loyal,At Risk
+2639,4,3,4,11,Loyal,At Risk
+2646,5,3,3,11,Loyal,At Risk
+2647,3,4,4,11,Loyal,At Risk
+2659,5,3,3,11,Loyal,At Risk
+2661,4,3,4,11,Loyal,At Risk
+2667,3,4,4,11,Loyal,At Risk
+2670,3,4,4,11,Loyal,At Risk
+2687,4,3,4,11,Loyal,At Risk
+2696,5,2,4,11,Loyal,At Risk
+2720,4,3,4,11,Loyal,At Risk
+2721,5,3,3,11,Loyal,At Risk
+2726,5,3,3,11,Loyal,At Risk
+2730,3,4,4,11,Loyal,At Risk
+2760,4,4,3,11,Loyal,At Risk
+2774,5,3,3,11,Loyal,At Risk
+2785,4,3,4,11,Loyal,At Risk
+2787,5,3,3,11,Loyal,At Risk
+2789,5,3,3,11,Loyal,At Risk
+2808,5,3,3,11,Loyal,At Risk
+2829,3,4,4,11,Loyal,At Risk
+2834,5,3,3,11,Loyal,At Risk
+2836,5,2,4,11,Loyal,At Risk
+2848,3,4,4,11,Loyal,At Risk
+2849,4,3,4,11,Loyal,At Risk
+2851,5,2,4,11,Loyal,At Risk
+2863,3,4,4,11,Loyal,At Risk
+2870,3,4,4,11,Loyal,At Risk
+2887,4,3,4,11,Loyal,At Risk
+2889,3,4,4,11,Loyal,At Risk
+2907,5,3,3,11,Loyal,At Risk
+2913,4,3,4,11,Loyal,At Risk
+2916,4,3,4,11,Loyal,At Risk
+2921,3,4,4,11,Loyal,At Risk
+2929,5,3,3,11,Loyal,At Risk
+2942,2,4,5,11,Loyal,At Risk
+2943,5,3,3,11,Loyal,At Risk
+2953,4,3,4,11,Loyal,At Risk
+2956,4,3,4,11,Loyal,At Risk
+2962,5,2,4,11,Loyal,At Risk
+2966,4,4,3,11,Loyal,At Risk
+2968,4,3,4,11,Loyal,At Risk
+2969,4,4,3,11,Loyal,At Risk
+2977,5,3,3,11,Loyal,At Risk
+2994,4,3,4,11,Loyal,At Risk
+3007,4,3,4,11,Loyal,At Risk
+3019,4,3,4,11,Loyal,At Risk
+3028,4,3,4,11,Loyal,At Risk
+3034,5,3,3,11,Loyal,At Risk
+3040,4,4,3,11,Loyal,At Risk
+3044,5,3,3,11,Loyal,At Risk
+3045,3,4,4,11,Loyal,At Risk
+3053,3,4,4,11,Loyal,At Risk
+3060,4,3,4,11,Loyal,At Risk
+3065,3,4,4,11,Loyal,At Risk
+3067,3,3,5,11,Loyal,At Risk
+3076,5,3,3,11,Loyal,At Risk
+3079,5,3,3,11,Loyal,At Risk
+3091,4,3,4,11,Loyal,At Risk
+3095,5,3,3,11,Loyal,At Risk
+3120,4,4,3,11,Loyal,At Risk
+3124,5,3,3,11,Loyal,At Risk
+3145,5,3,3,11,Loyal,At Risk
+3151,4,3,4,11,Loyal,At Risk
+3153,4,3,4,11,Loyal,At Risk
+3158,5,3,3,11,Loyal,At Risk
+3165,4,4,3,11,Loyal,At Risk
+3166,5,2,4,11,Loyal,At Risk
+3193,5,3,3,11,Loyal,At Risk
+3198,5,3,3,11,Loyal,At Risk
+3200,3,4,4,11,Loyal,At Risk
+3204,4,3,4,11,Loyal,At Risk
+3215,5,3,3,11,Loyal,At Risk
+3234,3,3,5,11,Loyal,At Risk
+3236,2,4,5,11,Loyal,At Risk
+3240,3,4,4,11,Loyal,At Risk
+3283,5,3,3,11,Loyal,Hibernating
+3340,5,2,4,11,Loyal,Hibernating
+3347,5,2,4,11,Loyal,Hibernating
+3445,5,2,4,11,Loyal,Hibernating
+3529,4,3,4,11,Loyal,Hibernating
+3715,4,3,4,11,Loyal,Hibernating
+3999,5,2,4,11,Loyal,Hibernating
+4081,5,2,4,11,Loyal,Hibernating
+4155,5,3,3,11,Loyal,Hibernating
+4197,5,3,3,11,Loyal,Hibernating
+4279,4,3,4,11,Loyal,Hibernating
+4511,4,3,4,11,Loyal,Hibernating
+4540,5,2,4,11,Loyal,Hibernating
+4562,4,3,4,11,Loyal,Hibernating
+4599,5,2,4,11,Loyal,Hibernating
+4608,5,3,3,11,Loyal,Hibernating
+4611,5,2,4,11,Loyal,Hibernating
+4693,5,2,4,11,Loyal,Hibernating
+4830,5,3,3,11,Loyal,Hibernating
+4918,5,2,4,11,Loyal,Hibernating
+5,4,5,1,10,Loyal,Champions
+47,4,5,1,10,Loyal,Champions
+70,1,5,4,10,Loyal,Champions
+203,4,5,1,10,Loyal,Champions
+257,2,4,4,10,Loyal,Loyal
+265,4,5,1,10,Loyal,Loyal
+317,4,5,1,10,Loyal,Loyal
+318,1,4,5,10,Loyal,Loyal
+332,1,5,4,10,Loyal,Loyal
+394,3,4,3,10,Loyal,Loyal
+473,1,5,4,10,Loyal,Loyal
+533,1,5,4,10,Loyal,Loyal
+643,2,5,3,10,Loyal,Loyal
+651,1,4,5,10,Loyal,Loyal
+714,1,5,4,10,Loyal,Loyal
+723,1,5,4,10,Loyal,Loyal
+783,1,5,4,10,Loyal,Loyal
+789,4,5,1,10,Loyal,Loyal
+806,1,5,4,10,Loyal,Loyal
+822,4,5,1,10,Loyal,Loyal
+888,2,4,4,10,Loyal,Loyal
+917,1,4,5,10,Loyal,Loyal
+918,1,4,5,10,Loyal,Loyal
+951,2,5,3,10,Loyal,Loyal
+989,1,4,5,10,Loyal,Loyal
+1002,3,4,3,10,Loyal,Promising
+1008,5,4,1,10,Loyal,Promising
+1009,2,4,4,10,Loyal,Promising
+1011,2,4,4,10,Loyal,Promising
+1013,3,4,3,10,Loyal,Promising
+1017,5,4,1,10,Loyal,Promising
+1021,2,4,4,10,Loyal,Promising
+1023,3,4,3,10,Loyal,Promising
+1028,2,4,4,10,Loyal,Promising
+1029,2,3,5,10,Loyal,Promising
+1034,4,3,3,10,Loyal,Promising
+1036,5,4,1,10,Loyal,Promising
+1041,4,3,3,10,Loyal,Promising
+1047,5,4,1,10,Loyal,Promising
+1051,4,4,2,10,Loyal,Promising
+1053,5,2,3,10,Loyal,Promising
+1054,3,4,3,10,Loyal,Promising
+1055,2,4,4,10,Loyal,Promising
+1088,2,4,4,10,Loyal,Promising
+1091,2,4,4,10,Loyal,Promising
+1092,2,4,4,10,Loyal,Promising
+1094,3,4,3,10,Loyal,Promising
+1106,5,3,2,10,Loyal,Promising
+1111,2,4,4,10,Loyal,Promising
+1127,5,3,2,10,Loyal,Promising
+1134,4,3,3,10,Loyal,Promising
+1139,2,4,4,10,Loyal,Promising
+1158,2,4,4,10,Loyal,Promising
+1159,3,4,3,10,Loyal,Promising
+1161,3,4,3,10,Loyal,Promising
+1169,1,5,4,10,Loyal,Promising
+1175,3,3,4,10,Loyal,Promising
+1185,3,3,4,10,Loyal,Promising
+1187,3,4,3,10,Loyal,Promising
+1194,5,4,1,10,Loyal,Promising
+1196,5,4,1,10,Loyal,Promising
+1204,1,5,4,10,Loyal,Promising
+1211,3,3,4,10,Loyal,Promising
+1225,1,4,5,10,Loyal,Promising
+1230,3,4,3,10,Loyal,Promising
+1231,1,4,5,10,Loyal,Promising
+1245,3,4,3,10,Loyal,Promising
+1249,3,3,4,10,Loyal,Promising
+1253,2,4,4,10,Loyal,Promising
+1257,4,3,3,10,Loyal,Promising
+1258,2,4,4,10,Loyal,Promising
+1264,1,4,5,10,Loyal,Promising
+1266,4,3,3,10,Loyal,Promising
+1271,5,4,1,10,Loyal,Promising
+1281,3,4,3,10,Loyal,Promising
+1286,2,4,4,10,Loyal,Promising
+1292,2,4,4,10,Loyal,Promising
+1297,1,4,5,10,Loyal,Promising
+1303,3,4,3,10,Loyal,Promising
+1308,5,4,1,10,Loyal,Promising
+1322,2,4,4,10,Loyal,Promising
+1336,2,4,4,10,Loyal,Promising
+1337,1,4,5,10,Loyal,Promising
+1342,3,4,3,10,Loyal,Promising
+1344,3,4,3,10,Loyal,Promising
+1345,2,4,4,10,Loyal,Promising
+1347,3,4,3,10,Loyal,Promising
+1354,2,5,3,10,Loyal,Promising
+1361,2,4,4,10,Loyal,Promising
+1367,4,4,2,10,Loyal,Promising
+1371,2,4,4,10,Loyal,Promising
+1376,3,4,3,10,Loyal,Promising
+1383,3,3,4,10,Loyal,Promising
+1385,2,4,4,10,Loyal,Promising
+1394,4,3,3,10,Loyal,Promising
+1397,5,4,1,10,Loyal,Promising
+1399,3,4,3,10,Loyal,Promising
+1406,2,4,4,10,Loyal,Promising
+1409,2,4,4,10,Loyal,Promising
+1410,4,4,2,10,Loyal,Promising
+1414,4,4,2,10,Loyal,Promising
+1417,3,4,3,10,Loyal,Promising
+1420,2,4,4,10,Loyal,Promising
+1421,3,3,4,10,Loyal,Promising
+1424,2,4,4,10,Loyal,Promising
+1425,2,4,4,10,Loyal,Promising
+1432,3,4,3,10,Loyal,Promising
+1438,3,4,3,10,Loyal,Promising
+1444,5,3,2,10,Loyal,Promising
+1450,2,4,4,10,Loyal,Promising
+1466,3,3,4,10,Loyal,Promising
+1472,5,3,2,10,Loyal,Promising
+1478,2,4,4,10,Loyal,Promising
+1497,4,3,3,10,Loyal,Promising
+1503,2,4,4,10,Loyal,Promising
+1510,1,4,5,10,Loyal,Promising
+1514,5,4,1,10,Loyal,Promising
+1515,5,2,3,10,Loyal,Promising
+1521,3,4,3,10,Loyal,Promising
+1523,2,4,4,10,Loyal,Promising
+1533,5,4,1,10,Loyal,Promising
+1534,1,4,5,10,Loyal,Promising
+1535,1,4,5,10,Loyal,Promising
+1538,2,4,4,10,Loyal,Promising
+1543,2,4,4,10,Loyal,Promising
+1544,2,4,4,10,Loyal,Promising
+1545,1,4,5,10,Loyal,Promising
+1555,4,4,2,10,Loyal,Promising
+1559,5,2,3,10,Loyal,Promising
+1574,1,4,5,10,Loyal,Promising
+1577,4,3,3,10,Loyal,Promising
+1579,3,3,4,10,Loyal,Promising
+1587,5,3,2,10,Loyal,Promising
+1598,3,3,4,10,Loyal,Promising
+1599,3,4,3,10,Loyal,Promising
+1600,1,4,5,10,Loyal,Promising
+1611,3,3,4,10,Loyal,Promising
+1613,4,4,2,10,Loyal,Promising
+1624,3,4,3,10,Loyal,Promising
+1626,3,4,3,10,Loyal,Promising
+1628,1,4,5,10,Loyal,Promising
+1629,4,3,3,10,Loyal,Promising
+1633,2,4,4,10,Loyal,Promising
+1640,5,3,2,10,Loyal,Promising
+1644,5,2,3,10,Loyal,Promising
+1650,2,4,4,10,Loyal,Promising
+1652,1,4,5,10,Loyal,Promising
+1656,3,4,3,10,Loyal,Promising
+1660,3,4,3,10,Loyal,Promising
+1666,2,4,4,10,Loyal,Promising
+1676,2,4,4,10,Loyal,Promising
+1681,2,4,4,10,Loyal,Promising
+1683,3,4,3,10,Loyal,Promising
+1686,1,4,5,10,Loyal,Promising
+1690,2,4,4,10,Loyal,Promising
+1695,2,4,4,10,Loyal,Promising
+1702,2,4,4,10,Loyal,Promising
+1704,1,4,5,10,Loyal,Promising
+1705,5,4,1,10,Loyal,Promising
+1712,2,4,4,10,Loyal,Promising
+1715,2,4,4,10,Loyal,Promising
+1716,5,4,1,10,Loyal,Promising
+1717,4,3,3,10,Loyal,Promising
+1718,4,3,3,10,Loyal,Promising
+1721,3,4,3,10,Loyal,Promising
+1726,5,3,2,10,Loyal,Promising
+1733,2,4,4,10,Loyal,Promising
+1749,3,4,3,10,Loyal,Promising
+1751,2,4,4,10,Loyal,Promising
+1760,2,4,4,10,Loyal,Promising
+1766,3,4,3,10,Loyal,Promising
+1773,2,4,4,10,Loyal,Promising
+1790,3,4,3,10,Loyal,Promising
+1793,4,4,2,10,Loyal,Promising
+1795,3,4,3,10,Loyal,Promising
+1798,3,4,3,10,Loyal,Promising
+1803,3,4,3,10,Loyal,Promising
+1807,2,4,4,10,Loyal,Promising
+1809,2,4,4,10,Loyal,Promising
+1816,4,3,3,10,Loyal,Promising
+1834,3,4,3,10,Loyal,Promising
+1837,2,4,4,10,Loyal,Promising
+1841,4,3,3,10,Loyal,Promising
+1854,5,4,1,10,Loyal,Promising
+1855,2,4,4,10,Loyal,Promising
+1857,4,3,3,10,Loyal,Promising
+1864,4,4,2,10,Loyal,Promising
+1866,2,4,4,10,Loyal,Promising
+1878,3,3,4,10,Loyal,Promising
+1881,2,4,4,10,Loyal,Promising
+1887,5,3,2,10,Loyal,Promising
+1890,1,4,5,10,Loyal,Promising
+1891,4,4,2,10,Loyal,Promising
+1895,2,4,4,10,Loyal,Promising
+1910,1,4,5,10,Loyal,Promising
+1911,2,4,4,10,Loyal,Promising
+1916,3,4,3,10,Loyal,Promising
+1918,1,4,5,10,Loyal,Promising
+1924,2,4,4,10,Loyal,Promising
+1928,2,4,4,10,Loyal,Promising
+1931,5,2,3,10,Loyal,Promising
+1951,2,4,4,10,Loyal,Promising
+1952,3,3,4,10,Loyal,Promising
+1954,2,4,4,10,Loyal,Promising
+1956,5,3,2,10,Loyal,Promising
+1958,2,4,4,10,Loyal,Promising
+1975,4,4,2,10,Loyal,Promising
+1978,2,4,4,10,Loyal,Promising
+1982,2,4,4,10,Loyal,Promising
+1986,2,4,4,10,Loyal,Promising
+1987,4,3,3,10,Loyal,Promising
+1993,4,4,2,10,Loyal,Promising
+1995,1,4,5,10,Loyal,Promising
+2010,4,3,3,10,Loyal,At Risk
+2012,4,3,3,10,Loyal,At Risk
+2014,1,4,5,10,Loyal,At Risk
+2015,3,3,4,10,Loyal,At Risk
+2017,2,4,4,10,Loyal,At Risk
+2023,3,3,4,10,Loyal,At Risk
+2024,5,4,1,10,Loyal,At Risk
+2030,2,4,4,10,Loyal,At Risk
+2033,4,3,3,10,Loyal,At Risk
+2039,5,2,3,10,Loyal,At Risk
+2041,3,3,4,10,Loyal,At Risk
+2045,5,4,1,10,Loyal,At Risk
+2050,3,4,3,10,Loyal,At Risk
+2059,3,4,3,10,Loyal,At Risk
+2060,5,2,3,10,Loyal,At Risk
+2071,4,3,3,10,Loyal,At Risk
+2072,5,2,3,10,Loyal,At Risk
+2086,4,3,3,10,Loyal,At Risk
+2099,2,4,4,10,Loyal,At Risk
+2108,5,2,3,10,Loyal,At Risk
+2109,3,3,4,10,Loyal,At Risk
+2110,3,3,4,10,Loyal,At Risk
+2118,5,2,3,10,Loyal,At Risk
+2120,3,4,3,10,Loyal,At Risk
+2132,3,3,4,10,Loyal,At Risk
+2136,3,4,3,10,Loyal,At Risk
+2149,5,3,2,10,Loyal,At Risk
+2152,2,4,4,10,Loyal,At Risk
+2153,2,4,4,10,Loyal,At Risk
+2157,3,3,4,10,Loyal,At Risk
+2161,5,3,2,10,Loyal,At Risk
+2163,4,3,3,10,Loyal,At Risk
+2195,3,3,4,10,Loyal,At Risk
+2203,4,3,3,10,Loyal,At Risk
+2209,5,3,2,10,Loyal,At Risk
+2223,3,3,4,10,Loyal,At Risk
+2228,3,3,4,10,Loyal,At Risk
+2240,4,2,4,10,Loyal,At Risk
+2242,5,2,3,10,Loyal,At Risk
+2254,2,4,4,10,Loyal,At Risk
+2264,1,4,5,10,Loyal,At Risk
+2273,2,4,4,10,Loyal,At Risk
+2285,3,3,4,10,Loyal,At Risk
+2289,3,3,4,10,Loyal,At Risk
+2290,5,2,3,10,Loyal,At Risk
+2291,3,3,4,10,Loyal,At Risk
+2297,4,2,4,10,Loyal,At Risk
+2308,3,3,4,10,Loyal,At Risk
+2309,3,3,4,10,Loyal,At Risk
+2312,4,2,4,10,Loyal,At Risk
+2317,4,3,3,10,Loyal,At Risk
+2322,2,4,4,10,Loyal,At Risk
+2331,2,4,4,10,Loyal,At Risk
+2344,2,4,4,10,Loyal,At Risk
+2350,3,3,4,10,Loyal,At Risk
+2351,3,4,3,10,Loyal,At Risk
+2361,3,3,4,10,Loyal,At Risk
+2371,4,2,4,10,Loyal,At Risk
+2383,2,4,4,10,Loyal,At Risk
+2388,5,3,2,10,Loyal,At Risk
+2391,5,3,2,10,Loyal,At Risk
+2402,3,3,4,10,Loyal,At Risk
+2410,5,3,2,10,Loyal,At Risk
+2411,4,3,3,10,Loyal,At Risk
+2414,2,4,4,10,Loyal,At Risk
+2415,2,4,4,10,Loyal,At Risk
+2418,5,3,2,10,Loyal,At Risk
+2420,5,4,1,10,Loyal,At Risk
+2421,2,4,4,10,Loyal,At Risk
+2431,2,4,4,10,Loyal,At Risk
+2434,3,4,3,10,Loyal,At Risk
+2439,5,1,4,10,Loyal,At Risk
+2446,4,2,4,10,Loyal,At Risk
+2447,3,3,4,10,Loyal,At Risk
+2450,4,3,3,10,Loyal,At Risk
+2453,2,4,4,10,Loyal,At Risk
+2458,4,3,3,10,Loyal,At Risk
+2467,2,4,4,10,Loyal,At Risk
+2474,5,3,2,10,Loyal,At Risk
+2476,3,3,4,10,Loyal,At Risk
+2478,3,3,4,10,Loyal,At Risk
+2495,5,2,3,10,Loyal,At Risk
+2508,5,2,3,10,Loyal,At Risk
+2510,5,2,3,10,Loyal,At Risk
+2514,2,4,4,10,Loyal,At Risk
+2516,3,4,3,10,Loyal,At Risk
+2517,4,3,3,10,Loyal,At Risk
+2527,2,4,4,10,Loyal,At Risk
+2533,5,3,2,10,Loyal,At Risk
+2545,2,4,4,10,Loyal,At Risk
+2546,5,2,3,10,Loyal,At Risk
+2547,2,4,4,10,Loyal,At Risk
+2548,3,3,4,10,Loyal,At Risk
+2557,5,3,2,10,Loyal,At Risk
+2568,3,4,3,10,Loyal,At Risk
+2580,3,4,3,10,Loyal,At Risk
+2584,3,3,4,10,Loyal,At Risk
+2592,4,3,3,10,Loyal,At Risk
+2603,3,3,4,10,Loyal,At Risk
+2604,3,3,4,10,Loyal,At Risk
+2626,4,3,3,10,Loyal,At Risk
+2633,4,3,3,10,Loyal,At Risk
+2643,5,3,2,10,Loyal,At Risk
+2645,2,4,4,10,Loyal,At Risk
+2657,4,3,3,10,Loyal,At Risk
+2678,4,3,3,10,Loyal,At Risk
+2688,4,3,3,10,Loyal,At Risk
+2690,4,3,3,10,Loyal,At Risk
+2695,2,4,4,10,Loyal,At Risk
+2701,2,4,4,10,Loyal,At Risk
+2712,2,4,4,10,Loyal,At Risk
+2737,4,3,3,10,Loyal,At Risk
+2741,4,3,3,10,Loyal,At Risk
+2745,5,2,3,10,Loyal,At Risk
+2754,2,4,4,10,Loyal,At Risk
+2757,3,3,4,10,Loyal,At Risk
+2773,2,4,4,10,Loyal,At Risk
+2775,3,3,4,10,Loyal,At Risk
+2791,1,4,5,10,Loyal,At Risk
+2797,3,3,4,10,Loyal,At Risk
+2805,2,4,4,10,Loyal,At Risk
+2806,5,2,3,10,Loyal,At Risk
+2807,5,1,4,10,Loyal,At Risk
+2813,5,4,1,10,Loyal,At Risk
+2821,4,3,3,10,Loyal,At Risk
+2825,2,4,4,10,Loyal,At Risk
+2826,2,4,4,10,Loyal,At Risk
+2850,1,4,5,10,Loyal,At Risk
+2861,3,3,4,10,Loyal,At Risk
+2862,4,2,4,10,Loyal,At Risk
+2864,4,3,3,10,Loyal,At Risk
+2869,4,3,3,10,Loyal,At Risk
+2874,4,3,3,10,Loyal,At Risk
+2876,5,3,2,10,Loyal,At Risk
+2880,5,4,1,10,Loyal,At Risk
+2886,5,2,3,10,Loyal,At Risk
+2888,4,3,3,10,Loyal,At Risk
+2890,5,3,2,10,Loyal,At Risk
+2897,2,4,4,10,Loyal,At Risk
+2904,4,3,3,10,Loyal,At Risk
+2911,4,3,3,10,Loyal,At Risk
+2914,2,4,4,10,Loyal,At Risk
+2918,3,3,4,10,Loyal,At Risk
+2935,3,3,4,10,Loyal,At Risk
+2946,5,2,3,10,Loyal,At Risk
+2950,5,2,3,10,Loyal,At Risk
+2955,2,4,4,10,Loyal,At Risk
+2964,3,3,4,10,Loyal,At Risk
+2967,3,3,4,10,Loyal,At Risk
+2974,3,3,4,10,Loyal,At Risk
+2978,3,3,4,10,Loyal,At Risk
+2983,2,4,4,10,Loyal,At Risk
+2991,3,3,4,10,Loyal,At Risk
+2996,5,1,4,10,Loyal,At Risk
+3005,3,3,4,10,Loyal,At Risk
+3013,4,3,3,10,Loyal,At Risk
+3015,3,3,4,10,Loyal,At Risk
+3026,3,3,4,10,Loyal,At Risk
+3031,4,3,3,10,Loyal,At Risk
+3037,4,3,3,10,Loyal,At Risk
+3047,2,4,4,10,Loyal,At Risk
+3052,3,3,4,10,Loyal,At Risk
+3055,2,4,4,10,Loyal,At Risk
+3057,3,3,4,10,Loyal,At Risk
+3074,4,3,3,10,Loyal,At Risk
+3077,3,3,4,10,Loyal,At Risk
+3081,5,3,2,10,Loyal,At Risk
+3087,4,3,3,10,Loyal,At Risk
+3089,3,3,4,10,Loyal,At Risk
+3097,5,2,3,10,Loyal,At Risk
+3105,2,4,4,10,Loyal,At Risk
+3122,3,3,4,10,Loyal,At Risk
+3123,4,4,2,10,Loyal,At Risk
+3129,3,4,3,10,Loyal,At Risk
+3133,5,2,3,10,Loyal,At Risk
+3141,3,3,4,10,Loyal,At Risk
+3144,4,4,2,10,Loyal,At Risk
+3148,5,3,2,10,Loyal,At Risk
+3149,2,4,4,10,Loyal,At Risk
+3154,5,2,3,10,Loyal,At Risk
+3168,4,3,3,10,Loyal,At Risk
+3169,3,3,4,10,Loyal,At Risk
+3174,4,3,3,10,Loyal,At Risk
+3183,3,3,4,10,Loyal,At Risk
+3192,3,4,3,10,Loyal,At Risk
+3195,5,4,1,10,Loyal,At Risk
+3196,3,3,4,10,Loyal,At Risk
+3202,4,3,3,10,Loyal,At Risk
+3212,3,3,4,10,Loyal,At Risk
+3220,2,4,4,10,Loyal,At Risk
+3222,2,4,4,10,Loyal,At Risk
+3230,4,3,3,10,Loyal,At Risk
+3232,3,3,4,10,Loyal,At Risk
+3238,4,3,3,10,Loyal,At Risk
+3242,3,3,4,10,Loyal,At Risk
+3277,5,1,4,10,Loyal,Hibernating
+3314,5,3,2,10,Loyal,Hibernating
+3321,5,2,3,10,Loyal,Hibernating
+3322,4,3,3,10,Loyal,Hibernating
+3323,5,2,3,10,Loyal,Hibernating
+3324,5,2,3,10,Loyal,Hibernating
+3373,5,2,3,10,Loyal,Hibernating
+3376,5,2,3,10,Loyal,Hibernating
+3384,5,2,3,10,Loyal,Hibernating
+3394,4,3,3,10,Loyal,Hibernating
+3398,5,2,3,10,Loyal,Hibernating
+3403,5,2,3,10,Loyal,Hibernating
+3470,5,3,2,10,Loyal,Hibernating
+3495,4,2,4,10,Loyal,Hibernating
+3499,5,2,3,10,Loyal,Hibernating
+3528,5,1,4,10,Loyal,Hibernating
+3555,5,2,3,10,Loyal,Hibernating
+3560,4,3,3,10,Loyal,Hibernating
+3577,5,2,3,10,Loyal,Hibernating
+3581,5,2,3,10,Loyal,Hibernating
+3593,5,3,2,10,Loyal,Hibernating
+3627,5,2,3,10,Loyal,Hibernating
+3641,4,3,3,10,Loyal,Hibernating
+3692,5,2,3,10,Loyal,Hibernating
+3700,5,2,3,10,Loyal,Hibernating
+3750,3,3,4,10,Loyal,Hibernating
+3758,5,2,3,10,Loyal,Hibernating
+3820,5,2,3,10,Loyal,Hibernating
+3826,4,2,4,10,Loyal,Hibernating
+3911,5,2,3,10,Loyal,Hibernating
+4064,4,3,3,10,Loyal,Hibernating
+4074,4,3,3,10,Loyal,Hibernating
+4076,5,2,3,10,Loyal,Hibernating
+4094,5,2,3,10,Loyal,Hibernating
+4128,4,2,4,10,Loyal,Hibernating
+4131,3,3,4,10,Loyal,Hibernating
+4139,4,3,3,10,Loyal,Hibernating
+4152,4,2,4,10,Loyal,Hibernating
+4160,4,3,3,10,Loyal,Hibernating
+4162,3,3,4,10,Loyal,Hibernating
+4215,5,3,2,10,Loyal,Hibernating
+4221,4,2,4,10,Loyal,Hibernating
+4228,4,2,4,10,Loyal,Hibernating
+4238,5,2,3,10,Loyal,Hibernating
+4252,4,3,3,10,Loyal,Hibernating
+4261,4,3,3,10,Loyal,Hibernating
+4287,5,2,3,10,Loyal,Hibernating
+4293,5,2,3,10,Loyal,Hibernating
+4305,4,3,3,10,Loyal,Hibernating
+4358,4,3,3,10,Loyal,Hibernating
+4382,5,2,3,10,Loyal,Hibernating
+4392,5,2,3,10,Loyal,Hibernating
+4434,5,2,3,10,Loyal,Hibernating
+4439,5,2,3,10,Loyal,Hibernating
+4461,3,3,4,10,Loyal,Hibernating
+4474,5,2,3,10,Loyal,Hibernating
+4483,5,2,3,10,Loyal,Hibernating
+4499,5,2,3,10,Loyal,Hibernating
+4518,5,2,3,10,Loyal,Hibernating
+4546,5,2,3,10,Loyal,Hibernating
+4592,5,2,3,10,Loyal,Hibernating
+4638,5,1,4,10,Loyal,Hibernating
+4700,5,2,3,10,Loyal,Hibernating
+4703,4,2,4,10,Loyal,Hibernating
+4717,5,2,3,10,Loyal,Hibernating
+4773,5,2,3,10,Loyal,Hibernating
+4778,3,3,4,10,Loyal,Hibernating
+4794,5,1,4,10,Loyal,Hibernating
+4801,5,2,3,10,Loyal,Hibernating
+4860,5,2,3,10,Loyal,Hibernating
+4872,5,2,3,10,Loyal,Hibernating
+4886,5,1,4,10,Loyal,Hibernating
+4907,3,3,4,10,Loyal,Hibernating
+4941,5,2,3,10,Loyal,Hibernating
+44,3,5,1,9,Loyal,Champions
+74,3,5,1,9,Loyal,Champions
+411,2,5,2,9,Loyal,Loyal
+764,1,5,3,9,Loyal,Loyal
+912,1,4,4,9,Loyal,Loyal
+945,1,4,4,9,Loyal,Loyal
+949,1,5,3,9,Loyal,Loyal
+995,2,5,2,9,Loyal,Loyal
+1024,2,4,3,9,Loyal,Promising
+1038,5,3,1,9,Loyal,Promising
+1043,2,3,4,9,Loyal,Promising
+1044,2,4,3,9,Loyal,Promising
+1057,2,3,4,9,Loyal,Promising
+1058,2,4,3,9,Loyal,Promising
+1060,4,2,3,9,Loyal,Promising
+1069,5,3,1,9,Loyal,Promising
+1075,2,4,3,9,Loyal,Promising
+1085,1,4,4,9,Loyal,Promising
+1086,3,2,4,9,Loyal,Promising
+1099,1,4,4,9,Loyal,Promising
+1108,1,4,4,9,Loyal,Promising
+1109,1,4,4,9,Loyal,Promising
+1115,3,3,3,9,Loyal,Promising
+1122,2,3,4,9,Loyal,Promising
+1131,1,4,4,9,Loyal,Promising
+1133,1,4,4,9,Loyal,Promising
+1135,1,4,4,9,Loyal,Promising
+1136,1,4,4,9,Loyal,Promising
+1140,2,4,3,9,Loyal,Promising
+1144,3,3,3,9,Loyal,Promising
+1153,4,4,1,9,Loyal,Promising
+1155,1,4,4,9,Loyal,Promising
+1171,1,4,4,9,Loyal,Promising
+1172,2,3,4,9,Loyal,Promising
+1173,3,2,4,9,Loyal,Promising
+1179,3,3,3,9,Loyal,Promising
+1192,2,4,3,9,Loyal,Promising
+1195,4,4,1,9,Loyal,Promising
+1197,4,2,3,9,Loyal,Promising
+1207,2,4,3,9,Loyal,Promising
+1208,1,4,4,9,Loyal,Promising
+1212,1,4,4,9,Loyal,Promising
+1213,1,4,4,9,Loyal,Promising
+1216,5,3,1,9,Loyal,Promising
+1218,1,4,4,9,Loyal,Promising
+1228,1,4,4,9,Loyal,Promising
+1232,1,4,4,9,Loyal,Promising
+1243,3,3,3,9,Loyal,Promising
+1247,4,4,1,9,Loyal,Promising
+1250,1,4,4,9,Loyal,Promising
+1252,1,4,4,9,Loyal,Promising
+1265,2,3,4,9,Loyal,Promising
+1267,4,2,3,9,Loyal,Promising
+1272,3,3,3,9,Loyal,Promising
+1294,4,4,1,9,Loyal,Promising
+1310,3,3,3,9,Loyal,Promising
+1321,2,4,3,9,Loyal,Promising
+1328,1,4,4,9,Loyal,Promising
+1331,4,4,1,9,Loyal,Promising
+1340,4,2,3,9,Loyal,Promising
+1343,1,4,4,9,Loyal,Promising
+1346,1,4,4,9,Loyal,Promising
+1359,1,4,4,9,Loyal,Promising
+1363,1,4,4,9,Loyal,Promising
+1369,2,4,3,9,Loyal,Promising
+1370,1,4,4,9,Loyal,Promising
+1372,1,4,4,9,Loyal,Promising
+1379,2,4,3,9,Loyal,Promising
+1380,4,4,1,9,Loyal,Promising
+1381,1,4,4,9,Loyal,Promising
+1384,1,4,4,9,Loyal,Promising
+1386,2,3,4,9,Loyal,Promising
+1398,1,4,4,9,Loyal,Promising
+1400,2,4,3,9,Loyal,Promising
+1413,2,4,3,9,Loyal,Promising
+1426,2,4,3,9,Loyal,Promising
+1427,2,3,4,9,Loyal,Promising
+1434,2,4,3,9,Loyal,Promising
+1442,2,4,3,9,Loyal,Promising
+1443,5,2,2,9,Loyal,Promising
+1448,1,4,4,9,Loyal,Promising
+1452,2,3,4,9,Loyal,Promising
+1456,2,4,3,9,Loyal,Promising
+1460,4,4,1,9,Loyal,Promising
+1461,2,3,4,9,Loyal,Promising
+1462,1,4,4,9,Loyal,Promising
+1469,5,3,1,9,Loyal,Promising
+1475,1,4,4,9,Loyal,Promising
+1489,1,4,4,9,Loyal,Promising
+1495,1,4,4,9,Loyal,Promising
+1496,2,3,4,9,Loyal,Promising
+1500,2,3,4,9,Loyal,Promising
+1501,1,4,4,9,Loyal,Promising
+1511,4,3,2,9,Loyal,Promising
+1522,1,4,4,9,Loyal,Promising
+1528,1,4,4,9,Loyal,Promising
+1531,2,4,3,9,Loyal,Promising
+1547,1,4,4,9,Loyal,Promising
+1551,1,4,4,9,Loyal,Promising
+1566,4,2,3,9,Loyal,Promising
+1567,1,4,4,9,Loyal,Promising
+1569,4,3,2,9,Loyal,Promising
+1572,2,3,4,9,Loyal,Promising
+1578,1,4,4,9,Loyal,Promising
+1583,2,3,4,9,Loyal,Promising
+1590,4,4,1,9,Loyal,Promising
+1597,2,3,4,9,Loyal,Promising
+1610,1,4,4,9,Loyal,Promising
+1616,1,4,4,9,Loyal,Promising
+1619,1,4,4,9,Loyal,Promising
+1620,1,4,4,9,Loyal,Promising
+1627,1,4,4,9,Loyal,Promising
+1637,4,4,1,9,Loyal,Promising
+1638,4,4,1,9,Loyal,Promising
+1639,4,3,2,9,Loyal,Promising
+1647,2,3,4,9,Loyal,Promising
+1649,4,3,2,9,Loyal,Promising
+1659,4,4,1,9,Loyal,Promising
+1672,5,1,3,9,Loyal,Promising
+1673,1,5,3,9,Loyal,Promising
+1680,1,4,4,9,Loyal,Promising
+1693,1,4,4,9,Loyal,Promising
+1699,2,4,3,9,Loyal,Promising
+1700,5,2,2,9,Loyal,Promising
+1708,1,4,4,9,Loyal,Promising
+1719,1,4,4,9,Loyal,Promising
+1728,1,4,4,9,Loyal,Promising
+1732,1,4,4,9,Loyal,Promising
+1734,1,4,4,9,Loyal,Promising
+1742,1,4,4,9,Loyal,Promising
+1752,2,4,3,9,Loyal,Promising
+1761,1,4,4,9,Loyal,Promising
+1771,1,4,4,9,Loyal,Promising
+1775,1,4,4,9,Loyal,Promising
+1779,1,4,4,9,Loyal,Promising
+1780,1,4,4,9,Loyal,Promising
+1788,1,4,4,9,Loyal,Promising
+1817,2,4,3,9,Loyal,Promising
+1829,1,4,4,9,Loyal,Promising
+1831,1,4,4,9,Loyal,Promising
+1832,4,4,1,9,Loyal,Promising
+1838,1,4,4,9,Loyal,Promising
+1869,1,4,4,9,Loyal,Promising
+1871,1,4,4,9,Loyal,Promising
+1873,1,4,4,9,Loyal,Promising
+1883,1,4,4,9,Loyal,Promising
+1889,3,3,3,9,Loyal,Promising
+1894,1,4,4,9,Loyal,Promising
+1898,1,4,4,9,Loyal,Promising
+1900,2,4,3,9,Loyal,Promising
+1907,2,4,3,9,Loyal,Promising
+1908,2,4,3,9,Loyal,Promising
+1922,3,2,4,9,Loyal,Promising
+1935,2,4,3,9,Loyal,Promising
+1936,2,4,3,9,Loyal,Promising
+1938,3,3,3,9,Loyal,Promising
+1939,2,4,3,9,Loyal,Promising
+1941,2,4,3,9,Loyal,Promising
+1942,3,4,2,9,Loyal,Promising
+1946,5,2,2,9,Loyal,Promising
+1948,2,4,3,9,Loyal,Promising
+1949,1,4,4,9,Loyal,Promising
+1953,1,4,4,9,Loyal,Promising
+1955,5,3,1,9,Loyal,Promising
+1960,3,3,3,9,Loyal,Promising
+1967,5,3,1,9,Loyal,Promising
+1976,2,4,3,9,Loyal,Promising
+1979,3,4,2,9,Loyal,Promising
+1992,3,3,3,9,Loyal,Promising
+1999,2,4,3,9,Loyal,Promising
+2000,3,3,3,9,Loyal,Promising
+2001,2,3,4,9,Loyal,At Risk
+2002,4,4,1,9,Loyal,At Risk
+2007,3,3,3,9,Loyal,At Risk
+2018,5,3,1,9,Loyal,At Risk
+2026,4,2,3,9,Loyal,At Risk
+2028,3,3,3,9,Loyal,At Risk
+2031,2,3,4,9,Loyal,At Risk
+2035,2,4,3,9,Loyal,At Risk
+2037,5,1,3,9,Loyal,At Risk
+2038,2,4,3,9,Loyal,At Risk
+2040,3,3,3,9,Loyal,At Risk
+2043,2,3,4,9,Loyal,At Risk
+2049,3,3,3,9,Loyal,At Risk
+2056,4,2,3,9,Loyal,At Risk
+2057,4,2,3,9,Loyal,At Risk
+2064,4,2,3,9,Loyal,At Risk
+2068,2,3,4,9,Loyal,At Risk
+2073,2,3,4,9,Loyal,At Risk
+2075,2,4,3,9,Loyal,At Risk
+2081,1,4,4,9,Loyal,At Risk
+2088,4,3,2,9,Loyal,At Risk
+2089,4,2,3,9,Loyal,At Risk
+2091,3,3,3,9,Loyal,At Risk
+2102,1,3,5,9,Loyal,At Risk
+2113,1,4,4,9,Loyal,At Risk
+2124,1,4,4,9,Loyal,At Risk
+2127,4,3,2,9,Loyal,At Risk
+2128,5,3,1,9,Loyal,At Risk
+2140,4,2,3,9,Loyal,At Risk
+2143,4,3,2,9,Loyal,At Risk
+2147,4,2,3,9,Loyal,At Risk
+2158,3,3,3,9,Loyal,At Risk
+2159,4,2,3,9,Loyal,At Risk
+2172,5,2,2,9,Loyal,At Risk
+2174,3,3,3,9,Loyal,At Risk
+2177,2,3,4,9,Loyal,At Risk
+2183,4,3,2,9,Loyal,At Risk
+2189,1,4,4,9,Loyal,At Risk
+2194,5,3,1,9,Loyal,At Risk
+2200,2,3,4,9,Loyal,At Risk
+2212,2,4,3,9,Loyal,At Risk
+2216,4,3,2,9,Loyal,At Risk
+2218,1,4,4,9,Loyal,At Risk
+2220,2,3,4,9,Loyal,At Risk
+2221,3,4,2,9,Loyal,At Risk
+2234,4,3,2,9,Loyal,At Risk
+2235,4,3,2,9,Loyal,At Risk
+2236,3,2,4,9,Loyal,At Risk
+2237,5,3,1,9,Loyal,At Risk
+2239,2,3,4,9,Loyal,At Risk
+2250,3,3,3,9,Loyal,At Risk
+2253,1,4,4,9,Loyal,At Risk
+2260,4,3,2,9,Loyal,At Risk
+2270,2,4,3,9,Loyal,At Risk
+2278,3,3,3,9,Loyal,At Risk
+2282,3,3,3,9,Loyal,At Risk
+2283,4,3,2,9,Loyal,At Risk
+2287,1,4,4,9,Loyal,At Risk
+2293,2,3,4,9,Loyal,At Risk
+2294,5,2,2,9,Loyal,At Risk
+2298,3,3,3,9,Loyal,At Risk
+2302,2,3,4,9,Loyal,At Risk
+2315,2,3,4,9,Loyal,At Risk
+2328,2,4,3,9,Loyal,At Risk
+2330,5,1,3,9,Loyal,At Risk
+2335,1,4,4,9,Loyal,At Risk
+2337,4,4,1,9,Loyal,At Risk
+2342,4,3,2,9,Loyal,At Risk
+2343,4,2,3,9,Loyal,At Risk
+2359,3,3,3,9,Loyal,At Risk
+2366,2,4,3,9,Loyal,At Risk
+2370,2,3,4,9,Loyal,At Risk
+2385,3,3,3,9,Loyal,At Risk
+2387,3,3,3,9,Loyal,At Risk
+2394,2,4,3,9,Loyal,At Risk
+2399,1,4,4,9,Loyal,At Risk
+2405,2,3,4,9,Loyal,At Risk
+2430,3,3,3,9,Loyal,At Risk
+2452,3,3,3,9,Loyal,At Risk
+2454,3,4,2,9,Loyal,At Risk
+2457,5,3,1,9,Loyal,At Risk
+2465,4,3,2,9,Loyal,At Risk
+2477,3,4,2,9,Loyal,At Risk
+2483,4,3,2,9,Loyal,At Risk
+2484,2,3,4,9,Loyal,At Risk
+2485,1,4,4,9,Loyal,At Risk
+2496,2,3,4,9,Loyal,At Risk
+2499,4,2,3,9,Loyal,At Risk
+2503,3,3,3,9,Loyal,At Risk
+2507,2,4,3,9,Loyal,At Risk
+2511,1,4,4,9,Loyal,At Risk
+2515,2,3,4,9,Loyal,At Risk
+2526,2,4,3,9,Loyal,At Risk
+2541,2,3,4,9,Loyal,At Risk
+2552,3,2,4,9,Loyal,At Risk
+2561,2,3,4,9,Loyal,At Risk
+2562,2,3,4,9,Loyal,At Risk
+2565,1,4,4,9,Loyal,At Risk
+2578,4,2,3,9,Loyal,At Risk
+2581,2,3,4,9,Loyal,At Risk
+2582,2,4,3,9,Loyal,At Risk
+2588,3,3,3,9,Loyal,At Risk
+2589,1,4,4,9,Loyal,At Risk
+2590,1,4,4,9,Loyal,At Risk
+2600,2,4,3,9,Loyal,At Risk
+2601,2,3,4,9,Loyal,At Risk
+2605,1,4,4,9,Loyal,At Risk
+2606,3,4,2,9,Loyal,At Risk
+2610,2,3,4,9,Loyal,At Risk
+2621,2,3,4,9,Loyal,At Risk
+2631,4,3,2,9,Loyal,At Risk
+2641,1,4,4,9,Loyal,At Risk
+2642,2,4,3,9,Loyal,At Risk
+2649,3,3,3,9,Loyal,At Risk
+2653,3,3,3,9,Loyal,At Risk
+2654,3,3,3,9,Loyal,At Risk
+2656,1,4,4,9,Loyal,At Risk
+2660,3,3,3,9,Loyal,At Risk
+2664,2,4,3,9,Loyal,At Risk
+2665,5,3,1,9,Loyal,At Risk
+2669,1,4,4,9,Loyal,At Risk
+2680,5,2,2,9,Loyal,At Risk
+2686,4,3,2,9,Loyal,At Risk
+2692,3,3,3,9,Loyal,At Risk
+2694,3,3,3,9,Loyal,At Risk
+2718,3,3,3,9,Loyal,At Risk
+2719,1,4,4,9,Loyal,At Risk
+2725,1,4,4,9,Loyal,At Risk
+2743,5,1,3,9,Loyal,At Risk
+2744,2,3,4,9,Loyal,At Risk
+2750,3,3,3,9,Loyal,At Risk
+2752,4,3,2,9,Loyal,At Risk
+2756,2,4,3,9,Loyal,At Risk
+2761,4,3,2,9,Loyal,At Risk
+2762,2,3,4,9,Loyal,At Risk
+2776,4,3,2,9,Loyal,At Risk
+2777,2,4,3,9,Loyal,At Risk
+2780,2,4,3,9,Loyal,At Risk
+2782,2,4,3,9,Loyal,At Risk
+2796,4,3,2,9,Loyal,At Risk
+2803,1,4,4,9,Loyal,At Risk
+2809,5,2,2,9,Loyal,At Risk
+2810,3,3,3,9,Loyal,At Risk
+2815,1,4,4,9,Loyal,At Risk
+2818,4,3,2,9,Loyal,At Risk
+2819,3,3,3,9,Loyal,At Risk
+2823,4,3,2,9,Loyal,At Risk
+2835,4,3,2,9,Loyal,At Risk
+2840,2,3,4,9,Loyal,At Risk
+2844,2,3,4,9,Loyal,At Risk
+2847,4,3,2,9,Loyal,At Risk
+2853,2,3,4,9,Loyal,At Risk
+2868,4,3,2,9,Loyal,At Risk
+2873,2,3,4,9,Loyal,At Risk
+2883,5,2,2,9,Loyal,At Risk
+2899,5,1,3,9,Loyal,At Risk
+2902,3,3,3,9,Loyal,At Risk
+2910,2,4,3,9,Loyal,At Risk
+2919,1,4,4,9,Loyal,At Risk
+2932,2,3,4,9,Loyal,At Risk
+2949,2,3,4,9,Loyal,At Risk
+2951,3,4,2,9,Loyal,At Risk
+2958,3,3,3,9,Loyal,At Risk
+2959,5,2,2,9,Loyal,At Risk
+2961,3,3,3,9,Loyal,At Risk
+2965,2,3,4,9,Loyal,At Risk
+2976,2,3,4,9,Loyal,At Risk
+2981,2,4,3,9,Loyal,At Risk
+3000,3,3,3,9,Loyal,At Risk
+3016,3,3,3,9,Loyal,At Risk
+3024,3,3,3,9,Loyal,At Risk
+3027,1,4,4,9,Loyal,At Risk
+3029,1,4,4,9,Loyal,At Risk
+3032,1,4,4,9,Loyal,At Risk
+3038,2,3,4,9,Loyal,At Risk
+3043,3,3,3,9,Loyal,At Risk
+3046,2,4,3,9,Loyal,At Risk
+3048,4,3,2,9,Loyal,At Risk
+3062,5,3,1,9,Loyal,At Risk
+3063,4,3,2,9,Loyal,At Risk
+3071,5,2,2,9,Loyal,At Risk
+3073,5,2,2,9,Loyal,At Risk
+3094,1,4,4,9,Loyal,At Risk
+3100,4,2,3,9,Loyal,At Risk
+3104,4,3,2,9,Loyal,At Risk
+3110,2,4,3,9,Loyal,At Risk
+3117,4,3,2,9,Loyal,At Risk
+3125,5,3,1,9,Loyal,At Risk
+3126,2,3,4,9,Loyal,At Risk
+3128,5,2,2,9,Loyal,At Risk
+3134,5,2,2,9,Loyal,At Risk
+3135,2,4,3,9,Loyal,At Risk
+3137,4,2,3,9,Loyal,At Risk
+3142,3,3,3,9,Loyal,At Risk
+3143,1,4,4,9,Loyal,At Risk
+3156,5,2,2,9,Loyal,At Risk
+3160,3,3,3,9,Loyal,At Risk
+3161,1,4,4,9,Loyal,At Risk
+3162,3,3,3,9,Loyal,At Risk
+3194,4,3,2,9,Loyal,At Risk
+3197,2,3,4,9,Loyal,At Risk
+3207,2,3,4,9,Loyal,At Risk
+3209,2,3,4,9,Loyal,At Risk
+3218,2,3,4,9,Loyal,At Risk
+3223,3,2,4,9,Loyal,At Risk
+3226,5,3,1,9,Loyal,At Risk
+3228,2,3,4,9,Loyal,At Risk
+3233,5,3,1,9,Loyal,At Risk
+3241,3,3,3,9,Loyal,At Risk
+3247,5,3,1,9,Loyal,At Risk
+3250,4,1,4,9,Loyal,At Risk
+3263,4,2,3,9,Loyal,Hibernating
+3289,5,2,2,9,Loyal,Hibernating
+3291,4,2,3,9,Loyal,Hibernating
+3297,3,2,4,9,Loyal,Hibernating
+3300,5,2,2,9,Loyal,Hibernating
+3304,5,2,2,9,Loyal,Hibernating
+3308,5,1,3,9,Loyal,Hibernating
+3335,3,2,4,9,Loyal,Hibernating
+3339,5,1,3,9,Loyal,Hibernating
+3359,5,1,3,9,Loyal,Hibernating
+3372,4,2,3,9,Loyal,Hibernating
+3375,4,2,3,9,Loyal,Hibernating
+3393,3,3,3,9,Loyal,Hibernating
+3406,5,2,2,9,Loyal,Hibernating
+3430,5,3,1,9,Loyal,Hibernating
+3435,5,2,2,9,Loyal,Hibernating
+3471,3,3,3,9,Loyal,Hibernating
+3486,2,3,4,9,Loyal,Hibernating
+3498,4,3,2,9,Loyal,Hibernating
+3500,5,3,1,9,Loyal,Hibernating
+3510,3,3,3,9,Loyal,Hibernating
+3517,5,1,3,9,Loyal,Hibernating
+3527,5,2,2,9,Loyal,Hibernating
+3539,5,2,2,9,Loyal,Hibernating
+3568,4,1,4,9,Loyal,Hibernating
+3607,4,2,3,9,Loyal,Hibernating
+3615,5,2,2,9,Loyal,Hibernating
+3621,4,2,3,9,Loyal,Hibernating
+3629,5,2,2,9,Loyal,Hibernating
+3633,5,1,3,9,Loyal,Hibernating
+3635,3,2,4,9,Loyal,Hibernating
+3658,5,2,2,9,Loyal,Hibernating
+3751,5,2,2,9,Loyal,Hibernating
+3771,4,2,3,9,Loyal,Hibernating
+3772,3,3,3,9,Loyal,Hibernating
+3778,5,1,3,9,Loyal,Hibernating
+3781,4,2,3,9,Loyal,Hibernating
+3793,4,2,3,9,Loyal,Hibernating
+3794,5,2,2,9,Loyal,Hibernating
+3807,5,1,3,9,Loyal,Hibernating
+3823,5,2,2,9,Loyal,Hibernating
+3830,3,3,3,9,Loyal,Hibernating
+3838,5,2,2,9,Loyal,Hibernating
+3856,5,2,2,9,Loyal,Hibernating
+3859,5,1,3,9,Loyal,Hibernating
+3902,4,2,3,9,Loyal,Hibernating
+3905,5,2,2,9,Loyal,Hibernating
+3921,4,1,4,9,Loyal,Hibernating
+3939,3,3,3,9,Loyal,Hibernating
+3941,5,2,2,9,Loyal,Hibernating
+3943,4,2,3,9,Loyal,Hibernating
+3948,4,1,4,9,Loyal,Hibernating
+3953,5,2,2,9,Loyal,Hibernating
+3964,5,2,2,9,Loyal,Hibernating
+3977,4,1,4,9,Loyal,Hibernating
+4005,4,2,3,9,Loyal,Hibernating
+4012,4,2,3,9,Loyal,Hibernating
+4013,4,3,2,9,Loyal,Hibernating
+4017,5,2,2,9,Loyal,Hibernating
+4025,5,1,3,9,Loyal,Hibernating
+4026,4,2,3,9,Loyal,Hibernating
+4030,5,1,3,9,Loyal,Hibernating
+4034,3,3,3,9,Loyal,Hibernating
+4056,5,1,3,9,Loyal,Hibernating
+4060,4,2,3,9,Loyal,Hibernating
+4061,2,3,4,9,Loyal,Hibernating
+4070,4,2,3,9,Loyal,Hibernating
+4080,5,1,3,9,Loyal,Hibernating
+4107,5,3,1,9,Loyal,Hibernating
+4114,3,2,4,9,Loyal,Hibernating
+4127,5,2,2,9,Loyal,Hibernating
+4141,5,1,3,9,Loyal,Hibernating
+4148,5,1,3,9,Loyal,Hibernating
+4156,4,2,3,9,Loyal,Hibernating
+4175,4,2,3,9,Loyal,Hibernating
+4176,5,3,1,9,Loyal,Hibernating
+4181,4,2,3,9,Loyal,Hibernating
+4196,4,2,3,9,Loyal,Hibernating
+4209,4,2,3,9,Loyal,Hibernating
+4222,2,3,4,9,Loyal,Hibernating
+4237,4,2,3,9,Loyal,Hibernating
+4246,5,2,2,9,Loyal,Hibernating
+4259,5,2,2,9,Loyal,Hibernating
+4289,4,2,3,9,Loyal,Hibernating
+4292,5,2,2,9,Loyal,Hibernating
+4307,5,2,2,9,Loyal,Hibernating
+4328,5,1,3,9,Loyal,Hibernating
+4369,5,2,2,9,Loyal,Hibernating
+4370,4,2,3,9,Loyal,Hibernating
+4390,4,2,3,9,Loyal,Hibernating
+4399,5,1,3,9,Loyal,Hibernating
+4414,4,2,3,9,Loyal,Hibernating
+4418,4,2,3,9,Loyal,Hibernating
+4437,2,3,4,9,Loyal,Hibernating
+4438,3,3,3,9,Loyal,Hibernating
+4448,5,2,2,9,Loyal,Hibernating
+4482,4,2,3,9,Loyal,Hibernating
+4491,4,2,3,9,Loyal,Hibernating
+4577,4,2,3,9,Loyal,Hibernating
+4580,4,2,3,9,Loyal,Hibernating
+4598,2,3,4,9,Loyal,Hibernating
+4621,5,1,3,9,Loyal,Hibernating
+4676,5,2,2,9,Loyal,Hibernating
+4680,4,2,3,9,Loyal,Hibernating
+4682,5,2,2,9,Loyal,Hibernating
+4694,3,3,3,9,Loyal,Hibernating
+4714,3,2,4,9,Loyal,Hibernating
+4718,2,3,4,9,Loyal,Hibernating
+4733,3,3,3,9,Loyal,Hibernating
+4740,4,3,2,9,Loyal,Hibernating
+4745,5,3,1,9,Loyal,Hibernating
+4766,3,3,3,9,Loyal,Hibernating
+4771,5,2,2,9,Loyal,Hibernating
+4792,5,2,2,9,Loyal,Hibernating
+4806,5,1,3,9,Loyal,Hibernating
+4821,4,1,4,9,Loyal,Hibernating
+4822,5,1,3,9,Loyal,Hibernating
+4838,5,2,2,9,Loyal,Hibernating
+4842,5,1,3,9,Loyal,Hibernating
+4851,4,3,2,9,Loyal,Hibernating
+4894,3,2,4,9,Loyal,Hibernating
+4904,5,1,3,9,Loyal,Hibernating
+4909,5,2,2,9,Loyal,Hibernating
+4912,3,3,3,9,Loyal,Hibernating
+4913,5,1,3,9,Loyal,Hibernating
+4920,5,1,3,9,Loyal,Hibernating
+4930,2,3,4,9,Loyal,Hibernating
+4947,4,2,3,9,Loyal,Hibernating
+4951,4,2,3,9,Loyal,Hibernating
+4966,3,2,4,9,Loyal,Hibernating
+4972,5,2,2,9,Loyal,Hibernating
+4975,5,3,1,9,Loyal,Hibernating
+4986,4,2,3,9,Loyal,Hibernating
+4999,2,3,4,9,Loyal,Hibernating
+181,2,5,1,8,At Risk,Champions
+264,1,5,2,8,At Risk,Loyal
+1005,3,2,3,8,Hibernating,Promising
+1020,1,4,3,8,At Risk,Promising
+1032,1,4,3,8,At Risk,Promising
+1035,2,3,3,8,At Risk,Promising
+1042,2,4,2,8,At Risk,Promising
+1074,3,4,1,8,Hibernating,Promising
+1082,1,3,4,8,At Risk,Promising
+1084,1,4,3,8,At Risk,Promising
+1089,4,2,2,8,Promising,Promising
+1096,4,2,2,8,Promising,Promising
+1097,4,2,2,8,Promising,Promising
+1103,1,3,4,8,At Risk,Promising
+1112,1,4,3,8,At Risk,Promising
+1113,3,4,1,8,Hibernating,Promising
+1114,3,4,1,8,Hibernating,Promising
+1128,1,4,3,8,At Risk,Promising
+1138,1,4,3,8,At Risk,Promising
+1146,3,4,1,8,Hibernating,Promising
+1148,1,3,4,8,At Risk,Promising
+1151,2,4,2,8,At Risk,Promising
+1157,4,3,1,8,Promising,Promising
+1166,1,4,3,8,At Risk,Promising
+1180,2,4,2,8,At Risk,Promising
+1183,1,4,3,8,At Risk,Promising
+1191,1,4,3,8,At Risk,Promising
+1193,2,3,3,8,At Risk,Promising
+1198,1,4,3,8,At Risk,Promising
+1205,3,4,1,8,Hibernating,Promising
+1238,1,3,4,8,At Risk,Promising
+1254,2,3,3,8,At Risk,Promising
+1280,1,3,4,8,At Risk,Promising
+1282,3,2,3,8,Hibernating,Promising
+1301,2,3,3,8,At Risk,Promising
+1305,1,4,3,8,At Risk,Promising
+1307,1,4,3,8,At Risk,Promising
+1341,1,4,3,8,At Risk,Promising
+1353,1,3,4,8,At Risk,Promising
+1366,1,4,3,8,At Risk,Promising
+1378,2,3,3,8,At Risk,Promising
+1390,1,4,3,8,At Risk,Promising
+1392,1,4,3,8,At Risk,Promising
+1396,2,3,3,8,At Risk,Promising
+1408,1,3,4,8,At Risk,Promising
+1411,4,3,1,8,Promising,Promising
+1412,1,3,4,8,At Risk,Promising
+1415,4,3,1,8,Promising,Promising
+1430,2,3,3,8,At Risk,Promising
+1445,3,4,1,8,Hibernating,Promising
+1465,5,1,2,8,Promising,Promising
+1481,3,4,1,8,Hibernating,Promising
+1494,1,4,3,8,At Risk,Promising
+1509,4,3,1,8,Promising,Promising
+1513,3,2,3,8,Hibernating,Promising
+1516,1,4,3,8,At Risk,Promising
+1556,1,4,3,8,At Risk,Promising
+1557,2,3,3,8,At Risk,Promising
+1560,1,4,3,8,At Risk,Promising
+1564,1,4,3,8,At Risk,Promising
+1588,1,4,3,8,At Risk,Promising
+1592,2,2,4,8,Hibernating,Promising
+1603,3,4,1,8,Hibernating,Promising
+1605,3,3,2,8,Hibernating,Promising
+1609,1,3,4,8,At Risk,Promising
+1631,1,3,4,8,At Risk,Promising
+1632,3,4,1,8,Hibernating,Promising
+1636,1,3,4,8,At Risk,Promising
+1651,2,4,2,8,At Risk,Promising
+1668,2,3,3,8,At Risk,Promising
+1698,2,4,2,8,At Risk,Promising
+1710,1,4,3,8,At Risk,Promising
+1724,1,4,3,8,At Risk,Promising
+1729,2,3,3,8,At Risk,Promising
+1741,4,1,3,8,Hibernating,Promising
+1755,1,4,3,8,At Risk,Promising
+1785,1,3,4,8,At Risk,Promising
+1786,1,4,3,8,At Risk,Promising
+1805,1,3,4,8,At Risk,Promising
+1815,4,2,2,8,Promising,Promising
+1826,1,4,3,8,At Risk,Promising
+1830,3,3,2,8,Hibernating,Promising
+1836,4,1,3,8,Hibernating,Promising
+1851,1,4,3,8,At Risk,Promising
+1852,1,3,4,8,At Risk,Promising
+1870,3,4,1,8,Hibernating,Promising
+1892,1,4,3,8,At Risk,Promising
+1902,4,3,1,8,Promising,Promising
+1906,2,3,3,8,At Risk,Promising
+1923,2,3,3,8,At Risk,Promising
+1929,4,1,3,8,Hibernating,Promising
+1950,1,3,4,8,At Risk,Promising
+1966,2,3,3,8,At Risk,Promising
+1972,1,3,4,8,At Risk,Promising
+1989,1,3,4,8,At Risk,Promising
+1990,2,3,3,8,At Risk,Promising
+1997,1,4,3,8,At Risk,Promising
+2006,2,4,2,8,At Risk,At Risk
+2009,4,3,1,8,Promising,At Risk
+2013,2,3,3,8,At Risk,At Risk
+2016,2,3,3,8,At Risk,At Risk
+2020,1,4,3,8,At Risk,At Risk
+2042,3,2,3,8,Hibernating,At Risk
+2051,1,3,4,8,At Risk,At Risk
+2061,3,3,2,8,Hibernating,At Risk
+2070,3,4,1,8,Hibernating,At Risk
+2094,2,3,3,8,At Risk,At Risk
+2096,3,2,3,8,Hibernating,At Risk
+2101,1,3,4,8,At Risk,At Risk
+2106,1,3,4,8,At Risk,At Risk
+2116,4,3,1,8,Promising,At Risk
+2121,1,3,4,8,At Risk,At Risk
+2122,1,4,3,8,At Risk,At Risk
+2123,3,3,2,8,Hibernating,At Risk
+2129,3,3,2,8,Hibernating,At Risk
+2131,2,3,3,8,At Risk,At Risk
+2135,2,4,2,8,At Risk,At Risk
+2138,3,2,3,8,Hibernating,At Risk
+2142,5,2,1,8,Promising,At Risk
+2146,3,3,2,8,Hibernating,At Risk
+2150,2,3,3,8,At Risk,At Risk
+2151,1,3,4,8,At Risk,At Risk
+2154,2,3,3,8,At Risk,At Risk
+2156,2,3,3,8,At Risk,At Risk
+2164,4,3,1,8,Promising,At Risk
+2173,1,4,3,8,At Risk,At Risk
+2182,3,3,2,8,Hibernating,At Risk
+2198,3,3,2,8,Hibernating,At Risk
+2199,5,1,2,8,Promising,At Risk
+2207,3,4,1,8,Hibernating,At Risk
+2211,3,3,2,8,Hibernating,At Risk
+2214,5,1,2,8,Promising,At Risk
+2215,3,3,2,8,Hibernating,At Risk
+2217,3,3,2,8,Hibernating,At Risk
+2226,2,3,3,8,At Risk,At Risk
+2230,2,3,3,8,At Risk,At Risk
+2238,4,3,1,8,Promising,At Risk
+2241,5,1,2,8,Promising,At Risk
+2243,5,2,1,8,Promising,At Risk
+2244,2,3,3,8,At Risk,At Risk
+2245,1,3,4,8,At Risk,At Risk
+2246,2,3,3,8,At Risk,At Risk
+2252,1,3,4,8,At Risk,At Risk
+2263,3,2,3,8,Hibernating,At Risk
+2268,3,3,2,8,Hibernating,At Risk
+2272,2,3,3,8,At Risk,At Risk
+2275,2,3,3,8,At Risk,At Risk
+2276,5,2,1,8,Promising,At Risk
+2277,4,3,1,8,Promising,At Risk
+2292,2,3,3,8,At Risk,At Risk
+2299,5,2,1,8,Promising,At Risk
+2300,3,4,1,8,Hibernating,At Risk
+2301,5,1,2,8,Promising,At Risk
+2307,1,4,3,8,At Risk,At Risk
+2310,5,1,2,8,Promising,At Risk
+2318,2,3,3,8,At Risk,At Risk
+2319,1,3,4,8,At Risk,At Risk
+2338,4,2,2,8,Promising,At Risk
+2347,1,3,4,8,At Risk,At Risk
+2349,1,4,3,8,At Risk,At Risk
+2355,4,1,3,8,Hibernating,At Risk
+2363,5,1,2,8,Promising,At Risk
+2364,1,4,3,8,At Risk,At Risk
+2367,1,3,4,8,At Risk,At Risk
+2384,1,4,3,8,At Risk,At Risk
+2393,2,3,3,8,At Risk,At Risk
+2395,2,3,3,8,At Risk,At Risk
+2397,1,3,4,8,At Risk,At Risk
+2407,1,3,4,8,At Risk,At Risk
+2412,4,3,1,8,Promising,At Risk
+2423,3,3,2,8,Hibernating,At Risk
+2424,3,2,3,8,Hibernating,At Risk
+2425,2,3,3,8,At Risk,At Risk
+2432,2,2,4,8,Hibernating,At Risk
+2441,1,3,4,8,At Risk,At Risk
+2445,2,4,2,8,At Risk,At Risk
+2460,5,2,1,8,Promising,At Risk
+2464,4,3,1,8,Promising,At Risk
+2466,2,3,3,8,At Risk,At Risk
+2480,1,3,4,8,At Risk,At Risk
+2482,1,3,4,8,At Risk,At Risk
+2486,4,2,2,8,Promising,At Risk
+2497,4,3,1,8,Promising,At Risk
+2500,4,3,1,8,Promising,At Risk
+2532,1,3,4,8,At Risk,At Risk
+2536,4,3,1,8,Promising,At Risk
+2540,1,4,3,8,At Risk,At Risk
+2544,2,3,3,8,At Risk,At Risk
+2556,5,2,1,8,Promising,At Risk
+2563,3,4,1,8,Hibernating,At Risk
+2564,2,2,4,8,Hibernating,At Risk
+2575,4,3,1,8,Promising,At Risk
+2576,1,4,3,8,At Risk,At Risk
+2579,3,2,3,8,Hibernating,At Risk
+2583,2,3,3,8,At Risk,At Risk
+2585,1,3,4,8,At Risk,At Risk
+2596,2,4,2,8,At Risk,At Risk
+2598,2,3,3,8,At Risk,At Risk
+2607,2,3,3,8,At Risk,At Risk
+2609,2,3,3,8,At Risk,At Risk
+2612,4,2,2,8,Promising,At Risk
+2613,4,3,1,8,Promising,At Risk
+2622,1,3,4,8,At Risk,At Risk
+2635,4,3,1,8,Promising,At Risk
+2652,1,3,4,8,At Risk,At Risk
+2662,2,4,2,8,At Risk,At Risk
+2663,4,2,2,8,Promising,At Risk
+2671,1,3,4,8,At Risk,At Risk
+2672,3,4,1,8,Hibernating,At Risk
+2676,1,4,3,8,At Risk,At Risk
+2685,1,3,4,8,At Risk,At Risk
+2691,4,2,2,8,Promising,At Risk
+2698,2,3,3,8,At Risk,At Risk
+2699,2,4,2,8,At Risk,At Risk
+2705,2,3,3,8,At Risk,At Risk
+2708,1,3,4,8,At Risk,At Risk
+2711,5,2,1,8,Promising,At Risk
+2715,3,3,2,8,Hibernating,At Risk
+2717,3,3,2,8,Hibernating,At Risk
+2723,1,3,4,8,At Risk,At Risk
+2724,1,3,4,8,At Risk,At Risk
+2727,5,1,2,8,Promising,At Risk
+2728,5,2,1,8,Promising,At Risk
+2731,1,4,3,8,At Risk,At Risk
+2736,4,3,1,8,Promising,At Risk
+2738,1,3,4,8,At Risk,At Risk
+2739,3,4,1,8,Hibernating,At Risk
+2749,1,4,3,8,At Risk,At Risk
+2755,4,3,1,8,Promising,At Risk
+2759,3,3,2,8,Hibernating,At Risk
+2768,1,4,3,8,At Risk,At Risk
+2772,2,3,3,8,At Risk,At Risk
+2778,2,3,3,8,At Risk,At Risk
+2781,4,3,1,8,Promising,At Risk
+2786,4,2,2,8,Promising,At Risk
+2788,5,2,1,8,Promising,At Risk
+2792,3,2,3,8,Hibernating,At Risk
+2798,2,3,3,8,At Risk,At Risk
+2799,5,2,1,8,Promising,At Risk
+2800,1,4,3,8,At Risk,At Risk
+2802,1,3,4,8,At Risk,At Risk
+2812,1,3,4,8,At Risk,At Risk
+2814,1,4,3,8,At Risk,At Risk
+2816,1,4,3,8,At Risk,At Risk
+2817,5,2,1,8,Promising,At Risk
+2820,5,1,2,8,Promising,At Risk
+2828,3,4,1,8,Hibernating,At Risk
+2838,4,3,1,8,Promising,At Risk
+2845,2,3,3,8,At Risk,At Risk
+2852,1,4,3,8,At Risk,At Risk
+2854,5,1,2,8,Promising,At Risk
+2855,3,3,2,8,Hibernating,At Risk
+2859,3,4,1,8,Hibernating,At Risk
+2877,1,4,3,8,At Risk,At Risk
+2878,2,3,3,8,At Risk,At Risk
+2884,5,1,2,8,Promising,At Risk
+2885,1,3,4,8,At Risk,At Risk
+2891,1,3,4,8,At Risk,At Risk
+2892,3,2,3,8,Hibernating,At Risk
+2893,2,3,3,8,At Risk,At Risk
+2894,1,4,3,8,At Risk,At Risk
+2908,2,3,3,8,At Risk,At Risk
+2912,1,3,4,8,At Risk,At Risk
+2917,1,3,4,8,At Risk,At Risk
+2928,1,4,3,8,At Risk,At Risk
+2931,1,4,3,8,At Risk,At Risk
+2939,4,3,1,8,Promising,At Risk
+2941,1,4,3,8,At Risk,At Risk
+2952,1,4,3,8,At Risk,At Risk
+2954,3,2,3,8,Hibernating,At Risk
+2960,4,3,1,8,Promising,At Risk
+2972,3,3,2,8,Hibernating,At Risk
+2973,4,2,2,8,Promising,At Risk
+2975,3,3,2,8,Hibernating,At Risk
+2984,5,1,2,8,Promising,At Risk
+2993,1,3,4,8,At Risk,At Risk
+2999,4,3,1,8,Promising,At Risk
+3001,1,4,3,8,At Risk,At Risk
+3002,2,3,3,8,At Risk,At Risk
+3004,1,3,4,8,At Risk,At Risk
+3008,4,3,1,8,Promising,At Risk
+3012,2,3,3,8,At Risk,At Risk
+3014,1,4,3,8,At Risk,At Risk
+3018,2,3,3,8,At Risk,At Risk
+3023,3,2,3,8,Hibernating,At Risk
+3036,4,2,2,8,Promising,At Risk
+3039,2,3,3,8,At Risk,At Risk
+3051,1,3,4,8,At Risk,At Risk
+3059,2,4,2,8,At Risk,At Risk
+3064,4,2,2,8,Promising,At Risk
+3068,1,3,4,8,At Risk,At Risk
+3069,1,3,4,8,At Risk,At Risk
+3070,4,1,3,8,Hibernating,At Risk
+3072,3,3,2,8,Hibernating,At Risk
+3082,3,3,2,8,Hibernating,At Risk
+3084,1,3,4,8,At Risk,At Risk
+3085,1,3,4,8,At Risk,At Risk
+3092,1,3,4,8,At Risk,At Risk
+3096,3,2,3,8,Hibernating,At Risk
+3101,2,3,3,8,At Risk,At Risk
+3102,3,2,3,8,Hibernating,At Risk
+3106,3,3,2,8,Hibernating,At Risk
+3131,5,2,1,8,Promising,At Risk
+3136,2,3,3,8,At Risk,At Risk
+3139,4,3,1,8,Promising,At Risk
+3146,4,3,1,8,Promising,At Risk
+3147,3,4,1,8,Hibernating,At Risk
+3163,5,2,1,8,Promising,At Risk
+3171,5,2,1,8,Promising,At Risk
+3175,1,4,3,8,At Risk,At Risk
+3179,5,2,1,8,Promising,At Risk
+3182,2,3,3,8,At Risk,At Risk
+3191,5,1,2,8,Promising,At Risk
+3206,1,3,4,8,At Risk,At Risk
+3210,4,3,1,8,Promising,At Risk
+3213,3,2,3,8,Hibernating,At Risk
+3216,3,2,3,8,Hibernating,At Risk
+3237,1,4,3,8,At Risk,At Risk
+3249,3,3,2,8,Hibernating,At Risk
+3254,3,2,3,8,Hibernating,Hibernating
+3265,4,2,2,8,Promising,Hibernating
+3271,3,3,2,8,Hibernating,Hibernating
+3284,5,1,2,8,Promising,Hibernating
+3287,4,2,2,8,Promising,Hibernating
+3290,5,1,2,8,Promising,Hibernating
+3293,5,2,1,8,Promising,Hibernating
+3310,4,1,3,8,Hibernating,Hibernating
+3312,5,1,2,8,Promising,Hibernating
+3336,4,2,2,8,Promising,Hibernating
+3338,2,2,4,8,Hibernating,Hibernating
+3343,5,1,2,8,Promising,Hibernating
+3357,5,2,1,8,Promising,Hibernating
+3358,2,3,3,8,At Risk,Hibernating
+3368,3,2,3,8,Hibernating,Hibernating
+3370,4,1,3,8,Hibernating,Hibernating
+3378,4,2,2,8,Promising,Hibernating
+3380,4,2,2,8,Promising,Hibernating
+3383,5,2,1,8,Promising,Hibernating
+3386,3,3,2,8,Hibernating,Hibernating
+3389,2,2,4,8,Hibernating,Hibernating
+3400,4,1,3,8,Hibernating,Hibernating
+3407,5,1,2,8,Promising,Hibernating
+3433,4,2,2,8,Promising,Hibernating
+3438,5,1,2,8,Promising,Hibernating
+3442,1,3,4,8,At Risk,Hibernating
+3443,4,2,2,8,Promising,Hibernating
+3447,1,3,4,8,At Risk,Hibernating
+3448,4,2,2,8,Promising,Hibernating
+3451,5,1,2,8,Promising,Hibernating
+3452,5,2,1,8,Promising,Hibernating
+3466,5,1,2,8,Promising,Hibernating
+3476,5,1,2,8,Promising,Hibernating
+3479,2,3,3,8,At Risk,Hibernating
+3488,4,3,1,8,Promising,Hibernating
+3494,4,1,3,8,Hibernating,Hibernating
+3503,5,1,2,8,Promising,Hibernating
+3513,3,3,2,8,Hibernating,Hibernating
+3520,3,2,3,8,Hibernating,Hibernating
+3530,5,1,2,8,Promising,Hibernating
+3542,2,2,4,8,Hibernating,Hibernating
+3545,4,1,3,8,Hibernating,Hibernating
+3548,4,1,3,8,Hibernating,Hibernating
+3549,5,2,1,8,Promising,Hibernating
+3551,4,1,3,8,Hibernating,Hibernating
+3556,2,3,3,8,At Risk,Hibernating
+3566,3,2,3,8,Hibernating,Hibernating
+3570,5,1,2,8,Promising,Hibernating
+3574,2,3,3,8,At Risk,Hibernating
+3575,2,3,3,8,At Risk,Hibernating
+3579,4,2,2,8,Promising,Hibernating
+3586,3,2,3,8,Hibernating,Hibernating
+3589,4,2,2,8,Promising,Hibernating
+3599,4,2,2,8,Promising,Hibernating
+3605,5,1,2,8,Promising,Hibernating
+3609,5,1,2,8,Promising,Hibernating
+3613,3,2,3,8,Hibernating,Hibernating
+3640,5,1,2,8,Promising,Hibernating
+3642,5,1,2,8,Promising,Hibernating
+3643,5,1,2,8,Promising,Hibernating
+3646,5,1,2,8,Promising,Hibernating
+3662,4,2,2,8,Promising,Hibernating
+3663,4,2,2,8,Promising,Hibernating
+3664,5,1,2,8,Promising,Hibernating
+3666,4,2,2,8,Promising,Hibernating
+3673,5,1,2,8,Promising,Hibernating
+3679,5,2,1,8,Promising,Hibernating
+3681,3,2,3,8,Hibernating,Hibernating
+3683,3,2,3,8,Hibernating,Hibernating
+3688,4,2,2,8,Promising,Hibernating
+3697,2,2,4,8,Hibernating,Hibernating
+3701,5,1,2,8,Promising,Hibernating
+3705,5,1,2,8,Promising,Hibernating
+3728,3,2,3,8,Hibernating,Hibernating
+3736,4,2,2,8,Promising,Hibernating
+3743,4,2,2,8,Promising,Hibernating
+3745,1,3,4,8,At Risk,Hibernating
+3765,3,3,2,8,Hibernating,Hibernating
+3768,5,1,2,8,Promising,Hibernating
+3775,4,1,3,8,Hibernating,Hibernating
+3776,5,1,2,8,Promising,Hibernating
+3777,5,2,1,8,Promising,Hibernating
+3782,3,2,3,8,Hibernating,Hibernating
+3796,3,2,3,8,Hibernating,Hibernating
+3803,5,2,1,8,Promising,Hibernating
+3842,4,2,2,8,Promising,Hibernating
+3843,5,2,1,8,Promising,Hibernating
+3866,2,3,3,8,At Risk,Hibernating
+3870,2,3,3,8,At Risk,Hibernating
+3889,5,1,2,8,Promising,Hibernating
+3893,5,1,2,8,Promising,Hibernating
+3896,3,1,4,8,Hibernating,Hibernating
+3908,5,1,2,8,Promising,Hibernating
+3927,4,2,2,8,Promising,Hibernating
+3929,4,2,2,8,Promising,Hibernating
+3932,5,1,2,8,Promising,Hibernating
+3933,5,1,2,8,Promising,Hibernating
+3935,4,1,3,8,Hibernating,Hibernating
+3949,5,2,1,8,Promising,Hibernating
+3970,4,2,2,8,Promising,Hibernating
+3972,4,2,2,8,Promising,Hibernating
+3980,5,1,2,8,Promising,Hibernating
+3982,5,1,2,8,Promising,Hibernating
+3983,3,2,3,8,Hibernating,Hibernating
+3990,4,2,2,8,Promising,Hibernating
+3992,5,1,2,8,Promising,Hibernating
+3996,5,1,2,8,Promising,Hibernating
+4004,5,1,2,8,Promising,Hibernating
+4009,3,2,3,8,Hibernating,Hibernating
+4010,4,2,2,8,Promising,Hibernating
+4024,2,3,3,8,At Risk,Hibernating
+4037,5,1,2,8,Promising,Hibernating
+4040,3,2,3,8,Hibernating,Hibernating
+4044,5,1,2,8,Promising,Hibernating
+4045,5,2,1,8,Promising,Hibernating
+4048,4,1,3,8,Hibernating,Hibernating
+4051,2,3,3,8,At Risk,Hibernating
+4055,5,1,2,8,Promising,Hibernating
+4062,4,2,2,8,Promising,Hibernating
+4067,3,2,3,8,Hibernating,Hibernating
+4072,3,2,3,8,Hibernating,Hibernating
+4073,5,1,2,8,Promising,Hibernating
+4077,5,1,2,8,Promising,Hibernating
+4078,5,2,1,8,Promising,Hibernating
+4090,3,2,3,8,Hibernating,Hibernating
+4095,5,1,2,8,Promising,Hibernating
+4098,3,2,3,8,Hibernating,Hibernating
+4110,5,2,1,8,Promising,Hibernating
+4119,5,1,2,8,Promising,Hibernating
+4122,5,2,1,8,Promising,Hibernating
+4126,1,3,4,8,At Risk,Hibernating
+4142,4,1,3,8,Hibernating,Hibernating
+4154,3,2,3,8,Hibernating,Hibernating
+4187,4,1,3,8,Hibernating,Hibernating
+4194,3,1,4,8,Hibernating,Hibernating
+4195,5,1,2,8,Promising,Hibernating
+4202,5,2,1,8,Promising,Hibernating
+4207,5,2,1,8,Promising,Hibernating
+4210,5,1,2,8,Promising,Hibernating
+4214,4,2,2,8,Promising,Hibernating
+4216,5,2,1,8,Promising,Hibernating
+4223,2,3,3,8,At Risk,Hibernating
+4224,2,3,3,8,At Risk,Hibernating
+4230,5,2,1,8,Promising,Hibernating
+4243,5,1,2,8,Promising,Hibernating
+4244,3,3,2,8,Hibernating,Hibernating
+4269,4,2,2,8,Promising,Hibernating
+4278,4,2,2,8,Promising,Hibernating
+4280,5,1,2,8,Promising,Hibernating
+4291,5,1,2,8,Promising,Hibernating
+4294,4,2,2,8,Promising,Hibernating
+4302,5,1,2,8,Promising,Hibernating
+4306,3,1,4,8,Hibernating,Hibernating
+4318,3,2,3,8,Hibernating,Hibernating
+4325,3,2,3,8,Hibernating,Hibernating
+4332,4,1,3,8,Hibernating,Hibernating
+4337,5,1,2,8,Promising,Hibernating
+4339,5,2,1,8,Promising,Hibernating
+4359,5,2,1,8,Promising,Hibernating
+4367,4,2,2,8,Promising,Hibernating
+4393,5,1,2,8,Promising,Hibernating
+4394,5,1,2,8,Promising,Hibernating
+4423,5,1,2,8,Promising,Hibernating
+4427,4,2,2,8,Promising,Hibernating
+4433,5,2,1,8,Promising,Hibernating
+4435,3,2,3,8,Hibernating,Hibernating
+4440,5,1,2,8,Promising,Hibernating
+4445,5,1,2,8,Promising,Hibernating
+4446,4,1,3,8,Hibernating,Hibernating
+4457,4,2,2,8,Promising,Hibernating
+4459,5,1,2,8,Promising,Hibernating
+4464,1,3,4,8,At Risk,Hibernating
+4476,4,2,2,8,Promising,Hibernating
+4480,3,2,3,8,Hibernating,Hibernating
+4487,2,3,3,8,At Risk,Hibernating
+4488,5,1,2,8,Promising,Hibernating
+4497,4,2,2,8,Promising,Hibernating
+4501,2,3,3,8,At Risk,Hibernating
+4512,1,3,4,8,At Risk,Hibernating
+4514,5,1,2,8,Promising,Hibernating
+4520,5,1,2,8,Promising,Hibernating
+4522,4,2,2,8,Promising,Hibernating
+4523,5,2,1,8,Promising,Hibernating
+4528,3,2,3,8,Hibernating,Hibernating
+4530,5,2,1,8,Promising,Hibernating
+4532,5,1,2,8,Promising,Hibernating
+4536,5,1,2,8,Promising,Hibernating
+4538,5,1,2,8,Promising,Hibernating
+4548,4,2,2,8,Promising,Hibernating
+4549,5,1,2,8,Promising,Hibernating
+4555,2,2,4,8,Hibernating,Hibernating
+4565,3,2,3,8,Hibernating,Hibernating
+4569,5,2,1,8,Promising,Hibernating
+4575,4,2,2,8,Promising,Hibernating
+4582,5,1,2,8,Promising,Hibernating
+4589,3,2,3,8,Hibernating,Hibernating
+4590,4,1,3,8,Hibernating,Hibernating
+4609,4,1,3,8,Hibernating,Hibernating
+4613,5,2,1,8,Promising,Hibernating
+4619,5,2,1,8,Promising,Hibernating
+4622,4,2,2,8,Promising,Hibernating
+4625,5,1,2,8,Promising,Hibernating
+4628,1,3,4,8,At Risk,Hibernating
+4629,5,2,1,8,Promising,Hibernating
+4640,3,2,3,8,Hibernating,Hibernating
+4643,5,2,1,8,Promising,Hibernating
+4648,5,1,2,8,Promising,Hibernating
+4649,5,1,2,8,Promising,Hibernating
+4650,4,1,3,8,Hibernating,Hibernating
+4661,5,2,1,8,Promising,Hibernating
+4664,3,2,3,8,Hibernating,Hibernating
+4667,4,3,1,8,Promising,Hibernating
+4673,4,1,3,8,Hibernating,Hibernating
+4675,5,1,2,8,Promising,Hibernating
+4677,5,2,1,8,Promising,Hibernating
+4679,5,1,2,8,Promising,Hibernating
+4704,5,2,1,8,Promising,Hibernating
+4712,5,1,2,8,Promising,Hibernating
+4723,5,1,2,8,Promising,Hibernating
+4735,3,1,4,8,Hibernating,Hibernating
+4752,4,2,2,8,Promising,Hibernating
+4758,4,2,2,8,Promising,Hibernating
+4760,3,2,3,8,Hibernating,Hibernating
+4765,5,1,2,8,Promising,Hibernating
+4774,1,3,4,8,At Risk,Hibernating
+4779,2,3,3,8,At Risk,Hibernating
+4781,5,2,1,8,Promising,Hibernating
+4784,5,2,1,8,Promising,Hibernating
+4805,2,3,3,8,At Risk,Hibernating
+4808,5,1,2,8,Promising,Hibernating
+4815,2,3,3,8,At Risk,Hibernating
+4816,2,3,3,8,At Risk,Hibernating
+4827,5,1,2,8,Promising,Hibernating
+4840,3,2,3,8,Hibernating,Hibernating
+4841,3,3,2,8,Hibernating,Hibernating
+4845,2,2,4,8,Hibernating,Hibernating
+4848,4,1,3,8,Hibernating,Hibernating
+4863,5,1,2,8,Promising,Hibernating
+4873,4,2,2,8,Promising,Hibernating
+4879,2,3,3,8,At Risk,Hibernating
+4889,5,1,2,8,Promising,Hibernating
+4916,5,1,2,8,Promising,Hibernating
+4938,5,1,2,8,Promising,Hibernating
+4939,5,2,1,8,Promising,Hibernating
+4946,5,1,2,8,Promising,Hibernating
+4949,5,1,2,8,Promising,Hibernating
+4959,2,3,3,8,At Risk,Hibernating
+4965,4,1,3,8,Hibernating,Hibernating
+4985,5,1,2,8,Promising,Hibernating
+4989,5,1,2,8,Promising,Hibernating
+4991,5,2,1,8,Promising,Hibernating
+52,1,5,1,7,At Risk,Champions
+98,1,5,1,7,At Risk,Champions
+362,1,5,1,7,At Risk,Loyal
+582,1,5,1,7,At Risk,Loyal
+616,1,3,3,7,At Risk,Loyal
+671,1,5,1,7,At Risk,Loyal
+904,1,5,1,7,At Risk,Loyal
+1050,2,4,1,7,At Risk,Promising
+1056,2,3,2,7,At Risk,Promising
+1087,2,4,1,7,At Risk,Promising
+1093,1,3,3,7,At Risk,Promising
+1101,3,2,2,7,Hibernating,Promising
+1119,2,3,2,7,At Risk,Promising
+1145,2,4,1,7,At Risk,Promising
+1160,3,2,2,7,Hibernating,Promising
+1168,2,3,2,7,At Risk,Promising
+1174,3,3,1,7,Hibernating,Promising
+1176,3,3,1,7,Hibernating,Promising
+1242,1,3,3,7,At Risk,Promising
+1255,1,3,3,7,At Risk,Promising
+1269,2,4,1,7,At Risk,Promising
+1270,2,3,2,7,At Risk,Promising
+1279,1,3,3,7,At Risk,Promising
+1284,1,3,3,7,At Risk,Promising
+1287,4,1,2,7,Promising,Promising
+1293,5,1,1,7,Promising,Promising
+1311,3,3,1,7,Hibernating,Promising
+1330,2,4,1,7,At Risk,Promising
+1348,2,4,1,7,At Risk,Promising
+1352,2,3,2,7,At Risk,Promising
+1362,3,3,1,7,Hibernating,Promising
+1375,2,2,3,7,Hibernating,Promising
+1377,2,4,1,7,At Risk,Promising
+1387,2,2,3,7,Hibernating,Promising
+1401,4,1,2,7,Promising,Promising
+1404,1,3,3,7,At Risk,Promising
+1433,1,3,3,7,At Risk,Promising
+1446,4,1,2,7,Promising,Promising
+1454,3,3,1,7,Hibernating,Promising
+1468,1,3,3,7,At Risk,Promising
+1484,3,2,2,7,Hibernating,Promising
+1488,1,4,2,7,At Risk,Promising
+1498,1,2,4,7,Hibernating,Promising
+1504,3,3,1,7,Hibernating,Promising
+1540,2,4,1,7,At Risk,Promising
+1542,3,2,2,7,Hibernating,Promising
+1571,2,4,1,7,At Risk,Promising
+1585,1,3,3,7,At Risk,Promising
+1607,2,3,2,7,At Risk,Promising
+1608,2,3,2,7,At Risk,Promising
+1615,2,3,2,7,At Risk,Promising
+1641,2,3,2,7,At Risk,Promising
+1645,2,3,2,7,At Risk,Promising
+1653,1,4,2,7,At Risk,Promising
+1671,1,3,3,7,At Risk,Promising
+1677,2,4,1,7,At Risk,Promising
+1689,3,2,2,7,Hibernating,Promising
+1703,1,3,3,7,At Risk,Promising
+1731,2,3,2,7,At Risk,Promising
+1747,3,3,1,7,Hibernating,Promising
+1753,2,2,3,7,Hibernating,Promising
+1756,3,3,1,7,Hibernating,Promising
+1757,3,3,1,7,Hibernating,Promising
+1796,1,4,2,7,At Risk,Promising
+1802,2,4,1,7,At Risk,Promising
+1813,1,3,3,7,At Risk,Promising
+1818,2,4,1,7,At Risk,Promising
+1820,1,4,2,7,At Risk,Promising
+1839,3,3,1,7,Hibernating,Promising
+1842,3,3,1,7,Hibernating,Promising
+1863,5,1,1,7,Promising,Promising
+1880,4,2,1,7,Promising,Promising
+1884,5,1,1,7,Promising,Promising
+1888,1,3,3,7,At Risk,Promising
+1893,2,3,2,7,At Risk,Promising
+1912,2,4,1,7,At Risk,Promising
+1913,1,3,3,7,At Risk,Promising
+1926,1,4,2,7,At Risk,Promising
+1957,4,2,1,7,Promising,Promising
+1962,2,4,1,7,At Risk,Promising
+1964,1,3,3,7,At Risk,Promising
+1971,1,3,3,7,At Risk,Promising
+2004,1,3,3,7,At Risk,At Risk
+2008,5,1,1,7,Promising,At Risk
+2047,2,3,2,7,At Risk,At Risk
+2048,3,3,1,7,Hibernating,At Risk
+2054,4,1,2,7,Promising,At Risk
+2058,1,3,3,7,At Risk,At Risk
+2065,3,3,1,7,Hibernating,At Risk
+2067,1,3,3,7,At Risk,At Risk
+2100,1,4,2,7,At Risk,At Risk
+2107,1,3,3,7,At Risk,At Risk
+2111,2,4,1,7,At Risk,At Risk
+2114,2,3,2,7,At Risk,At Risk
+2125,5,1,1,7,Promising,At Risk
+2134,1,4,2,7,At Risk,At Risk
+2141,1,3,3,7,At Risk,At Risk
+2160,2,3,2,7,At Risk,At Risk
+2175,4,1,2,7,Promising,At Risk
+2181,3,2,2,7,Hibernating,At Risk
+2186,4,2,1,7,Promising,At Risk
+2202,1,3,3,7,At Risk,At Risk
+2229,1,3,3,7,At Risk,At Risk
+2248,1,4,2,7,At Risk,At Risk
+2257,3,1,3,7,Hibernating,At Risk
+2259,3,3,1,7,Hibernating,At Risk
+2261,5,1,1,7,Promising,At Risk
+2262,5,1,1,7,Promising,At Risk
+2265,1,3,3,7,At Risk,At Risk
+2269,1,3,3,7,At Risk,At Risk
+2280,1,3,3,7,At Risk,At Risk
+2286,1,3,3,7,At Risk,At Risk
+2303,2,2,3,7,Hibernating,At Risk
+2311,3,3,1,7,Hibernating,At Risk
+2316,5,1,1,7,Promising,At Risk
+2321,2,2,3,7,Hibernating,At Risk
+2336,2,3,2,7,At Risk,At Risk
+2339,2,3,2,7,At Risk,At Risk
+2346,2,2,3,7,Hibernating,At Risk
+2369,1,3,3,7,At Risk,At Risk
+2372,3,2,2,7,Hibernating,At Risk
+2373,5,1,1,7,Promising,At Risk
+2377,2,3,2,7,At Risk,At Risk
+2382,1,3,3,7,At Risk,At Risk
+2401,3,1,3,7,Hibernating,At Risk
+2406,1,4,2,7,At Risk,At Risk
+2413,1,3,3,7,At Risk,At Risk
+2417,2,3,2,7,At Risk,At Risk
+2419,2,3,2,7,At Risk,At Risk
+2427,3,2,2,7,Hibernating,At Risk
+2436,1,3,3,7,At Risk,At Risk
+2444,3,2,2,7,Hibernating,At Risk
+2448,2,2,3,7,Hibernating,At Risk
+2456,4,2,1,7,Promising,At Risk
+2459,2,2,3,7,Hibernating,At Risk
+2470,3,1,3,7,Hibernating,At Risk
+2473,5,1,1,7,Promising,At Risk
+2479,3,1,3,7,Hibernating,At Risk
+2487,2,2,3,7,Hibernating,At Risk
+2490,1,3,3,7,At Risk,At Risk
+2493,5,1,1,7,Promising,At Risk
+2494,4,2,1,7,Promising,At Risk
+2504,1,3,3,7,At Risk,At Risk
+2506,3,3,1,7,Hibernating,At Risk
+2509,2,3,2,7,At Risk,At Risk
+2537,5,1,1,7,Promising,At Risk
+2539,1,4,2,7,At Risk,At Risk
+2549,1,4,2,7,At Risk,At Risk
+2555,2,2,3,7,Hibernating,At Risk
+2559,1,3,3,7,At Risk,At Risk
+2569,1,3,3,7,At Risk,At Risk
+2570,1,3,3,7,At Risk,At Risk
+2574,3,3,1,7,Hibernating,At Risk
+2587,2,3,2,7,At Risk,At Risk
+2611,2,2,3,7,Hibernating,At Risk
+2614,2,4,1,7,At Risk,At Risk
+2615,2,3,2,7,At Risk,At Risk
+2616,1,3,3,7,At Risk,At Risk
+2625,2,2,3,7,Hibernating,At Risk
+2628,2,2,3,7,Hibernating,At Risk
+2629,2,2,3,7,Hibernating,At Risk
+2634,1,3,3,7,At Risk,At Risk
+2640,5,1,1,7,Promising,At Risk
+2668,1,3,3,7,At Risk,At Risk
+2675,4,2,1,7,Promising,At Risk
+2682,3,3,1,7,Hibernating,At Risk
+2683,2,3,2,7,At Risk,At Risk
+2689,2,3,2,7,At Risk,At Risk
+2703,1,2,4,7,Hibernating,At Risk
+2710,2,4,1,7,At Risk,At Risk
+2716,2,3,2,7,At Risk,At Risk
+2729,3,2,2,7,Hibernating,At Risk
+2733,3,2,2,7,Hibernating,At Risk
+2734,1,4,2,7,At Risk,At Risk
+2735,1,3,3,7,At Risk,At Risk
+2742,4,1,2,7,Promising,At Risk
+2751,1,3,3,7,At Risk,At Risk
+2753,4,1,2,7,Promising,At Risk
+2769,3,1,3,7,Hibernating,At Risk
+2779,1,3,3,7,At Risk,At Risk
+2783,3,2,2,7,Hibernating,At Risk
+2795,2,3,2,7,At Risk,At Risk
+2801,2,4,1,7,At Risk,At Risk
+2804,1,3,3,7,At Risk,At Risk
+2811,3,2,2,7,Hibernating,At Risk
+2822,1,3,3,7,At Risk,At Risk
+2827,4,1,2,7,Promising,At Risk
+2830,4,1,2,7,Promising,At Risk
+2832,4,2,1,7,Promising,At Risk
+2843,4,1,2,7,Promising,At Risk
+2856,2,3,2,7,At Risk,At Risk
+2857,1,3,3,7,At Risk,At Risk
+2858,2,3,2,7,At Risk,At Risk
+2865,3,2,2,7,Hibernating,At Risk
+2871,4,1,2,7,Promising,At Risk
+2872,3,2,2,7,Hibernating,At Risk
+2881,2,3,2,7,At Risk,At Risk
+2882,3,3,1,7,Hibernating,At Risk
+2895,2,2,3,7,Hibernating,At Risk
+2900,1,3,3,7,At Risk,At Risk
+2906,1,3,3,7,At Risk,At Risk
+2909,3,3,1,7,Hibernating,At Risk
+2915,1,3,3,7,At Risk,At Risk
+2920,3,3,1,7,Hibernating,At Risk
+2923,3,1,3,7,Hibernating,At Risk
+2924,1,3,3,7,At Risk,At Risk
+2930,1,3,3,7,At Risk,At Risk
+2933,1,3,3,7,At Risk,At Risk
+2934,1,3,3,7,At Risk,At Risk
+2937,1,2,4,7,Hibernating,At Risk
+2938,4,1,2,7,Promising,At Risk
+2944,3,2,2,7,Hibernating,At Risk
+2947,3,3,1,7,Hibernating,At Risk
+2948,3,2,2,7,Hibernating,At Risk
+2970,1,3,3,7,At Risk,At Risk
+2997,1,3,3,7,At Risk,At Risk
+3006,5,1,1,7,Promising,At Risk
+3017,1,3,3,7,At Risk,At Risk
+3030,1,4,2,7,At Risk,At Risk
+3041,4,1,2,7,Promising,At Risk
+3042,4,1,2,7,Promising,At Risk
+3050,1,2,4,7,Hibernating,At Risk
+3061,1,3,3,7,At Risk,At Risk
+3098,2,3,2,7,At Risk,At Risk
+3109,1,3,3,7,At Risk,At Risk
+3113,4,1,2,7,Promising,At Risk
+3130,3,3,1,7,Hibernating,At Risk
+3132,5,1,1,7,Promising,At Risk
+3150,1,3,3,7,At Risk,At Risk
+3155,3,2,2,7,Hibernating,At Risk
+3159,2,3,2,7,At Risk,At Risk
+3177,3,3,1,7,Hibernating,At Risk
+3185,4,2,1,7,Promising,At Risk
+3188,1,4,2,7,At Risk,At Risk
+3189,3,3,1,7,Hibernating,At Risk
+3199,2,3,2,7,At Risk,At Risk
+3211,1,3,3,7,At Risk,At Risk
+3214,3,2,2,7,Hibernating,At Risk
+3217,4,1,2,7,Promising,At Risk
+3221,2,3,2,7,At Risk,At Risk
+3227,2,3,2,7,At Risk,At Risk
+3243,1,3,3,7,At Risk,At Risk
+3245,1,4,2,7,At Risk,At Risk
+3251,4,2,1,7,Promising,Hibernating
+3255,3,2,2,7,Hibernating,Hibernating
+3256,2,3,2,7,At Risk,Hibernating
+3257,5,1,1,7,Promising,Hibernating
+3258,5,1,1,7,Promising,Hibernating
+3262,1,3,3,7,At Risk,Hibernating
+3267,1,3,3,7,At Risk,Hibernating
+3270,4,2,1,7,Promising,Hibernating
+3273,4,1,2,7,Promising,Hibernating
+3274,2,2,3,7,Hibernating,Hibernating
+3275,4,2,1,7,Promising,Hibernating
+3276,1,3,3,7,At Risk,Hibernating
+3278,3,1,3,7,Hibernating,Hibernating
+3286,4,2,1,7,Promising,Hibernating
+3294,5,1,1,7,Promising,Hibernating
+3295,3,1,3,7,Hibernating,Hibernating
+3298,3,2,2,7,Hibernating,Hibernating
+3315,4,2,1,7,Promising,Hibernating
+3318,4,1,2,7,Promising,Hibernating
+3344,3,1,3,7,Hibernating,Hibernating
+3354,5,1,1,7,Promising,Hibernating
+3361,4,1,2,7,Promising,Hibernating
+3364,4,1,2,7,Promising,Hibernating
+3371,5,1,1,7,Promising,Hibernating
+3374,4,1,2,7,Promising,Hibernating
+3377,2,3,2,7,At Risk,Hibernating
+3391,4,1,2,7,Promising,Hibernating
+3392,3,1,3,7,Hibernating,Hibernating
+3395,4,1,2,7,Promising,Hibernating
+3397,4,1,2,7,Promising,Hibernating
+3404,4,1,2,7,Promising,Hibernating
+3409,3,2,2,7,Hibernating,Hibernating
+3410,4,2,1,7,Promising,Hibernating
+3414,2,2,3,7,Hibernating,Hibernating
+3415,3,1,3,7,Hibernating,Hibernating
+3416,3,1,3,7,Hibernating,Hibernating
+3417,3,2,2,7,Hibernating,Hibernating
+3418,4,1,2,7,Promising,Hibernating
+3419,4,1,2,7,Promising,Hibernating
+3420,2,2,3,7,Hibernating,Hibernating
+3423,5,1,1,7,Promising,Hibernating
+3427,4,2,1,7,Promising,Hibernating
+3429,2,2,3,7,Hibernating,Hibernating
+3434,5,1,1,7,Promising,Hibernating
+3437,4,1,2,7,Promising,Hibernating
+3446,5,1,1,7,Promising,Hibernating
+3453,1,2,4,7,Hibernating,Hibernating
+3457,4,2,1,7,Promising,Hibernating
+3463,2,2,3,7,Hibernating,Hibernating
+3465,3,2,2,7,Hibernating,Hibernating
+3472,1,2,4,7,Hibernating,Hibernating
+3474,4,1,2,7,Promising,Hibernating
+3478,3,1,3,7,Hibernating,Hibernating
+3482,2,2,3,7,Hibernating,Hibernating
+3489,3,1,3,7,Hibernating,Hibernating
+3496,3,1,3,7,Hibernating,Hibernating
+3497,2,2,3,7,Hibernating,Hibernating
+3501,3,1,3,7,Hibernating,Hibernating
+3509,3,1,3,7,Hibernating,Hibernating
+3518,2,2,3,7,Hibernating,Hibernating
+3521,3,2,2,7,Hibernating,Hibernating
+3531,4,1,2,7,Promising,Hibernating
+3536,2,2,3,7,Hibernating,Hibernating
+3546,5,1,1,7,Promising,Hibernating
+3558,4,2,1,7,Promising,Hibernating
+3562,4,1,2,7,Promising,Hibernating
+3563,2,2,3,7,Hibernating,Hibernating
+3567,5,1,1,7,Promising,Hibernating
+3569,5,1,1,7,Promising,Hibernating
+3572,5,1,1,7,Promising,Hibernating
+3576,4,2,1,7,Promising,Hibernating
+3580,2,2,3,7,Hibernating,Hibernating
+3596,3,1,3,7,Hibernating,Hibernating
+3601,2,2,3,7,Hibernating,Hibernating
+3602,4,2,1,7,Promising,Hibernating
+3604,5,1,1,7,Promising,Hibernating
+3617,1,3,3,7,At Risk,Hibernating
+3628,3,1,3,7,Hibernating,Hibernating
+3630,4,2,1,7,Promising,Hibernating
+3632,5,1,1,7,Promising,Hibernating
+3634,4,1,2,7,Promising,Hibernating
+3638,5,1,1,7,Promising,Hibernating
+3651,4,2,1,7,Promising,Hibernating
+3653,4,1,2,7,Promising,Hibernating
+3665,3,3,1,7,Hibernating,Hibernating
+3669,4,1,2,7,Promising,Hibernating
+3672,3,3,1,7,Hibernating,Hibernating
+3680,4,1,2,7,Promising,Hibernating
+3689,2,2,3,7,Hibernating,Hibernating
+3693,3,1,3,7,Hibernating,Hibernating
+3704,2,2,3,7,Hibernating,Hibernating
+3718,3,2,2,7,Hibernating,Hibernating
+3722,5,1,1,7,Promising,Hibernating
+3725,4,2,1,7,Promising,Hibernating
+3729,4,1,2,7,Promising,Hibernating
+3730,5,1,1,7,Promising,Hibernating
+3755,4,1,2,7,Promising,Hibernating
+3756,5,1,1,7,Promising,Hibernating
+3760,4,1,2,7,Promising,Hibernating
+3784,4,1,2,7,Promising,Hibernating
+3785,4,1,2,7,Promising,Hibernating
+3791,1,2,4,7,Hibernating,Hibernating
+3798,5,1,1,7,Promising,Hibernating
+3801,4,1,2,7,Promising,Hibernating
+3802,4,2,1,7,Promising,Hibernating
+3809,5,1,1,7,Promising,Hibernating
+3810,1,3,3,7,At Risk,Hibernating
+3811,3,1,3,7,Hibernating,Hibernating
+3815,5,1,1,7,Promising,Hibernating
+3821,4,2,1,7,Promising,Hibernating
+3822,1,3,3,7,At Risk,Hibernating
+3824,4,1,2,7,Promising,Hibernating
+3828,5,1,1,7,Promising,Hibernating
+3834,4,1,2,7,Promising,Hibernating
+3835,2,2,3,7,Hibernating,Hibernating
+3840,4,2,1,7,Promising,Hibernating
+3850,1,2,4,7,Hibernating,Hibernating
+3853,4,1,2,7,Promising,Hibernating
+3862,2,2,3,7,Hibernating,Hibernating
+3865,5,1,1,7,Promising,Hibernating
+3869,2,2,3,7,Hibernating,Hibernating
+3872,4,1,2,7,Promising,Hibernating
+3880,4,1,2,7,Promising,Hibernating
+3881,1,2,4,7,Hibernating,Hibernating
+3883,1,3,3,7,At Risk,Hibernating
+3894,4,1,2,7,Promising,Hibernating
+3901,3,1,3,7,Hibernating,Hibernating
+3904,3,2,2,7,Hibernating,Hibernating
+3906,4,1,2,7,Promising,Hibernating
+3909,2,3,2,7,At Risk,Hibernating
+3910,3,1,3,7,Hibernating,Hibernating
+3923,4,2,1,7,Promising,Hibernating
+3925,2,2,3,7,Hibernating,Hibernating
+3926,5,1,1,7,Promising,Hibernating
+3945,4,1,2,7,Promising,Hibernating
+3947,4,1,2,7,Promising,Hibernating
+3956,3,1,3,7,Hibernating,Hibernating
+3959,4,2,1,7,Promising,Hibernating
+3967,5,1,1,7,Promising,Hibernating
+3974,4,1,2,7,Promising,Hibernating
+3975,4,1,2,7,Promising,Hibernating
+3979,4,1,2,7,Promising,Hibernating
+3988,4,2,1,7,Promising,Hibernating
+3991,3,1,3,7,Hibernating,Hibernating
+4003,4,1,2,7,Promising,Hibernating
+4006,4,1,2,7,Promising,Hibernating
+4008,2,2,3,7,Hibernating,Hibernating
+4018,3,1,3,7,Hibernating,Hibernating
+4022,4,2,1,7,Promising,Hibernating
+4027,2,2,3,7,Hibernating,Hibernating
+4029,4,1,2,7,Promising,Hibernating
+4032,2,2,3,7,Hibernating,Hibernating
+4033,3,2,2,7,Hibernating,Hibernating
+4035,2,2,3,7,Hibernating,Hibernating
+4042,3,1,3,7,Hibernating,Hibernating
+4054,3,1,3,7,Hibernating,Hibernating
+4059,3,1,3,7,Hibernating,Hibernating
+4069,2,2,3,7,Hibernating,Hibernating
+4087,4,1,2,7,Promising,Hibernating
+4088,4,1,2,7,Promising,Hibernating
+4093,4,1,2,7,Promising,Hibernating
+4101,2,2,3,7,Hibernating,Hibernating
+4103,3,2,2,7,Hibernating,Hibernating
+4104,5,1,1,7,Promising,Hibernating
+4105,3,1,3,7,Hibernating,Hibernating
+4112,4,2,1,7,Promising,Hibernating
+4116,4,2,1,7,Promising,Hibernating
+4117,4,2,1,7,Promising,Hibernating
+4118,2,2,3,7,Hibernating,Hibernating
+4120,4,1,2,7,Promising,Hibernating
+4130,3,1,3,7,Hibernating,Hibernating
+4133,5,1,1,7,Promising,Hibernating
+4135,5,1,1,7,Promising,Hibernating
+4136,5,1,1,7,Promising,Hibernating
+4149,4,1,2,7,Promising,Hibernating
+4153,4,1,2,7,Promising,Hibernating
+4157,4,1,2,7,Promising,Hibernating
+4159,4,1,2,7,Promising,Hibernating
+4180,4,2,1,7,Promising,Hibernating
+4183,3,1,3,7,Hibernating,Hibernating
+4189,2,2,3,7,Hibernating,Hibernating
+4213,5,1,1,7,Promising,Hibernating
+4232,4,1,2,7,Promising,Hibernating
+4233,3,1,3,7,Hibernating,Hibernating
+4234,5,1,1,7,Promising,Hibernating
+4235,1,3,3,7,At Risk,Hibernating
+4236,2,2,3,7,Hibernating,Hibernating
+4240,2,3,2,7,At Risk,Hibernating
+4245,3,2,2,7,Hibernating,Hibernating
+4250,3,2,2,7,Hibernating,Hibernating
+4256,3,1,3,7,Hibernating,Hibernating
+4270,4,1,2,7,Promising,Hibernating
+4274,3,2,2,7,Hibernating,Hibernating
+4275,4,1,2,7,Promising,Hibernating
+4277,5,1,1,7,Promising,Hibernating
+4283,1,2,4,7,Hibernating,Hibernating
+4286,4,1,2,7,Promising,Hibernating
+4296,3,2,2,7,Hibernating,Hibernating
+4298,5,1,1,7,Promising,Hibernating
+4300,3,2,2,7,Hibernating,Hibernating
+4308,5,1,1,7,Promising,Hibernating
+4309,4,2,1,7,Promising,Hibernating
+4312,5,1,1,7,Promising,Hibernating
+4321,2,2,3,7,Hibernating,Hibernating
+4323,4,2,1,7,Promising,Hibernating
+4331,4,1,2,7,Promising,Hibernating
+4336,4,1,2,7,Promising,Hibernating
+4345,2,2,3,7,Hibernating,Hibernating
+4356,2,2,3,7,Hibernating,Hibernating
+4363,2,2,3,7,Hibernating,Hibernating
+4365,5,1,1,7,Promising,Hibernating
+4371,4,2,1,7,Promising,Hibernating
+4373,3,2,2,7,Hibernating,Hibernating
+4374,4,2,1,7,Promising,Hibernating
+4383,3,2,2,7,Hibernating,Hibernating
+4385,5,1,1,7,Promising,Hibernating
+4389,5,1,1,7,Promising,Hibernating
+4395,3,3,1,7,Hibernating,Hibernating
+4396,5,1,1,7,Promising,Hibernating
+4401,3,2,2,7,Hibernating,Hibernating
+4430,2,2,3,7,Hibernating,Hibernating
+4431,5,1,1,7,Promising,Hibernating
+4436,4,1,2,7,Promising,Hibernating
+4443,5,1,1,7,Promising,Hibernating
+4449,4,1,2,7,Promising,Hibernating
+4455,4,2,1,7,Promising,Hibernating
+4458,1,3,3,7,At Risk,Hibernating
+4463,4,1,2,7,Promising,Hibernating
+4478,4,1,2,7,Promising,Hibernating
+4481,2,2,3,7,Hibernating,Hibernating
+4485,4,1,2,7,Promising,Hibernating
+4486,5,1,1,7,Promising,Hibernating
+4494,5,1,1,7,Promising,Hibernating
+4496,5,1,1,7,Promising,Hibernating
+4500,3,2,2,7,Hibernating,Hibernating
+4516,5,1,1,7,Promising,Hibernating
+4519,5,1,1,7,Promising,Hibernating
+4524,5,1,1,7,Promising,Hibernating
+4526,1,2,4,7,Hibernating,Hibernating
+4527,4,1,2,7,Promising,Hibernating
+4537,2,2,3,7,Hibernating,Hibernating
+4539,2,2,3,7,Hibernating,Hibernating
+4541,5,1,1,7,Promising,Hibernating
+4545,4,1,2,7,Promising,Hibernating
+4547,4,1,2,7,Promising,Hibernating
+4550,1,3,3,7,At Risk,Hibernating
+4552,5,1,1,7,Promising,Hibernating
+4563,4,2,1,7,Promising,Hibernating
+4564,2,2,3,7,Hibernating,Hibernating
+4567,5,1,1,7,Promising,Hibernating
+4571,5,1,1,7,Promising,Hibernating
+4573,4,1,2,7,Promising,Hibernating
+4574,2,2,3,7,Hibernating,Hibernating
+4586,4,1,2,7,Promising,Hibernating
+4597,2,3,2,7,At Risk,Hibernating
+4601,5,1,1,7,Promising,Hibernating
+4604,4,1,2,7,Promising,Hibernating
+4612,4,2,1,7,Promising,Hibernating
+4615,4,1,2,7,Promising,Hibernating
+4617,4,1,2,7,Promising,Hibernating
+4624,4,1,2,7,Promising,Hibernating
+4632,3,2,2,7,Hibernating,Hibernating
+4641,1,2,4,7,Hibernating,Hibernating
+4657,4,1,2,7,Promising,Hibernating
+4658,1,2,4,7,Hibernating,Hibernating
+4669,1,3,3,7,At Risk,Hibernating
+4671,2,2,3,7,Hibernating,Hibernating
+4683,3,3,1,7,Hibernating,Hibernating
+4687,5,1,1,7,Promising,Hibernating
+4688,2,2,3,7,Hibernating,Hibernating
+4691,4,2,1,7,Promising,Hibernating
+4702,4,2,1,7,Promising,Hibernating
+4707,5,1,1,7,Promising,Hibernating
+4713,3,3,1,7,Hibernating,Hibernating
+4720,4,1,2,7,Promising,Hibernating
+4722,5,1,1,7,Promising,Hibernating
+4724,1,3,3,7,At Risk,Hibernating
+4729,5,1,1,7,Promising,Hibernating
+4731,3,1,3,7,Hibernating,Hibernating
+4737,2,2,3,7,Hibernating,Hibernating
+4741,4,1,2,7,Promising,Hibernating
+4742,5,1,1,7,Promising,Hibernating
+4743,5,1,1,7,Promising,Hibernating
+4750,4,2,1,7,Promising,Hibernating
+4759,4,2,1,7,Promising,Hibernating
+4764,4,1,2,7,Promising,Hibernating
+4768,3,2,2,7,Hibernating,Hibernating
+4772,3,2,2,7,Hibernating,Hibernating
+4777,5,1,1,7,Promising,Hibernating
+4782,1,2,4,7,Hibernating,Hibernating
+4783,2,3,2,7,At Risk,Hibernating
+4786,1,2,4,7,Hibernating,Hibernating
+4789,5,1,1,7,Promising,Hibernating
+4795,4,2,1,7,Promising,Hibernating
+4797,3,2,2,7,Hibernating,Hibernating
+4802,3,2,2,7,Hibernating,Hibernating
+4810,4,2,1,7,Promising,Hibernating
+4812,3,2,2,7,Hibernating,Hibernating
+4813,4,1,2,7,Promising,Hibernating
+4826,3,1,3,7,Hibernating,Hibernating
+4846,4,1,2,7,Promising,Hibernating
+4849,3,2,2,7,Hibernating,Hibernating
+4857,1,3,3,7,At Risk,Hibernating
+4858,5,1,1,7,Promising,Hibernating
+4865,4,2,1,7,Promising,Hibernating
+4869,4,2,1,7,Promising,Hibernating
+4874,4,1,2,7,Promising,Hibernating
+4875,4,1,2,7,Promising,Hibernating
+4882,4,2,1,7,Promising,Hibernating
+4885,1,3,3,7,At Risk,Hibernating
+4888,4,2,1,7,Promising,Hibernating
+4891,3,1,3,7,Hibernating,Hibernating
+4893,2,2,3,7,Hibernating,Hibernating
+4898,4,2,1,7,Promising,Hibernating
+4900,1,2,4,7,Hibernating,Hibernating
+4902,5,1,1,7,Promising,Hibernating
+4905,4,1,2,7,Promising,Hibernating
+4908,4,1,2,7,Promising,Hibernating
+4910,5,1,1,7,Promising,Hibernating
+4917,2,2,3,7,Hibernating,Hibernating
+4919,5,1,1,7,Promising,Hibernating
+4921,4,1,2,7,Promising,Hibernating
+4922,4,2,1,7,Promising,Hibernating
+4932,3,2,2,7,Hibernating,Hibernating
+4936,4,1,2,7,Promising,Hibernating
+4942,4,2,1,7,Promising,Hibernating
+4953,3,2,2,7,Hibernating,Hibernating
+4955,4,1,2,7,Promising,Hibernating
+4957,1,2,4,7,Hibernating,Hibernating
+4958,4,2,1,7,Promising,Hibernating
+4962,5,1,1,7,Promising,Hibernating
+4969,1,2,4,7,Hibernating,Hibernating
+4970,3,2,2,7,Hibernating,Hibernating
+4973,1,3,3,7,At Risk,Hibernating
+4974,3,1,3,7,Hibernating,Hibernating
+4976,4,2,1,7,Promising,Hibernating
+4981,3,2,2,7,Hibernating,Hibernating
+4984,3,2,2,7,Hibernating,Hibernating
+4990,4,2,1,7,Promising,Hibernating
+4992,3,1,3,7,Hibernating,Hibernating
+4994,4,1,2,7,Promising,Hibernating
+469,1,4,1,6,At Risk,Loyal
+1027,1,4,1,6,At Risk,Promising
+1071,1,3,2,6,At Risk,Promising
+1105,2,2,2,6,Hibernating,Promising
+1110,1,2,3,6,Hibernating,Promising
+1116,1,4,1,6,At Risk,Promising
+1117,1,4,1,6,At Risk,Promising
+1165,1,4,1,6,At Risk,Promising
+1262,2,2,2,6,Hibernating,Promising
+1278,1,4,1,6,At Risk,Promising
+1283,1,3,2,6,At Risk,Promising
+1291,2,2,2,6,Hibernating,Promising
+1302,1,4,1,6,At Risk,Promising
+1306,1,2,3,6,Hibernating,Promising
+1315,1,4,1,6,At Risk,Promising
+1324,2,1,3,6,Hibernating,Promising
+1327,1,4,1,6,At Risk,Promising
+1334,3,2,1,6,Hibernating,Promising
+1338,1,4,1,6,At Risk,Promising
+1339,2,2,2,6,Hibernating,Promising
+1349,1,2,3,6,Hibernating,Promising
+1373,3,1,2,6,Hibernating,Promising
+1374,1,4,1,6,At Risk,Promising
+1419,3,1,2,6,Hibernating,Promising
+1457,1,4,1,6,At Risk,Promising
+1470,2,3,1,6,At Risk,Promising
+1485,1,3,2,6,At Risk,Promising
+1525,3,1,2,6,Hibernating,Promising
+1536,2,3,1,6,At Risk,Promising
+1568,1,2,3,6,Hibernating,Promising
+1602,3,1,2,6,Hibernating,Promising
+1646,1,4,1,6,At Risk,Promising
+1670,3,2,1,6,Hibernating,Promising
+1688,1,3,2,6,At Risk,Promising
+1743,1,4,1,6,At Risk,Promising
+1812,2,3,1,6,At Risk,Promising
+1861,4,1,1,6,Promising,Promising
+1876,2,3,1,6,At Risk,Promising
+1899,4,1,1,6,Promising,Promising
+1919,1,3,2,6,At Risk,Promising
+1944,1,3,2,6,At Risk,Promising
+1945,1,2,3,6,Hibernating,Promising
+1947,4,1,1,6,Promising,Promising
+2029,1,3,2,6,At Risk,At Risk
+2053,2,3,1,6,At Risk,At Risk
+2078,2,3,1,6,At Risk,At Risk
+2080,2,3,1,6,At Risk,At Risk
+2097,1,3,2,6,At Risk,At Risk
+2098,4,1,1,6,Promising,At Risk
+2103,2,3,1,6,At Risk,At Risk
+2130,3,1,2,6,Hibernating,At Risk
+2133,4,1,1,6,Promising,At Risk
+2137,1,2,3,6,Hibernating,At Risk
+2165,1,3,2,6,At Risk,At Risk
+2178,2,2,2,6,Hibernating,At Risk
+2191,3,2,1,6,Hibernating,At Risk
+2192,3,1,2,6,Hibernating,At Risk
+2205,2,2,2,6,Hibernating,At Risk
+2206,2,2,2,6,Hibernating,At Risk
+2213,3,1,2,6,Hibernating,At Risk
+2225,2,3,1,6,At Risk,At Risk
+2296,3,2,1,6,Hibernating,At Risk
+2304,2,1,3,6,Hibernating,At Risk
+2305,3,2,1,6,Hibernating,At Risk
+2320,4,1,1,6,Promising,At Risk
+2326,2,3,1,6,At Risk,At Risk
+2327,2,3,1,6,At Risk,At Risk
+2333,1,2,3,6,Hibernating,At Risk
+2352,1,3,2,6,At Risk,At Risk
+2368,3,1,2,6,Hibernating,At Risk
+2375,1,3,2,6,At Risk,At Risk
+2379,4,1,1,6,Promising,At Risk
+2389,3,2,1,6,Hibernating,At Risk
+2396,3,2,1,6,Hibernating,At Risk
+2403,2,3,1,6,At Risk,At Risk
+2416,4,1,1,6,Promising,At Risk
+2426,4,1,1,6,Promising,At Risk
+2442,1,3,2,6,At Risk,At Risk
+2451,2,3,1,6,At Risk,At Risk
+2463,2,2,2,6,Hibernating,At Risk
+2468,3,1,2,6,Hibernating,At Risk
+2469,1,3,2,6,At Risk,At Risk
+2489,3,1,2,6,Hibernating,At Risk
+2491,4,1,1,6,Promising,At Risk
+2492,1,3,2,6,At Risk,At Risk
+2502,4,1,1,6,Promising,At Risk
+2512,2,3,1,6,At Risk,At Risk
+2518,1,3,2,6,At Risk,At Risk
+2519,1,3,2,6,At Risk,At Risk
+2528,1,4,1,6,At Risk,At Risk
+2543,3,2,1,6,Hibernating,At Risk
+2553,1,3,2,6,At Risk,At Risk
+2558,1,2,3,6,Hibernating,At Risk
+2591,2,3,1,6,At Risk,At Risk
+2602,2,1,3,6,Hibernating,At Risk
+2618,3,2,1,6,Hibernating,At Risk
+2623,1,3,2,6,At Risk,At Risk
+2627,1,3,2,6,At Risk,At Risk
+2630,2,3,1,6,At Risk,At Risk
+2644,2,3,1,6,At Risk,At Risk
+2666,3,1,2,6,Hibernating,At Risk
+2677,2,2,2,6,Hibernating,At Risk
+2693,2,2,2,6,Hibernating,At Risk
+2700,2,2,2,6,Hibernating,At Risk
+2747,2,2,2,6,Hibernating,At Risk
+2758,3,1,2,6,Hibernating,At Risk
+2765,1,4,1,6,At Risk,At Risk
+2766,2,3,1,6,At Risk,At Risk
+2767,2,3,1,6,At Risk,At Risk
+2770,1,2,3,6,Hibernating,At Risk
+2771,2,3,1,6,At Risk,At Risk
+2831,1,2,3,6,Hibernating,At Risk
+2860,1,3,2,6,At Risk,At Risk
+2867,2,3,1,6,At Risk,At Risk
+2875,3,2,1,6,Hibernating,At Risk
+2896,2,2,2,6,Hibernating,At Risk
+2901,1,4,1,6,At Risk,At Risk
+2903,1,4,1,6,At Risk,At Risk
+2905,1,2,3,6,Hibernating,At Risk
+2927,2,2,2,6,Hibernating,At Risk
+2936,2,3,1,6,At Risk,At Risk
+2945,2,2,2,6,Hibernating,At Risk
+2957,3,1,2,6,Hibernating,At Risk
+2963,2,3,1,6,At Risk,At Risk
+2979,3,1,2,6,Hibernating,At Risk
+3009,1,3,2,6,At Risk,At Risk
+3010,1,3,2,6,At Risk,At Risk
+3020,1,2,3,6,Hibernating,At Risk
+3022,3,2,1,6,Hibernating,At Risk
+3025,1,3,2,6,At Risk,At Risk
+3033,1,2,3,6,Hibernating,At Risk
+3049,1,2,3,6,Hibernating,At Risk
+3058,3,1,2,6,Hibernating,At Risk
+3078,2,1,3,6,Hibernating,At Risk
+3080,3,1,2,6,Hibernating,At Risk
+3083,1,1,4,6,Hibernating,At Risk
+3086,1,2,3,6,Hibernating,At Risk
+3088,2,3,1,6,At Risk,At Risk
+3090,2,3,1,6,At Risk,At Risk
+3103,1,3,2,6,At Risk,At Risk
+3108,1,3,2,6,At Risk,At Risk
+3140,1,4,1,6,At Risk,At Risk
+3164,3,1,2,6,Hibernating,At Risk
+3176,2,3,1,6,At Risk,At Risk
+3178,1,2,3,6,Hibernating,At Risk
+3186,1,3,2,6,At Risk,At Risk
+3190,1,2,3,6,Hibernating,At Risk
+3205,2,3,1,6,At Risk,At Risk
+3224,1,3,2,6,At Risk,At Risk
+3231,2,3,1,6,At Risk,At Risk
+3246,3,2,1,6,Hibernating,At Risk
+3253,3,1,2,6,Hibernating,Hibernating
+3264,3,1,2,6,Hibernating,Hibernating
+3281,3,1,2,6,Hibernating,Hibernating
+3282,3,1,2,6,Hibernating,Hibernating
+3285,2,2,2,6,Hibernating,Hibernating
+3288,3,1,2,6,Hibernating,Hibernating
+3296,3,2,1,6,Hibernating,Hibernating
+3299,4,1,1,6,Promising,Hibernating
+3306,1,3,2,6,At Risk,Hibernating
+3309,1,3,2,6,At Risk,Hibernating
+3313,2,2,2,6,Hibernating,Hibernating
+3317,2,2,2,6,Hibernating,Hibernating
+3320,4,1,1,6,Promising,Hibernating
+3326,3,1,2,6,Hibernating,Hibernating
+3327,3,1,2,6,Hibernating,Hibernating
+3329,2,2,2,6,Hibernating,Hibernating
+3331,1,2,3,6,Hibernating,Hibernating
+3341,4,1,1,6,Promising,Hibernating
+3345,1,2,3,6,Hibernating,Hibernating
+3351,4,1,1,6,Promising,Hibernating
+3353,2,2,2,6,Hibernating,Hibernating
+3356,4,1,1,6,Promising,Hibernating
+3360,3,2,1,6,Hibernating,Hibernating
+3379,2,2,2,6,Hibernating,Hibernating
+3388,2,2,2,6,Hibernating,Hibernating
+3399,3,1,2,6,Hibernating,Hibernating
+3402,1,2,3,6,Hibernating,Hibernating
+3408,4,1,1,6,Promising,Hibernating
+3412,4,1,1,6,Promising,Hibernating
+3421,4,1,1,6,Promising,Hibernating
+3422,4,1,1,6,Promising,Hibernating
+3424,3,1,2,6,Hibernating,Hibernating
+3425,3,1,2,6,Hibernating,Hibernating
+3441,2,2,2,6,Hibernating,Hibernating
+3454,2,2,2,6,Hibernating,Hibernating
+3455,4,1,1,6,Promising,Hibernating
+3456,3,1,2,6,Hibernating,Hibernating
+3461,4,1,1,6,Promising,Hibernating
+3462,3,1,2,6,Hibernating,Hibernating
+3464,4,1,1,6,Promising,Hibernating
+3480,3,1,2,6,Hibernating,Hibernating
+3481,2,1,3,6,Hibernating,Hibernating
+3483,3,1,2,6,Hibernating,Hibernating
+3484,1,3,2,6,At Risk,Hibernating
+3487,2,1,3,6,Hibernating,Hibernating
+3506,4,1,1,6,Promising,Hibernating
+3514,1,2,3,6,Hibernating,Hibernating
+3515,3,1,2,6,Hibernating,Hibernating
+3523,4,1,1,6,Promising,Hibernating
+3532,3,2,1,6,Hibernating,Hibernating
+3535,3,1,2,6,Hibernating,Hibernating
+3541,3,2,1,6,Hibernating,Hibernating
+3543,3,1,2,6,Hibernating,Hibernating
+3544,2,2,2,6,Hibernating,Hibernating
+3550,4,1,1,6,Promising,Hibernating
+3557,2,2,2,6,Hibernating,Hibernating
+3565,3,2,1,6,Hibernating,Hibernating
+3582,1,2,3,6,Hibernating,Hibernating
+3584,3,2,1,6,Hibernating,Hibernating
+3588,2,2,2,6,Hibernating,Hibernating
+3590,3,1,2,6,Hibernating,Hibernating
+3591,3,1,2,6,Hibernating,Hibernating
+3592,1,2,3,6,Hibernating,Hibernating
+3594,4,1,1,6,Promising,Hibernating
+3597,2,2,2,6,Hibernating,Hibernating
+3606,1,2,3,6,Hibernating,Hibernating
+3608,4,1,1,6,Promising,Hibernating
+3610,2,2,2,6,Hibernating,Hibernating
+3611,3,1,2,6,Hibernating,Hibernating
+3612,4,1,1,6,Promising,Hibernating
+3616,3,1,2,6,Hibernating,Hibernating
+3620,4,1,1,6,Promising,Hibernating
+3622,2,2,2,6,Hibernating,Hibernating
+3624,4,1,1,6,Promising,Hibernating
+3637,2,2,2,6,Hibernating,Hibernating
+3639,4,1,1,6,Promising,Hibernating
+3644,2,2,2,6,Hibernating,Hibernating
+3645,3,1,2,6,Hibernating,Hibernating
+3647,3,1,2,6,Hibernating,Hibernating
+3648,3,1,2,6,Hibernating,Hibernating
+3649,2,2,2,6,Hibernating,Hibernating
+3652,1,2,3,6,Hibernating,Hibernating
+3654,3,1,2,6,Hibernating,Hibernating
+3655,1,2,3,6,Hibernating,Hibernating
+3656,2,2,2,6,Hibernating,Hibernating
+3657,4,1,1,6,Promising,Hibernating
+3661,3,1,2,6,Hibernating,Hibernating
+3667,4,1,1,6,Promising,Hibernating
+3668,3,1,2,6,Hibernating,Hibernating
+3678,2,2,2,6,Hibernating,Hibernating
+3686,3,2,1,6,Hibernating,Hibernating
+3687,1,2,3,6,Hibernating,Hibernating
+3695,3,1,2,6,Hibernating,Hibernating
+3699,1,2,3,6,Hibernating,Hibernating
+3712,4,1,1,6,Promising,Hibernating
+3713,3,1,2,6,Hibernating,Hibernating
+3717,3,1,2,6,Hibernating,Hibernating
+3724,3,2,1,6,Hibernating,Hibernating
+3726,1,2,3,6,Hibernating,Hibernating
+3727,3,1,2,6,Hibernating,Hibernating
+3731,3,1,2,6,Hibernating,Hibernating
+3738,3,1,2,6,Hibernating,Hibernating
+3739,4,1,1,6,Promising,Hibernating
+3740,3,1,2,6,Hibernating,Hibernating
+3742,2,2,2,6,Hibernating,Hibernating
+3746,2,2,2,6,Hibernating,Hibernating
+3749,2,2,2,6,Hibernating,Hibernating
+3752,1,2,3,6,Hibernating,Hibernating
+3754,2,3,1,6,At Risk,Hibernating
+3757,3,1,2,6,Hibernating,Hibernating
+3763,3,1,2,6,Hibernating,Hibernating
+3764,2,2,2,6,Hibernating,Hibernating
+3766,1,2,3,6,Hibernating,Hibernating
+3773,3,1,2,6,Hibernating,Hibernating
+3774,3,2,1,6,Hibernating,Hibernating
+3786,2,2,2,6,Hibernating,Hibernating
+3787,3,1,2,6,Hibernating,Hibernating
+3790,1,2,3,6,Hibernating,Hibernating
+3792,3,1,2,6,Hibernating,Hibernating
+3805,3,1,2,6,Hibernating,Hibernating
+3808,1,2,3,6,Hibernating,Hibernating
+3813,1,2,3,6,Hibernating,Hibernating
+3816,4,1,1,6,Promising,Hibernating
+3832,3,1,2,6,Hibernating,Hibernating
+3833,1,2,3,6,Hibernating,Hibernating
+3841,1,2,3,6,Hibernating,Hibernating
+3845,2,2,2,6,Hibernating,Hibernating
+3847,1,2,3,6,Hibernating,Hibernating
+3849,3,1,2,6,Hibernating,Hibernating
+3852,3,1,2,6,Hibernating,Hibernating
+3857,2,2,2,6,Hibernating,Hibernating
+3858,2,2,2,6,Hibernating,Hibernating
+3861,3,1,2,6,Hibernating,Hibernating
+3863,3,1,2,6,Hibernating,Hibernating
+3871,4,1,1,6,Promising,Hibernating
+3873,1,2,3,6,Hibernating,Hibernating
+3874,1,2,3,6,Hibernating,Hibernating
+3876,4,1,1,6,Promising,Hibernating
+3877,2,2,2,6,Hibernating,Hibernating
+3878,3,2,1,6,Hibernating,Hibernating
+3884,4,1,1,6,Promising,Hibernating
+3885,3,1,2,6,Hibernating,Hibernating
+3886,4,1,1,6,Promising,Hibernating
+3888,1,2,3,6,Hibernating,Hibernating
+3895,3,2,1,6,Hibernating,Hibernating
+3899,3,2,1,6,Hibernating,Hibernating
+3907,2,2,2,6,Hibernating,Hibernating
+3914,1,3,2,6,At Risk,Hibernating
+3915,1,2,3,6,Hibernating,Hibernating
+3919,3,1,2,6,Hibernating,Hibernating
+3922,3,1,2,6,Hibernating,Hibernating
+3924,4,1,1,6,Promising,Hibernating
+3928,3,2,1,6,Hibernating,Hibernating
+3937,2,2,2,6,Hibernating,Hibernating
+3938,3,1,2,6,Hibernating,Hibernating
+3944,2,2,2,6,Hibernating,Hibernating
+3951,4,1,1,6,Promising,Hibernating
+3952,4,1,1,6,Promising,Hibernating
+3954,3,1,2,6,Hibernating,Hibernating
+3958,4,1,1,6,Promising,Hibernating
+3960,2,2,2,6,Hibernating,Hibernating
+3962,3,1,2,6,Hibernating,Hibernating
+3963,2,2,2,6,Hibernating,Hibernating
+3965,2,2,2,6,Hibernating,Hibernating
+3969,2,2,2,6,Hibernating,Hibernating
+3971,2,2,2,6,Hibernating,Hibernating
+3994,1,2,3,6,Hibernating,Hibernating
+3997,3,1,2,6,Hibernating,Hibernating
+4007,1,2,3,6,Hibernating,Hibernating
+4014,4,1,1,6,Promising,Hibernating
+4016,1,2,3,6,Hibernating,Hibernating
+4019,3,1,2,6,Hibernating,Hibernating
+4020,2,2,2,6,Hibernating,Hibernating
+4021,3,2,1,6,Hibernating,Hibernating
+4047,3,1,2,6,Hibernating,Hibernating
+4066,3,1,2,6,Hibernating,Hibernating
+4071,2,2,2,6,Hibernating,Hibernating
+4075,4,1,1,6,Promising,Hibernating
+4083,2,2,2,6,Hibernating,Hibernating
+4086,3,1,2,6,Hibernating,Hibernating
+4089,4,1,1,6,Promising,Hibernating
+4097,2,3,1,6,At Risk,Hibernating
+4111,2,1,3,6,Hibernating,Hibernating
+4113,4,1,1,6,Promising,Hibernating
+4123,3,1,2,6,Hibernating,Hibernating
+4134,4,1,1,6,Promising,Hibernating
+4138,3,1,2,6,Hibernating,Hibernating
+4143,1,2,3,6,Hibernating,Hibernating
+4144,2,3,1,6,At Risk,Hibernating
+4151,3,1,2,6,Hibernating,Hibernating
+4158,3,1,2,6,Hibernating,Hibernating
+4161,3,1,2,6,Hibernating,Hibernating
+4165,1,2,3,6,Hibernating,Hibernating
+4166,3,1,2,6,Hibernating,Hibernating
+4168,2,2,2,6,Hibernating,Hibernating
+4170,4,1,1,6,Promising,Hibernating
+4172,4,1,1,6,Promising,Hibernating
+4177,2,2,2,6,Hibernating,Hibernating
+4178,2,2,2,6,Hibernating,Hibernating
+4182,1,2,3,6,Hibernating,Hibernating
+4185,1,2,3,6,Hibernating,Hibernating
+4191,4,1,1,6,Promising,Hibernating
+4198,2,2,2,6,Hibernating,Hibernating
+4199,2,2,2,6,Hibernating,Hibernating
+4201,4,1,1,6,Promising,Hibernating
+4204,2,2,2,6,Hibernating,Hibernating
+4206,4,1,1,6,Promising,Hibernating
+4220,1,2,3,6,Hibernating,Hibernating
+4248,4,1,1,6,Promising,Hibernating
+4251,1,2,3,6,Hibernating,Hibernating
+4255,3,1,2,6,Hibernating,Hibernating
+4258,1,2,3,6,Hibernating,Hibernating
+4260,2,1,3,6,Hibernating,Hibernating
+4268,1,2,3,6,Hibernating,Hibernating
+4271,1,3,2,6,At Risk,Hibernating
+4276,2,3,1,6,At Risk,Hibernating
+4282,1,2,3,6,Hibernating,Hibernating
+4295,2,2,2,6,Hibernating,Hibernating
+4297,4,1,1,6,Promising,Hibernating
+4303,2,2,2,6,Hibernating,Hibernating
+4304,4,1,1,6,Promising,Hibernating
+4313,4,1,1,6,Promising,Hibernating
+4316,1,2,3,6,Hibernating,Hibernating
+4317,2,2,2,6,Hibernating,Hibernating
+4326,3,1,2,6,Hibernating,Hibernating
+4329,2,2,2,6,Hibernating,Hibernating
+4330,2,2,2,6,Hibernating,Hibernating
+4334,4,1,1,6,Promising,Hibernating
+4346,1,2,3,6,Hibernating,Hibernating
+4348,2,2,2,6,Hibernating,Hibernating
+4357,1,2,3,6,Hibernating,Hibernating
+4366,3,1,2,6,Hibernating,Hibernating
+4368,1,2,3,6,Hibernating,Hibernating
+4376,2,2,2,6,Hibernating,Hibernating
+4377,3,1,2,6,Hibernating,Hibernating
+4378,4,1,1,6,Promising,Hibernating
+4380,1,2,3,6,Hibernating,Hibernating
+4386,3,2,1,6,Hibernating,Hibernating
+4387,4,1,1,6,Promising,Hibernating
+4388,3,1,2,6,Hibernating,Hibernating
+4400,3,2,1,6,Hibernating,Hibernating
+4403,4,1,1,6,Promising,Hibernating
+4406,2,2,2,6,Hibernating,Hibernating
+4407,3,1,2,6,Hibernating,Hibernating
+4408,1,2,3,6,Hibernating,Hibernating
+4415,2,2,2,6,Hibernating,Hibernating
+4416,2,2,2,6,Hibernating,Hibernating
+4417,4,1,1,6,Promising,Hibernating
+4420,1,2,3,6,Hibernating,Hibernating
+4421,4,1,1,6,Promising,Hibernating
+4424,4,1,1,6,Promising,Hibernating
+4429,3,1,2,6,Hibernating,Hibernating
+4432,4,1,1,6,Promising,Hibernating
+4441,3,2,1,6,Hibernating,Hibernating
+4442,2,2,2,6,Hibernating,Hibernating
+4444,2,2,2,6,Hibernating,Hibernating
+4453,3,1,2,6,Hibernating,Hibernating
+4454,4,1,1,6,Promising,Hibernating
+4456,4,1,1,6,Promising,Hibernating
+4470,3,1,2,6,Hibernating,Hibernating
+4472,1,2,3,6,Hibernating,Hibernating
+4473,3,1,2,6,Hibernating,Hibernating
+4477,2,1,3,6,Hibernating,Hibernating
+4498,2,2,2,6,Hibernating,Hibernating
+4505,3,2,1,6,Hibernating,Hibernating
+4507,3,2,1,6,Hibernating,Hibernating
+4510,3,1,2,6,Hibernating,Hibernating
+4513,4,1,1,6,Promising,Hibernating
+4517,4,1,1,6,Promising,Hibernating
+4543,3,2,1,6,Hibernating,Hibernating
+4553,3,1,2,6,Hibernating,Hibernating
+4557,4,1,1,6,Promising,Hibernating
+4559,3,1,2,6,Hibernating,Hibernating
+4566,3,2,1,6,Hibernating,Hibernating
+4568,1,2,3,6,Hibernating,Hibernating
+4576,4,1,1,6,Promising,Hibernating
+4587,2,2,2,6,Hibernating,Hibernating
+4588,3,1,2,6,Hibernating,Hibernating
+4595,4,1,1,6,Promising,Hibernating
+4602,4,1,1,6,Promising,Hibernating
+4605,2,2,2,6,Hibernating,Hibernating
+4606,1,2,3,6,Hibernating,Hibernating
+4607,4,1,1,6,Promising,Hibernating
+4614,1,2,3,6,Hibernating,Hibernating
+4627,3,2,1,6,Hibernating,Hibernating
+4639,3,1,2,6,Hibernating,Hibernating
+4647,4,1,1,6,Promising,Hibernating
+4653,2,2,2,6,Hibernating,Hibernating
+4654,2,2,2,6,Hibernating,Hibernating
+4656,3,1,2,6,Hibernating,Hibernating
+4662,4,1,1,6,Promising,Hibernating
+4663,4,1,1,6,Promising,Hibernating
+4672,1,2,3,6,Hibernating,Hibernating
+4681,2,2,2,6,Hibernating,Hibernating
+4684,2,2,2,6,Hibernating,Hibernating
+4685,1,1,4,6,Hibernating,Hibernating
+4689,3,1,2,6,Hibernating,Hibernating
+4690,4,1,1,6,Promising,Hibernating
+4692,4,1,1,6,Promising,Hibernating
+4698,3,2,1,6,Hibernating,Hibernating
+4705,3,1,2,6,Hibernating,Hibernating
+4706,2,3,1,6,At Risk,Hibernating
+4708,4,1,1,6,Promising,Hibernating
+4710,4,1,1,6,Promising,Hibernating
+4711,2,2,2,6,Hibernating,Hibernating
+4715,3,1,2,6,Hibernating,Hibernating
+4716,2,2,2,6,Hibernating,Hibernating
+4719,4,1,1,6,Promising,Hibernating
+4734,1,2,3,6,Hibernating,Hibernating
+4746,3,2,1,6,Hibernating,Hibernating
+4748,2,2,2,6,Hibernating,Hibernating
+4751,3,1,2,6,Hibernating,Hibernating
+4755,2,3,1,6,At Risk,Hibernating
+4757,3,1,2,6,Hibernating,Hibernating
+4763,3,1,2,6,Hibernating,Hibernating
+4767,1,2,3,6,Hibernating,Hibernating
+4769,3,1,2,6,Hibernating,Hibernating
+4776,3,1,2,6,Hibernating,Hibernating
+4785,4,1,1,6,Promising,Hibernating
+4790,3,1,2,6,Hibernating,Hibernating
+4798,2,2,2,6,Hibernating,Hibernating
+4799,4,1,1,6,Promising,Hibernating
+4800,3,1,2,6,Hibernating,Hibernating
+4803,3,1,2,6,Hibernating,Hibernating
+4807,4,1,1,6,Promising,Hibernating
+4811,3,1,2,6,Hibernating,Hibernating
+4814,2,2,2,6,Hibernating,Hibernating
+4818,2,2,2,6,Hibernating,Hibernating
+4819,4,1,1,6,Promising,Hibernating
+4823,2,2,2,6,Hibernating,Hibernating
+4825,3,2,1,6,Hibernating,Hibernating
+4828,2,2,2,6,Hibernating,Hibernating
+4832,1,2,3,6,Hibernating,Hibernating
+4833,3,1,2,6,Hibernating,Hibernating
+4834,3,1,2,6,Hibernating,Hibernating
+4835,2,2,2,6,Hibernating,Hibernating
+4837,3,1,2,6,Hibernating,Hibernating
+4847,4,1,1,6,Promising,Hibernating
+4853,2,2,2,6,Hibernating,Hibernating
+4855,2,2,2,6,Hibernating,Hibernating
+4856,4,1,1,6,Promising,Hibernating
+4862,1,2,3,6,Hibernating,Hibernating
+4864,3,2,1,6,Hibernating,Hibernating
+4877,2,2,2,6,Hibernating,Hibernating
+4878,2,3,1,6,At Risk,Hibernating
+4892,4,1,1,6,Promising,Hibernating
+4895,3,1,2,6,Hibernating,Hibernating
+4901,4,1,1,6,Promising,Hibernating
+4906,4,1,1,6,Promising,Hibernating
+4925,4,1,1,6,Promising,Hibernating
+4928,3,1,2,6,Hibernating,Hibernating
+4931,4,1,1,6,Promising,Hibernating
+4935,2,2,2,6,Hibernating,Hibernating
+4944,2,1,3,6,Hibernating,Hibernating
+4948,1,2,3,6,Hibernating,Hibernating
+4952,3,2,1,6,Hibernating,Hibernating
+4961,3,1,2,6,Hibernating,Hibernating
+4968,3,2,1,6,Hibernating,Hibernating
+4971,3,1,2,6,Hibernating,Hibernating
+4979,4,1,1,6,Promising,Hibernating
+4983,2,2,2,6,Hibernating,Hibernating
+4993,1,3,2,6,At Risk,Hibernating
+4996,3,2,1,6,Hibernating,Hibernating
+1046,2,2,1,5,Hibernating,Promising
+1150,1,1,3,5,Hibernating,Promising
+1227,2,1,2,5,Hibernating,Promising
+1441,1,3,1,5,At Risk,Promising
+1490,1,3,1,5,At Risk,Promising
+1512,1,3,1,5,At Risk,Promising
+1546,3,1,1,5,Hibernating,Promising
+1664,1,3,1,5,At Risk,Promising
+1684,1,2,2,5,Hibernating,Promising
+1696,1,3,1,5,At Risk,Promising
+1730,2,2,1,5,Hibernating,Promising
+1736,1,3,1,5,At Risk,Promising
+1740,1,3,1,5,At Risk,Promising
+1787,1,3,1,5,At Risk,Promising
+1808,2,2,1,5,Hibernating,Promising
+1865,1,3,1,5,At Risk,Promising
+1927,1,3,1,5,At Risk,Promising
+1959,3,1,1,5,Hibernating,Promising
+1965,1,3,1,5,At Risk,Promising
+1994,2,1,2,5,Hibernating,Promising
+2003,1,2,2,5,Hibernating,At Risk
+2019,1,3,1,5,At Risk,At Risk
+2021,1,2,2,5,Hibernating,At Risk
+2032,1,3,1,5,At Risk,At Risk
+2052,1,3,1,5,At Risk,At Risk
+2076,1,3,1,5,At Risk,At Risk
+2085,3,1,1,5,Hibernating,At Risk
+2090,1,2,2,5,Hibernating,At Risk
+2092,1,3,1,5,At Risk,At Risk
+2104,1,3,1,5,At Risk,At Risk
+2105,2,1,2,5,Hibernating,At Risk
+2115,1,3,1,5,At Risk,At Risk
+2126,1,2,2,5,Hibernating,At Risk
+2139,1,3,1,5,At Risk,At Risk
+2180,1,3,1,5,At Risk,At Risk
+2222,1,2,2,5,Hibernating,At Risk
+2227,1,3,1,5,At Risk,At Risk
+2267,1,3,1,5,At Risk,At Risk
+2329,1,3,1,5,At Risk,At Risk
+2334,2,2,1,5,Hibernating,At Risk
+2340,1,2,2,5,Hibernating,At Risk
+2341,1,3,1,5,At Risk,At Risk
+2356,2,2,1,5,Hibernating,At Risk
+2357,3,1,1,5,Hibernating,At Risk
+2358,1,2,2,5,Hibernating,At Risk
+2362,2,2,1,5,Hibernating,At Risk
+2381,2,2,1,5,Hibernating,At Risk
+2435,1,2,2,5,Hibernating,At Risk
+2462,1,3,1,5,At Risk,At Risk
+2472,2,1,2,5,Hibernating,At Risk
+2488,3,1,1,5,Hibernating,At Risk
+2498,3,1,1,5,Hibernating,At Risk
+2513,1,1,3,5,Hibernating,At Risk
+2521,1,2,2,5,Hibernating,At Risk
+2522,2,2,1,5,Hibernating,At Risk
+2551,3,1,1,5,Hibernating,At Risk
+2566,2,1,2,5,Hibernating,At Risk
+2636,1,3,1,5,At Risk,At Risk
+2651,1,3,1,5,At Risk,At Risk
+2655,1,3,1,5,At Risk,At Risk
+2674,2,2,1,5,Hibernating,At Risk
+2679,1,3,1,5,At Risk,At Risk
+2746,1,2,2,5,Hibernating,At Risk
+2790,1,1,3,5,Hibernating,At Risk
+2793,1,3,1,5,At Risk,At Risk
+2879,2,2,1,5,Hibernating,At Risk
+2971,3,1,1,5,Hibernating,At Risk
+2980,2,2,1,5,Hibernating,At Risk
+2982,1,3,1,5,At Risk,At Risk
+2990,3,1,1,5,Hibernating,At Risk
+3021,3,1,1,5,Hibernating,At Risk
+3035,1,3,1,5,At Risk,At Risk
+3075,2,1,2,5,Hibernating,At Risk
+3093,1,3,1,5,At Risk,At Risk
+3112,2,2,1,5,Hibernating,At Risk
+3116,1,3,1,5,At Risk,At Risk
+3121,2,1,2,5,Hibernating,At Risk
+3127,2,1,2,5,Hibernating,At Risk
+3138,3,1,1,5,Hibernating,At Risk
+3187,2,2,1,5,Hibernating,At Risk
+3248,3,1,1,5,Hibernating,At Risk
+3252,1,2,2,5,Hibernating,Hibernating
+3259,2,2,1,5,Hibernating,Hibernating
+3268,1,1,3,5,Hibernating,Hibernating
+3269,2,2,1,5,Hibernating,Hibernating
+3279,1,2,2,5,Hibernating,Hibernating
+3292,2,1,2,5,Hibernating,Hibernating
+3301,2,2,1,5,Hibernating,Hibernating
+3307,1,1,3,5,Hibernating,Hibernating
+3328,1,1,3,5,Hibernating,Hibernating
+3330,2,1,2,5,Hibernating,Hibernating
+3332,3,1,1,5,Hibernating,Hibernating
+3334,2,2,1,5,Hibernating,Hibernating
+3337,2,2,1,5,Hibernating,Hibernating
+3348,1,1,3,5,Hibernating,Hibernating
+3350,3,1,1,5,Hibernating,Hibernating
+3362,3,1,1,5,Hibernating,Hibernating
+3365,3,1,1,5,Hibernating,Hibernating
+3366,2,2,1,5,Hibernating,Hibernating
+3367,1,2,2,5,Hibernating,Hibernating
+3369,1,2,2,5,Hibernating,Hibernating
+3390,3,1,1,5,Hibernating,Hibernating
+3396,3,1,1,5,Hibernating,Hibernating
+3401,3,1,1,5,Hibernating,Hibernating
+3405,2,1,2,5,Hibernating,Hibernating
+3413,2,1,2,5,Hibernating,Hibernating
+3431,2,2,1,5,Hibernating,Hibernating
+3444,2,1,2,5,Hibernating,Hibernating
+3449,1,2,2,5,Hibernating,Hibernating
+3458,2,2,1,5,Hibernating,Hibernating
+3460,3,1,1,5,Hibernating,Hibernating
+3468,1,2,2,5,Hibernating,Hibernating
+3469,1,2,2,5,Hibernating,Hibernating
+3485,2,2,1,5,Hibernating,Hibernating
+3490,2,1,2,5,Hibernating,Hibernating
+3493,1,2,2,5,Hibernating,Hibernating
+3504,1,1,3,5,Hibernating,Hibernating
+3505,2,2,1,5,Hibernating,Hibernating
+3507,3,1,1,5,Hibernating,Hibernating
+3522,3,1,1,5,Hibernating,Hibernating
+3526,1,1,3,5,Hibernating,Hibernating
+3533,1,1,3,5,Hibernating,Hibernating
+3553,1,2,2,5,Hibernating,Hibernating
+3559,2,2,1,5,Hibernating,Hibernating
+3561,1,3,1,5,At Risk,Hibernating
+3578,3,1,1,5,Hibernating,Hibernating
+3583,1,2,2,5,Hibernating,Hibernating
+3598,1,2,2,5,Hibernating,Hibernating
+3600,2,2,1,5,Hibernating,Hibernating
+3603,2,2,1,5,Hibernating,Hibernating
+3614,2,2,1,5,Hibernating,Hibernating
+3619,1,2,2,5,Hibernating,Hibernating
+3625,1,2,2,5,Hibernating,Hibernating
+3626,1,2,2,5,Hibernating,Hibernating
+3631,1,2,2,5,Hibernating,Hibernating
+3650,3,1,1,5,Hibernating,Hibernating
+3659,3,1,1,5,Hibernating,Hibernating
+3660,1,2,2,5,Hibernating,Hibernating
+3670,3,1,1,5,Hibernating,Hibernating
+3671,3,1,1,5,Hibernating,Hibernating
+3676,3,1,1,5,Hibernating,Hibernating
+3684,2,2,1,5,Hibernating,Hibernating
+3690,2,1,2,5,Hibernating,Hibernating
+3694,1,2,2,5,Hibernating,Hibernating
+3696,3,1,1,5,Hibernating,Hibernating
+3698,2,1,2,5,Hibernating,Hibernating
+3706,3,1,1,5,Hibernating,Hibernating
+3707,2,2,1,5,Hibernating,Hibernating
+3709,1,2,2,5,Hibernating,Hibernating
+3711,2,2,1,5,Hibernating,Hibernating
+3714,2,1,2,5,Hibernating,Hibernating
+3716,3,1,1,5,Hibernating,Hibernating
+3719,2,2,1,5,Hibernating,Hibernating
+3732,2,2,1,5,Hibernating,Hibernating
+3734,3,1,1,5,Hibernating,Hibernating
+3737,1,2,2,5,Hibernating,Hibernating
+3741,3,1,1,5,Hibernating,Hibernating
+3748,1,2,2,5,Hibernating,Hibernating
+3759,2,2,1,5,Hibernating,Hibernating
+3761,1,2,2,5,Hibernating,Hibernating
+3769,3,1,1,5,Hibernating,Hibernating
+3788,1,2,2,5,Hibernating,Hibernating
+3797,1,2,2,5,Hibernating,Hibernating
+3799,2,1,2,5,Hibernating,Hibernating
+3800,1,2,2,5,Hibernating,Hibernating
+3804,1,1,3,5,Hibernating,Hibernating
+3812,2,1,2,5,Hibernating,Hibernating
+3817,2,2,1,5,Hibernating,Hibernating
+3819,2,2,1,5,Hibernating,Hibernating
+3825,2,2,1,5,Hibernating,Hibernating
+3827,1,2,2,5,Hibernating,Hibernating
+3829,1,2,2,5,Hibernating,Hibernating
+3836,3,1,1,5,Hibernating,Hibernating
+3839,3,1,1,5,Hibernating,Hibernating
+3848,3,1,1,5,Hibernating,Hibernating
+3854,2,2,1,5,Hibernating,Hibernating
+3855,1,1,3,5,Hibernating,Hibernating
+3860,2,1,2,5,Hibernating,Hibernating
+3864,1,2,2,5,Hibernating,Hibernating
+3867,3,1,1,5,Hibernating,Hibernating
+3868,1,2,2,5,Hibernating,Hibernating
+3875,2,1,2,5,Hibernating,Hibernating
+3879,1,2,2,5,Hibernating,Hibernating
+3887,1,2,2,5,Hibernating,Hibernating
+3890,2,2,1,5,Hibernating,Hibernating
+3892,1,2,2,5,Hibernating,Hibernating
+3897,1,2,2,5,Hibernating,Hibernating
+3918,1,2,2,5,Hibernating,Hibernating
+3920,2,1,2,5,Hibernating,Hibernating
+3934,2,2,1,5,Hibernating,Hibernating
+3942,3,1,1,5,Hibernating,Hibernating
+3946,3,1,1,5,Hibernating,Hibernating
+3950,2,2,1,5,Hibernating,Hibernating
+3961,1,2,2,5,Hibernating,Hibernating
+3966,3,1,1,5,Hibernating,Hibernating
+3968,1,2,2,5,Hibernating,Hibernating
+3973,3,1,1,5,Hibernating,Hibernating
+3976,2,2,1,5,Hibernating,Hibernating
+3981,3,1,1,5,Hibernating,Hibernating
+3986,1,2,2,5,Hibernating,Hibernating
+3993,2,1,2,5,Hibernating,Hibernating
+3995,2,2,1,5,Hibernating,Hibernating
+4000,2,2,1,5,Hibernating,Hibernating
+4002,3,1,1,5,Hibernating,Hibernating
+4011,3,1,1,5,Hibernating,Hibernating
+4023,3,1,1,5,Hibernating,Hibernating
+4028,3,1,1,5,Hibernating,Hibernating
+4031,1,2,2,5,Hibernating,Hibernating
+4038,2,1,2,5,Hibernating,Hibernating
+4039,3,1,1,5,Hibernating,Hibernating
+4043,2,2,1,5,Hibernating,Hibernating
+4049,2,1,2,5,Hibernating,Hibernating
+4050,3,1,1,5,Hibernating,Hibernating
+4052,3,1,1,5,Hibernating,Hibernating
+4053,2,2,1,5,Hibernating,Hibernating
+4057,3,1,1,5,Hibernating,Hibernating
+4063,1,2,2,5,Hibernating,Hibernating
+4082,3,1,1,5,Hibernating,Hibernating
+4084,1,2,2,5,Hibernating,Hibernating
+4085,2,1,2,5,Hibernating,Hibernating
+4091,3,1,1,5,Hibernating,Hibernating
+4096,1,2,2,5,Hibernating,Hibernating
+4100,2,2,1,5,Hibernating,Hibernating
+4102,1,2,2,5,Hibernating,Hibernating
+4115,2,1,2,5,Hibernating,Hibernating
+4121,1,2,2,5,Hibernating,Hibernating
+4124,1,2,2,5,Hibernating,Hibernating
+4125,2,1,2,5,Hibernating,Hibernating
+4132,1,2,2,5,Hibernating,Hibernating
+4137,3,1,1,5,Hibernating,Hibernating
+4140,2,2,1,5,Hibernating,Hibernating
+4145,1,2,2,5,Hibernating,Hibernating
+4146,3,1,1,5,Hibernating,Hibernating
+4163,1,3,1,5,At Risk,Hibernating
+4164,1,2,2,5,Hibernating,Hibernating
+4173,2,2,1,5,Hibernating,Hibernating
+4174,3,1,1,5,Hibernating,Hibernating
+4179,2,2,1,5,Hibernating,Hibernating
+4184,3,1,1,5,Hibernating,Hibernating
+4186,1,2,2,5,Hibernating,Hibernating
+4190,2,2,1,5,Hibernating,Hibernating
+4192,3,1,1,5,Hibernating,Hibernating
+4193,2,1,2,5,Hibernating,Hibernating
+4203,3,1,1,5,Hibernating,Hibernating
+4208,2,2,1,5,Hibernating,Hibernating
+4211,2,2,1,5,Hibernating,Hibernating
+4212,2,2,1,5,Hibernating,Hibernating
+4217,1,2,2,5,Hibernating,Hibernating
+4219,2,1,2,5,Hibernating,Hibernating
+4225,3,1,1,5,Hibernating,Hibernating
+4226,1,2,2,5,Hibernating,Hibernating
+4229,1,2,2,5,Hibernating,Hibernating
+4239,1,2,2,5,Hibernating,Hibernating
+4241,2,2,1,5,Hibernating,Hibernating
+4247,2,2,1,5,Hibernating,Hibernating
+4249,3,1,1,5,Hibernating,Hibernating
+4253,3,1,1,5,Hibernating,Hibernating
+4264,2,2,1,5,Hibernating,Hibernating
+4266,1,2,2,5,Hibernating,Hibernating
+4267,1,2,2,5,Hibernating,Hibernating
+4272,3,1,1,5,Hibernating,Hibernating
+4273,1,2,2,5,Hibernating,Hibernating
+4290,3,1,1,5,Hibernating,Hibernating
+4301,3,1,1,5,Hibernating,Hibernating
+4310,3,1,1,5,Hibernating,Hibernating
+4311,2,1,2,5,Hibernating,Hibernating
+4314,1,1,3,5,Hibernating,Hibernating
+4319,3,1,1,5,Hibernating,Hibernating
+4322,2,2,1,5,Hibernating,Hibernating
+4327,3,1,1,5,Hibernating,Hibernating
+4335,2,2,1,5,Hibernating,Hibernating
+4340,3,1,1,5,Hibernating,Hibernating
+4341,2,2,1,5,Hibernating,Hibernating
+4344,1,3,1,5,At Risk,Hibernating
+4349,3,1,1,5,Hibernating,Hibernating
+4351,2,1,2,5,Hibernating,Hibernating
+4352,2,1,2,5,Hibernating,Hibernating
+4354,2,1,2,5,Hibernating,Hibernating
+4355,1,2,2,5,Hibernating,Hibernating
+4361,2,2,1,5,Hibernating,Hibernating
+4362,2,1,2,5,Hibernating,Hibernating
+4364,1,2,2,5,Hibernating,Hibernating
+4381,3,1,1,5,Hibernating,Hibernating
+4391,2,2,1,5,Hibernating,Hibernating
+4402,2,1,2,5,Hibernating,Hibernating
+4405,3,1,1,5,Hibernating,Hibernating
+4411,1,2,2,5,Hibernating,Hibernating
+4426,1,2,2,5,Hibernating,Hibernating
+4447,2,1,2,5,Hibernating,Hibernating
+4450,2,2,1,5,Hibernating,Hibernating
+4451,3,1,1,5,Hibernating,Hibernating
+4452,2,1,2,5,Hibernating,Hibernating
+4466,1,2,2,5,Hibernating,Hibernating
+4467,3,1,1,5,Hibernating,Hibernating
+4468,3,1,1,5,Hibernating,Hibernating
+4475,3,1,1,5,Hibernating,Hibernating
+4489,3,1,1,5,Hibernating,Hibernating
+4492,2,2,1,5,Hibernating,Hibernating
+4495,1,2,2,5,Hibernating,Hibernating
+4503,3,1,1,5,Hibernating,Hibernating
+4506,2,1,2,5,Hibernating,Hibernating
+4508,1,2,2,5,Hibernating,Hibernating
+4521,1,2,2,5,Hibernating,Hibernating
+4525,1,2,2,5,Hibernating,Hibernating
+4529,1,1,3,5,Hibernating,Hibernating
+4535,1,2,2,5,Hibernating,Hibernating
+4542,2,2,1,5,Hibernating,Hibernating
+4554,1,2,2,5,Hibernating,Hibernating
+4556,1,2,2,5,Hibernating,Hibernating
+4570,1,2,2,5,Hibernating,Hibernating
+4572,3,1,1,5,Hibernating,Hibernating
+4578,1,2,2,5,Hibernating,Hibernating
+4579,2,1,2,5,Hibernating,Hibernating
+4584,2,2,1,5,Hibernating,Hibernating
+4591,1,2,2,5,Hibernating,Hibernating
+4594,3,1,1,5,Hibernating,Hibernating
+4616,1,2,2,5,Hibernating,Hibernating
+4618,2,2,1,5,Hibernating,Hibernating
+4620,1,2,2,5,Hibernating,Hibernating
+4631,2,1,2,5,Hibernating,Hibernating
+4633,3,1,1,5,Hibernating,Hibernating
+4635,3,1,1,5,Hibernating,Hibernating
+4636,3,1,1,5,Hibernating,Hibernating
+4637,1,3,1,5,At Risk,Hibernating
+4642,3,1,1,5,Hibernating,Hibernating
+4644,1,2,2,5,Hibernating,Hibernating
+4652,1,1,3,5,Hibernating,Hibernating
+4655,2,1,2,5,Hibernating,Hibernating
+4668,3,1,1,5,Hibernating,Hibernating
+4670,3,1,1,5,Hibernating,Hibernating
+4674,2,2,1,5,Hibernating,Hibernating
+4678,2,1,2,5,Hibernating,Hibernating
+4695,1,3,1,5,At Risk,Hibernating
+4697,1,2,2,5,Hibernating,Hibernating
+4699,2,2,1,5,Hibernating,Hibernating
+4701,2,2,1,5,Hibernating,Hibernating
+4721,3,1,1,5,Hibernating,Hibernating
+4726,2,2,1,5,Hibernating,Hibernating
+4727,3,1,1,5,Hibernating,Hibernating
+4728,3,1,1,5,Hibernating,Hibernating
+4730,1,2,2,5,Hibernating,Hibernating
+4732,1,2,2,5,Hibernating,Hibernating
+4749,2,2,1,5,Hibernating,Hibernating
+4756,2,2,1,5,Hibernating,Hibernating
+4761,1,2,2,5,Hibernating,Hibernating
+4770,3,1,1,5,Hibernating,Hibernating
+4775,3,1,1,5,Hibernating,Hibernating
+4787,3,1,1,5,Hibernating,Hibernating
+4788,3,1,1,5,Hibernating,Hibernating
+4791,1,3,1,5,At Risk,Hibernating
+4820,1,2,2,5,Hibernating,Hibernating
+4829,1,2,2,5,Hibernating,Hibernating
+4831,2,1,2,5,Hibernating,Hibernating
+4844,2,1,2,5,Hibernating,Hibernating
+4850,1,1,3,5,Hibernating,Hibernating
+4861,2,1,2,5,Hibernating,Hibernating
+4867,3,1,1,5,Hibernating,Hibernating
+4868,1,2,2,5,Hibernating,Hibernating
+4876,3,1,1,5,Hibernating,Hibernating
+4881,1,2,2,5,Hibernating,Hibernating
+4883,1,2,2,5,Hibernating,Hibernating
+4884,2,2,1,5,Hibernating,Hibernating
+4887,2,2,1,5,Hibernating,Hibernating
+4890,3,1,1,5,Hibernating,Hibernating
+4897,2,1,2,5,Hibernating,Hibernating
+4899,1,1,3,5,Hibernating,Hibernating
+4911,1,2,2,5,Hibernating,Hibernating
+4914,2,1,2,5,Hibernating,Hibernating
+4924,3,1,1,5,Hibernating,Hibernating
+4926,3,1,1,5,Hibernating,Hibernating
+4927,1,3,1,5,At Risk,Hibernating
+4933,2,1,2,5,Hibernating,Hibernating
+4934,1,2,2,5,Hibernating,Hibernating
+4937,3,1,1,5,Hibernating,Hibernating
+4950,2,2,1,5,Hibernating,Hibernating
+4956,1,2,2,5,Hibernating,Hibernating
+4967,2,2,1,5,Hibernating,Hibernating
+4977,1,3,1,5,At Risk,Hibernating
+4978,1,2,2,5,Hibernating,Hibernating
+4995,3,1,1,5,Hibernating,Hibernating
+4998,3,1,1,5,Hibernating,Hibernating
+5000,1,2,2,5,Hibernating,Hibernating
+1076,1,2,1,4,Hibernating,Promising
+1170,1,2,1,4,Hibernating,Promising
+1517,1,1,2,4,Hibernating,Promising
+1529,1,2,1,4,Hibernating,Promising
+1674,1,1,2,4,Hibernating,Promising
+2084,1,1,2,4,Hibernating,At Risk
+2119,1,2,1,4,Hibernating,At Risk
+2166,1,2,1,4,Hibernating,At Risk
+2188,2,1,1,4,Hibernating,At Risk
+2190,1,2,1,4,Hibernating,At Risk
+2271,1,2,1,4,Hibernating,At Risk
+2313,1,2,1,4,Hibernating,At Risk
+2314,2,1,1,4,Hibernating,At Risk
+2374,1,1,2,4,Hibernating,At Risk
+2437,1,1,2,4,Hibernating,At Risk
+2461,2,1,1,4,Hibernating,At Risk
+2481,1,1,2,4,Hibernating,At Risk
+2586,2,1,1,4,Hibernating,At Risk
+2648,1,2,1,4,Hibernating,At Risk
+2704,1,2,1,4,Hibernating,At Risk
+2713,1,1,2,4,Hibernating,At Risk
+2732,1,2,1,4,Hibernating,At Risk
+2784,1,2,1,4,Hibernating,At Risk
+2866,1,2,1,4,Hibernating,At Risk
+2998,1,2,1,4,Hibernating,At Risk
+3180,1,1,2,4,Hibernating,At Risk
+3219,1,2,1,4,Hibernating,At Risk
+3244,1,2,1,4,Hibernating,At Risk
+3261,1,1,2,4,Hibernating,Hibernating
+3266,1,1,2,4,Hibernating,Hibernating
+3272,1,1,2,4,Hibernating,Hibernating
+3280,1,1,2,4,Hibernating,Hibernating
+3303,2,1,1,4,Hibernating,Hibernating
+3305,2,1,1,4,Hibernating,Hibernating
+3311,1,2,1,4,Hibernating,Hibernating
+3316,1,1,2,4,Hibernating,Hibernating
+3325,1,2,1,4,Hibernating,Hibernating
+3342,1,1,2,4,Hibernating,Hibernating
+3363,1,1,2,4,Hibernating,Hibernating
+3382,1,1,2,4,Hibernating,Hibernating
+3385,2,1,1,4,Hibernating,Hibernating
+3387,2,1,1,4,Hibernating,Hibernating
+3411,2,1,1,4,Hibernating,Hibernating
+3428,2,1,1,4,Hibernating,Hibernating
+3432,2,1,1,4,Hibernating,Hibernating
+3436,1,1,2,4,Hibernating,Hibernating
+3439,1,1,2,4,Hibernating,Hibernating
+3440,1,1,2,4,Hibernating,Hibernating
+3450,1,2,1,4,Hibernating,Hibernating
+3459,2,1,1,4,Hibernating,Hibernating
+3467,1,1,2,4,Hibernating,Hibernating
+3475,1,2,1,4,Hibernating,Hibernating
+3502,1,1,2,4,Hibernating,Hibernating
+3508,1,1,2,4,Hibernating,Hibernating
+3519,1,1,2,4,Hibernating,Hibernating
+3524,1,2,1,4,Hibernating,Hibernating
+3525,1,2,1,4,Hibernating,Hibernating
+3537,1,1,2,4,Hibernating,Hibernating
+3538,1,1,2,4,Hibernating,Hibernating
+3540,2,1,1,4,Hibernating,Hibernating
+3547,1,2,1,4,Hibernating,Hibernating
+3552,1,1,2,4,Hibernating,Hibernating
+3564,1,2,1,4,Hibernating,Hibernating
+3571,1,1,2,4,Hibernating,Hibernating
+3585,2,1,1,4,Hibernating,Hibernating
+3587,1,2,1,4,Hibernating,Hibernating
+3618,1,1,2,4,Hibernating,Hibernating
+3623,1,1,2,4,Hibernating,Hibernating
+3636,2,1,1,4,Hibernating,Hibernating
+3674,1,2,1,4,Hibernating,Hibernating
+3675,1,1,2,4,Hibernating,Hibernating
+3677,1,2,1,4,Hibernating,Hibernating
+3682,1,1,2,4,Hibernating,Hibernating
+3685,1,2,1,4,Hibernating,Hibernating
+3702,2,1,1,4,Hibernating,Hibernating
+3703,2,1,1,4,Hibernating,Hibernating
+3708,2,1,1,4,Hibernating,Hibernating
+3710,1,1,2,4,Hibernating,Hibernating
+3720,2,1,1,4,Hibernating,Hibernating
+3723,1,2,1,4,Hibernating,Hibernating
+3733,2,1,1,4,Hibernating,Hibernating
+3744,1,1,2,4,Hibernating,Hibernating
+3747,2,1,1,4,Hibernating,Hibernating
+3753,1,1,2,4,Hibernating,Hibernating
+3767,1,2,1,4,Hibernating,Hibernating
+3779,2,1,1,4,Hibernating,Hibernating
+3780,1,2,1,4,Hibernating,Hibernating
+3783,2,1,1,4,Hibernating,Hibernating
+3795,2,1,1,4,Hibernating,Hibernating
+3806,1,1,2,4,Hibernating,Hibernating
+3818,1,1,2,4,Hibernating,Hibernating
+3831,1,2,1,4,Hibernating,Hibernating
+3837,1,2,1,4,Hibernating,Hibernating
+3844,1,1,2,4,Hibernating,Hibernating
+3851,2,1,1,4,Hibernating,Hibernating
+3882,2,1,1,4,Hibernating,Hibernating
+3891,1,1,2,4,Hibernating,Hibernating
+3898,1,1,2,4,Hibernating,Hibernating
+3900,1,2,1,4,Hibernating,Hibernating
+3903,2,1,1,4,Hibernating,Hibernating
+3913,1,2,1,4,Hibernating,Hibernating
+3916,1,2,1,4,Hibernating,Hibernating
+3917,2,1,1,4,Hibernating,Hibernating
+3931,1,2,1,4,Hibernating,Hibernating
+3936,2,1,1,4,Hibernating,Hibernating
+3940,1,2,1,4,Hibernating,Hibernating
+3955,1,2,1,4,Hibernating,Hibernating
+3957,2,1,1,4,Hibernating,Hibernating
+3984,2,1,1,4,Hibernating,Hibernating
+3987,1,1,2,4,Hibernating,Hibernating
+3989,2,1,1,4,Hibernating,Hibernating
+3998,1,2,1,4,Hibernating,Hibernating
+4001,2,1,1,4,Hibernating,Hibernating
+4036,2,1,1,4,Hibernating,Hibernating
+4041,2,1,1,4,Hibernating,Hibernating
+4046,2,1,1,4,Hibernating,Hibernating
+4065,1,1,2,4,Hibernating,Hibernating
+4068,1,2,1,4,Hibernating,Hibernating
+4079,1,1,2,4,Hibernating,Hibernating
+4092,1,1,2,4,Hibernating,Hibernating
+4099,1,2,1,4,Hibernating,Hibernating
+4106,2,1,1,4,Hibernating,Hibernating
+4108,2,1,1,4,Hibernating,Hibernating
+4109,1,1,2,4,Hibernating,Hibernating
+4129,1,1,2,4,Hibernating,Hibernating
+4167,2,1,1,4,Hibernating,Hibernating
+4169,2,1,1,4,Hibernating,Hibernating
+4171,1,2,1,4,Hibernating,Hibernating
+4218,2,1,1,4,Hibernating,Hibernating
+4227,1,1,2,4,Hibernating,Hibernating
+4231,2,1,1,4,Hibernating,Hibernating
+4242,1,1,2,4,Hibernating,Hibernating
+4257,1,1,2,4,Hibernating,Hibernating
+4262,2,1,1,4,Hibernating,Hibernating
+4281,2,1,1,4,Hibernating,Hibernating
+4284,2,1,1,4,Hibernating,Hibernating
+4299,1,2,1,4,Hibernating,Hibernating
+4333,1,1,2,4,Hibernating,Hibernating
+4338,2,1,1,4,Hibernating,Hibernating
+4342,1,2,1,4,Hibernating,Hibernating
+4343,1,1,2,4,Hibernating,Hibernating
+4347,2,1,1,4,Hibernating,Hibernating
+4350,1,1,2,4,Hibernating,Hibernating
+4360,2,1,1,4,Hibernating,Hibernating
+4372,1,2,1,4,Hibernating,Hibernating
+4379,2,1,1,4,Hibernating,Hibernating
+4384,1,1,2,4,Hibernating,Hibernating
+4397,1,2,1,4,Hibernating,Hibernating
+4398,1,1,2,4,Hibernating,Hibernating
+4409,1,2,1,4,Hibernating,Hibernating
+4412,2,1,1,4,Hibernating,Hibernating
+4413,1,2,1,4,Hibernating,Hibernating
+4419,1,1,2,4,Hibernating,Hibernating
+4422,2,1,1,4,Hibernating,Hibernating
+4425,1,2,1,4,Hibernating,Hibernating
+4465,2,1,1,4,Hibernating,Hibernating
+4469,1,2,1,4,Hibernating,Hibernating
+4471,1,2,1,4,Hibernating,Hibernating
+4479,2,1,1,4,Hibernating,Hibernating
+4484,2,1,1,4,Hibernating,Hibernating
+4490,2,1,1,4,Hibernating,Hibernating
+4502,1,2,1,4,Hibernating,Hibernating
+4531,2,1,1,4,Hibernating,Hibernating
+4533,1,2,1,4,Hibernating,Hibernating
+4534,2,1,1,4,Hibernating,Hibernating
+4544,1,2,1,4,Hibernating,Hibernating
+4551,2,1,1,4,Hibernating,Hibernating
+4560,2,1,1,4,Hibernating,Hibernating
+4561,1,2,1,4,Hibernating,Hibernating
+4583,2,1,1,4,Hibernating,Hibernating
+4593,1,2,1,4,Hibernating,Hibernating
+4596,1,1,2,4,Hibernating,Hibernating
+4600,1,2,1,4,Hibernating,Hibernating
+4610,2,1,1,4,Hibernating,Hibernating
+4626,1,2,1,4,Hibernating,Hibernating
+4630,1,1,2,4,Hibernating,Hibernating
+4646,1,2,1,4,Hibernating,Hibernating
+4651,2,1,1,4,Hibernating,Hibernating
+4660,2,1,1,4,Hibernating,Hibernating
+4665,1,1,2,4,Hibernating,Hibernating
+4666,1,1,2,4,Hibernating,Hibernating
+4686,1,1,2,4,Hibernating,Hibernating
+4696,1,1,2,4,Hibernating,Hibernating
+4709,1,2,1,4,Hibernating,Hibernating
+4725,1,1,2,4,Hibernating,Hibernating
+4736,1,2,1,4,Hibernating,Hibernating
+4738,1,2,1,4,Hibernating,Hibernating
+4739,1,1,2,4,Hibernating,Hibernating
+4744,1,1,2,4,Hibernating,Hibernating
+4753,2,1,1,4,Hibernating,Hibernating
+4754,1,1,2,4,Hibernating,Hibernating
+4780,1,2,1,4,Hibernating,Hibernating
+4793,2,1,1,4,Hibernating,Hibernating
+4796,1,2,1,4,Hibernating,Hibernating
+4809,1,2,1,4,Hibernating,Hibernating
+4817,1,1,2,4,Hibernating,Hibernating
+4839,1,1,2,4,Hibernating,Hibernating
+4843,2,1,1,4,Hibernating,Hibernating
+4852,1,2,1,4,Hibernating,Hibernating
+4854,1,1,2,4,Hibernating,Hibernating
+4859,1,2,1,4,Hibernating,Hibernating
+4870,1,1,2,4,Hibernating,Hibernating
+4871,2,1,1,4,Hibernating,Hibernating
+4880,2,1,1,4,Hibernating,Hibernating
+4896,1,2,1,4,Hibernating,Hibernating
+4903,1,1,2,4,Hibernating,Hibernating
+4923,1,2,1,4,Hibernating,Hibernating
+4943,2,1,1,4,Hibernating,Hibernating
+4945,1,1,2,4,Hibernating,Hibernating
+4954,1,2,1,4,Hibernating,Hibernating
+4960,1,1,2,4,Hibernating,Hibernating
+4982,1,1,2,4,Hibernating,Hibernating
+4987,1,2,1,4,Hibernating,Hibernating
+4997,2,1,1,4,Hibernating,Hibernating
+1480,1,1,1,3,Hibernating,Promising
+1575,1,1,1,3,Hibernating,Promising
+1697,1,1,1,3,Hibernating,Promising
+2117,1,1,1,3,Hibernating,At Risk
+2155,1,1,1,3,Hibernating,At Risk
+2429,1,1,1,3,Hibernating,At Risk
+2554,1,1,1,3,Hibernating,At Risk
+2573,1,1,1,3,Hibernating,At Risk
+2658,1,1,1,3,Hibernating,At Risk
+2839,1,1,1,3,Hibernating,At Risk
+3260,1,1,1,3,Hibernating,Hibernating
+3302,1,1,1,3,Hibernating,Hibernating
+3333,1,1,1,3,Hibernating,Hibernating
+3346,1,1,1,3,Hibernating,Hibernating
+3349,1,1,1,3,Hibernating,Hibernating
+3352,1,1,1,3,Hibernating,Hibernating
+3355,1,1,1,3,Hibernating,Hibernating
+3381,1,1,1,3,Hibernating,Hibernating
+3426,1,1,1,3,Hibernating,Hibernating
+3473,1,1,1,3,Hibernating,Hibernating
+3477,1,1,1,3,Hibernating,Hibernating
+3491,1,1,1,3,Hibernating,Hibernating
+3492,1,1,1,3,Hibernating,Hibernating
+3511,1,1,1,3,Hibernating,Hibernating
+3512,1,1,1,3,Hibernating,Hibernating
+3516,1,1,1,3,Hibernating,Hibernating
+3534,1,1,1,3,Hibernating,Hibernating
+3554,1,1,1,3,Hibernating,Hibernating
+3573,1,1,1,3,Hibernating,Hibernating
+3595,1,1,1,3,Hibernating,Hibernating
+3691,1,1,1,3,Hibernating,Hibernating
+3721,1,1,1,3,Hibernating,Hibernating
+3735,1,1,1,3,Hibernating,Hibernating
+3762,1,1,1,3,Hibernating,Hibernating
+3770,1,1,1,3,Hibernating,Hibernating
+3789,1,1,1,3,Hibernating,Hibernating
+3814,1,1,1,3,Hibernating,Hibernating
+3846,1,1,1,3,Hibernating,Hibernating
+3912,1,1,1,3,Hibernating,Hibernating
+3930,1,1,1,3,Hibernating,Hibernating
+3978,1,1,1,3,Hibernating,Hibernating
+3985,1,1,1,3,Hibernating,Hibernating
+4015,1,1,1,3,Hibernating,Hibernating
+4058,1,1,1,3,Hibernating,Hibernating
+4147,1,1,1,3,Hibernating,Hibernating
+4150,1,1,1,3,Hibernating,Hibernating
+4188,1,1,1,3,Hibernating,Hibernating
+4200,1,1,1,3,Hibernating,Hibernating
+4205,1,1,1,3,Hibernating,Hibernating
+4254,1,1,1,3,Hibernating,Hibernating
+4263,1,1,1,3,Hibernating,Hibernating
+4265,1,1,1,3,Hibernating,Hibernating
+4285,1,1,1,3,Hibernating,Hibernating
+4288,1,1,1,3,Hibernating,Hibernating
+4315,1,1,1,3,Hibernating,Hibernating
+4324,1,1,1,3,Hibernating,Hibernating
+4353,1,1,1,3,Hibernating,Hibernating
+4375,1,1,1,3,Hibernating,Hibernating
+4404,1,1,1,3,Hibernating,Hibernating
+4410,1,1,1,3,Hibernating,Hibernating
+4428,1,1,1,3,Hibernating,Hibernating
+4460,1,1,1,3,Hibernating,Hibernating
+4462,1,1,1,3,Hibernating,Hibernating
+4493,1,1,1,3,Hibernating,Hibernating
+4504,1,1,1,3,Hibernating,Hibernating
+4509,1,1,1,3,Hibernating,Hibernating
+4515,1,1,1,3,Hibernating,Hibernating
+4558,1,1,1,3,Hibernating,Hibernating
+4581,1,1,1,3,Hibernating,Hibernating
+4585,1,1,1,3,Hibernating,Hibernating
+4603,1,1,1,3,Hibernating,Hibernating
+4623,1,1,1,3,Hibernating,Hibernating
+4634,1,1,1,3,Hibernating,Hibernating
+4645,1,1,1,3,Hibernating,Hibernating
+4659,1,1,1,3,Hibernating,Hibernating
+4747,1,1,1,3,Hibernating,Hibernating
+4762,1,1,1,3,Hibernating,Hibernating
+4804,1,1,1,3,Hibernating,Hibernating
+4824,1,1,1,3,Hibernating,Hibernating
+4836,1,1,1,3,Hibernating,Hibernating
+4866,1,1,1,3,Hibernating,Hibernating
+4915,1,1,1,3,Hibernating,Hibernating
+4929,1,1,1,3,Hibernating,Hibernating
+4940,1,1,1,3,Hibernating,Hibernating
+4963,1,1,1,3,Hibernating,Hibernating
+4964,1,1,1,3,Hibernating,Hibernating
+4980,1,1,1,3,Hibernating,Hibernating
+4988,1,1,1,3,Hibernating,Hibernating
