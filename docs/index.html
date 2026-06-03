@@ -325,20 +325,6 @@ document.getElementById('darkToggle').addEventListener('click', () => {
   });
 });
 
-/* ── Oct '24 outlier annotation ── */
-Plotly.relayout(D, {
-  'annotations[6]': {
-    x: 'D1', y: "Oct '24",
-    xref: 'x2', yref: 'y2',
-    text: '⚠ small cohort',
-    showarrow: true, arrowhead: 2, arrowsize: 0.8,
-    arrowwidth: 1, arrowcolor: '#94A3B8',
-    font: { size: 9, color: '#64748B', family: 'DM Mono' },
-    ax: 35, ay: 15,
-    bgcolor: 'rgba(255,255,255,0.9)',
-    bordercolor: '#E2E8F0', borderwidth: 0.5, borderpad: 3,
-  }
-});
 
 /* ── Init ── */
 const savedTheme = localStorage.getItem('theme') || 'light';
