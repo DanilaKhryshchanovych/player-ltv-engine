@@ -6,7 +6,7 @@ End-to-end analysis of 5,000 casino players identifying the acquisition channels
 
 🔗 https://danilakhryshchanovych.github.io/player-ltv-engine/
 
-## Executive Memo
+## Executive Summary
 
 📄 [Read Executive Summary](./EXECUTIVE_SUMMARY.md)
 
