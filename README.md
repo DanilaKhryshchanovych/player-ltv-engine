@@ -2,6 +2,14 @@
 
 End-to-end analysis of 5,000 casino players identifying the acquisition channels, D7 behavioral signals, and retention levers that drive 90-day GGR.
 
+## Live Dashboard
+
+🔗 https://danilakhryshchanovych.github.io/player-ltv-engine/
+
+## Executive Memo
+
+📄 [Read Executive Summary](./EXECUTIVE_SUMMARY.md)
+
 ## Business Problem
 
 LuckyEdge Casino's customer acquisition cost rose 34% QoQ while 90-day LTV remained flat. Of 5,000 registered players generating $144,636 in total 90-day GGR, the distribution of value is so skewed that blended LTV metrics hide the real opportunity: most revenue comes from a small, identifiable segment that behaves differently from day one.
